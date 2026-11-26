@@ -293,9 +293,12 @@ function renderAreas(u) {
 async function renderEmblematicas(u, cercanas, elevP, run) {
   const box = $('#r-emblematicas');
   if (!DB || !DB.especies.length) { box.innerHTML = ''; return; }
+  box.innerHTML = `<h2>Especies emblemáticas de la zona</h2>${loadingHTML('Seleccionando especies…')}`;
   const regs = new Set(u.regiones);
-  for (const { a, km } of cercanas) if (km <= 8 && a.region === 'lagos') regs.add('lagos');
+  // Lagos, lagunas cratéricas y ríos cercanos (p. ej. Apoyo, Xiloá) suman la región de agua dulce.
+  for (const { a, km } of cercanas) if (km <= 6 && (a.region === 'lagos' || /\blag(o|una)\b/i.test(a.nombre))) regs.add('lagos');
 
+  // Puntuación: lo local pesa más que lo regional; lo raro (pocas áreas, endémico) pesa más que lo común.
   const score = new Map();
   const add = (id, s, motivo) => {
     if (!DB.especie(id)) return;
@@ -304,11 +307,12 @@ async function renderEmblematicas(u, cercanas, elevP, run) {
     score.set(id, cur);
   };
   for (const { a, km } of cercanas.filter((x) => x.km <= 30)) {
-    for (const sp of DB.especiesDeArea(a.id)) add(sp.id, 3 + 5 / (km + 1), a.nombre);
+    for (const sp of DB.especiesDeArea(a.id)) {
+      const especificidad = 4 / Math.max(1, DB.areasDeEspecie(sp.id).length);
+      add(sp.id, 2 + 4 / (km + 1) + especificidad + (sp.endemica ? 2 : 0), a.nombre);
+    }
   }
-  for (const r of regs) {
-    for (const id of DB.regiones[r]?.especies_emblematicas || []) add(id, 2, null);
-  }
+  for (const r of regs) for (const id of DB.regiones[r]?.especies_emblematicas || []) add(id, 1.5, null);
   for (const sp of DB.especies) {
     if ((sp.regiones || []).some((r) => regs.has(r))) add(sp.id, 1 + (sp.simbolo_nacional ? 0.5 : 0) + (sp.endemica ? 0.5 : 0), null);
   }
@@ -317,47 +321,45 @@ async function renderEmblematicas(u, cercanas, elevP, run) {
   if (elev != null) {
     for (const [id, v] of score) {
       const alt = DB.especie(id).altitud_m;
-      if (Array.isArray(alt) && (elev < alt[0] - 250 || elev > alt[1] + 250)) v.s -= 4;
+      if (Array.isArray(alt) && (elev < alt[0] - 250 || elev > alt[1] + 250)) v.s -= 5;
     }
   }
-  const top = [...score.entries()].filter(([, v]) => v.s > 0).sort((a, b) => b[1].s - a[1].s).slice(0, 12)
-    .map(([id, v]) => ({ sp: DB.especie(id), motivos: [...v.motivos] }));
-  if (!top.length) { box.innerHTML = ''; return; }
+  const candidatas = [...score.entries()].filter(([, v]) => v.s > 0).sort((a, b) => b[1].s - a[1].s).slice(0, 24);
+  if (!candidatas.length) { box.innerHTML = ''; return; }
+
+  // ¿Cuáles tienen observaciones verificadas dentro del radio? (una consulta a iNaturalist)
+  const lista = candidatas.map(([id]) => DB.especie(id));
+  const taxa = await taxaParaEspecies(lista);
+  if (run !== state.run) return;
+  let vistos = new Set();
+  const ids = [...taxa.values()].map((t) => t.id);
+  if (ids.length) {
+    try {
+      const esp = await inat.speciesCounts({ lat: u.lat, lng: u.lon, radius: state.radius, taxonIds: ids, perPage: 100 });
+      vistos = new Set((esp.results || []).map((r) => r.taxon.id));
+    } catch (e) { console.warn(e); }
+  }
+  if (run !== state.run) return;
+  const enRadio = (id) => vistos.has(taxa.get(id)?.id);
+  for (const [id, v] of candidatas) if (enRadio(id)) v.s += 3;
+  const top = candidatas.sort((a, b) => b[1].s - a[1].s).slice(0, 12)
+    .map(([id, v]) => ({ sp: DB.especie(id), motivos: [...v.motivos], cerca: enRadio(id), foto: taxa.get(id)?.default_photo }));
 
   box.innerHTML = `
     <h2>Especies emblemáticas de la zona</h2>
-    <p class="small muted" style="margin-top:-4px">Seleccionadas de nuestro catálogo curado según la región, las áreas protegidas cercanas${elev != null ? ' y la altitud' : ''}.
-    <span class="near-flag">● Registrada en el radio</span> indica observaciones verificadas en iNaturalist dentro de ${state.radius} km.</p>
+    <p class="small muted" style="margin-top:-4px">Seleccionadas de nuestro catálogo curado según ${elev != null ? 'la región, las áreas protegidas cercanas y la altitud' : 'la región y las áreas protegidas cercanas'}.
+    <span class="near-flag">● En el radio</span> indica observaciones verificadas en iNaturalist dentro de ${state.radius} km.</p>
     <div class="mini-grid">
-      ${top.map(({ sp, motivos }) => `
+      ${top.map(({ sp, motivos, cerca, foto }) => {
+        const img = photoUrl(foto, 'small');
+        return `
         <a class="mini-card" href="${url(`especie.html?id=${sp.id}`)}" title="${esc(motivos.length ? `Documentada en: ${motivos.join(', ')}` : '')}">
-          <div class="mini-photo" data-photo-for="${esc(sp.id)}"></div>
+          <div class="mini-photo">${img ? `<img src="${esc(img)}" alt="" loading="lazy" title="${esc(photoCredit(foto))}">` : ''}${cerca ? '<span class="near-badge">● En el radio</span>' : ''}</div>
           <div class="mini-txt"><b>${esc(sp.nombres_comunes?.[0] || sp.nombre_cientifico)}</b><i>${esc(sp.nombre_cientifico)}</i>
-          <div style="margin-top:4px">${badgeUICN(sp.uicn)}</div></div>
-        </a>`).join('')}
+          <div style="margin-top:4px">${badgeUICN(sp.uicn)}${sp.endemica ? ' <span class="chip">Endémica</span>' : ''}</div></div>
+        </a>`;
+      }).join('')}
     </div>`;
-
-  const lista = top.map((x) => x.sp);
-  const taxa = await taxaParaEspecies(lista, (id, t) => {
-    const ph = box.querySelector(`[data-photo-for="${CSS.escape(id)}"]`);
-    const img = photoUrl(t?.default_photo, 'small');
-    if (ph && img) ph.innerHTML = `<img src="${esc(img)}" alt="" loading="lazy" title="${esc(photoCredit(t.default_photo))}">`;
-  });
-  if (run !== state.run) return;
-  // ¿Cuáles tienen observaciones verificadas dentro del radio? Una sola consulta a iNaturalist.
-  const ids = [...taxa.values()].map((t) => t.id);
-  if (!ids.length) return;
-  try {
-    const esp = await inat.speciesCounts({ lat: u.lat, lng: u.lon, radius: state.radius, taxonIds: ids, perPage: 100 });
-    if (run !== state.run) return;
-    const vistos = new Set((esp.results || []).map((r) => r.taxon.id));
-    for (const [sid, t] of taxa) {
-      if (vistos.has(t.id)) {
-        const ph = box.querySelector(`[data-photo-for="${CSS.escape(sid)}"]`);
-        ph?.insertAdjacentHTML('beforeend', '<span class="near-badge">● En el radio</span>');
-      }
-    }
-  } catch (e) { console.warn(e); }
 }
 
 /* ------------------------------------------------------------------ */

@@ -1,6 +1,6 @@
 // Página de inicio: estadísticas en vivo, regiones, especies y áreas destacadas.
 import { CONFIG } from './config.js';
-import { $, esc, fmt, layout, url, speciesCard, fillCardPhoto, chipRegion } from './common.js';
+import { $, esc, fmt, layout, url, speciesCard, fillCardPhoto, chipRegion, designacionCorta } from './common.js';
 import { inat, gbif } from './api.js';
 import { db, taxaParaEspecies } from './datos.js';
 
@@ -48,7 +48,7 @@ db().then((D) => {
       <div class="card-body">
         <div class="small muted" style="font-weight:600">${esc(a.categoria || '')}</div>
         <h3 style="margin:4px 0 6px">${esc(a.nombre)}</h3>
-        <div class="chips" style="margin:8px 0">${chipRegion(a.region, D.regiones)}${(a.designaciones || []).slice(0, 2).map((d) => `<span class="chip">${esc(d.replace(/\s*\(.*\)/, ''))}</span>`).join('')}</div>
+        <div class="chips" style="margin:8px 0">${chipRegion(a.region, D.regiones)}${(a.designaciones || []).slice(0, 2).map((d) => `<span class="chip" title="${esc(d)}">${esc(designacionCorta(d))}</span>`).join('')}</div>
         <p class="small" style="margin:0;color:var(--text-soft)">${esc((a.importancia || a.descripcion || '').slice(0, 150))}…</p>
       </div>
     </a>`).join('');

@@ -2,7 +2,7 @@
 import { CONFIG } from './config.js';
 import {
   $, $$, esc, fmt, layout, url, param, GRUPOS, UICN, badgeUICN, badgeVerif, chipRegion, photoUrl, photoCredit,
-  loadingHTML, errorHTML, ESTADOS,
+  loadingHTML, errorHTML, ESTADOS, cap,
 } from './common.js';
 import { inat, inatIUCN, gbif, stri } from './api.js';
 import { db } from './datos.js';
@@ -51,7 +51,7 @@ async function init() {
 
 function render({ sp, taxon, nombreCientifico, gbifKey, D }) {
   const comun = sp?.nombres_comunes?.[0] || taxon?.preferred_common_name || nombreCientifico;
-  document.title = `${comun} (${nombreCientifico}) · ${CONFIG.nombreSitio}`;
+  document.title = `${cap(comun)} (${nombreCientifico}) · ${CONFIG.nombreSitio}`;
   const fotos = (taxon?.taxon_photos?.map((tp) => tp.photo) || (taxon?.default_photo ? [taxon.default_photo] : [])).slice(0, 8);
   const uicn = sp?.uicn || inatIUCN(taxon);
   const grupo = sp ? GRUPOS[sp.grupo] : null;

@@ -230,7 +230,7 @@ button, input, select, textarea { font: inherit; color: inherit; }
 
 .badge-verif {
   display: inline-flex; align-items: center; gap: 5px; font-size: .72rem; font-weight: 600;
-  padding: 2px 8px; border-radius: 999px; border: 1px dashed var(--border-strong); color: var(--text-muted);
+  padding: 2px 8px; border-radius: 999px; border: 1px dashed var(--border-strong); color: var(--text-muted); white-space: nowrap;
 }
 .badge-verif[data-estado="verificado"] { border-style: solid; border-color: var(--verde-500); color: var(--verde-500); }
 .badge-verif[data-estado="revisar"] { border-color: var(--volcan); color: var(--volcan); }
@@ -465,3 +465,8 @@ table.data tr:last-child td { border-bottom: none; }
   .site-header, .site-footer, .no-print { display: none !important; }
   body { background: #fff; }
 }
+
+/* Los nombres comunes se guardan en minúscula; se muestran con mayúscula inicial. */
+.sp-name::first-letter, .mini-txt b::first-letter, .sp-title h1::first-letter { text-transform: uppercase; }
+.sp-row .sp-name { display: inline-block; }
+.chips .chip { max-width: 100%; overflow: hidden; text-overflow: ellipsis; }

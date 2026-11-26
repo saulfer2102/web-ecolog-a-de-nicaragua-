@@ -27,6 +27,19 @@ export function norm(s) {
   return String(s ?? '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().trim();
 }
 
+/** Mayúscula inicial (los nombres comunes se guardan en minúscula). */
+export const cap = (s) => (s ? s.charAt(0).toUpperCase() + s.slice(1) : s);
+
+/** Versión corta de una designación internacional, para chips. */
+export function designacionCorta(d) {
+  if (/ramsar/i.test(d)) return 'Sitio Ramsar';
+  if (/biosfera/i.test(d)) return 'Reserva de Biosfera';
+  if (/geoparque/i.test(d)) return 'Geoparque UNESCO';
+  if (/patrimonio/i.test(d)) return 'Patrimonio Mundial';
+  const corta = d.replace(/\s*\(.*\)/, '');
+  return corta.length > 38 ? `${corta.slice(0, 36)}…` : corta;
+}
+
 export function debounce(fn, ms = 300) {
   let t;
   return (...a) => { clearTimeout(t); t = setTimeout(() => fn(...a), ms); };

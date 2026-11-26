@@ -1,6 +1,6 @@
 // Listado y mapa de áreas protegidas y sitios de importancia ecológica.
 import { CONFIG } from './config.js';
-import { $, $$, esc, fmt, layout, url, norm, debounce, chipRegion, badgeVerif, loadingHTML, errorHTML, loadData, REGIONES_BASE } from './common.js';
+import { $, $$, esc, fmt, layout, url, norm, debounce, chipRegion, designacionCorta, badgeVerif, loadingHTML, errorHTML, loadData, REGIONES_BASE } from './common.js';
 import { db } from './datos.js';
 
 layout('areas.html');
@@ -34,7 +34,7 @@ db().then((D) => {
           <div class="small muted" style="font-weight:600">${esc(a.categoria || '')}</div>
           <h3 style="margin:4px 0 6px">${esc(a.nombre)}</h3>
           <div class="small muted">${esc((a.departamentos || []).join(', '))}${a.area_ha ? ` · ${fmt(Math.round(a.area_ha))} ha aprox.` : ''}${a.anio_declaracion ? ` · desde ${a.anio_declaracion}` : ''}</div>
-          <div class="chips" style="margin-top:10px">${chipRegion(a.region, D.regiones)}${(a.designaciones || []).map((d) => `<span class="chip">${esc(d.replace(/\s*\(.*\)/, ''))}</span>`).join('')}</div>
+          <div class="chips" style="margin-top:10px">${chipRegion(a.region, D.regiones)}${(a.designaciones || []).map((d) => `<span class="chip" title="${esc(d)}">${esc(designacionCorta(d))}</span>`).join('')}</div>
           <p class="small" style="margin:10px 0 8px;color:var(--text-soft)">${esc((a.descripcion || '').slice(0, 170))}${(a.descripcion || '').length > 170 ? '…' : ''}</p>
           ${badgeVerif(a.verificacion)}
         </div>

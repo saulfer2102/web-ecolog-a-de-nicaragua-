@@ -39,12 +39,12 @@ const barajar = (a) => { const r = [...a]; for (let i = r.length - 1; i > 0; i--
 const fotoHTML = (especieId, emoji, size = 'medium') => {
   const p = fotos.get(especieId);
   const img = photoUrl(p, size);
-  return img ? `<img src="${esc(img)}" alt="" loading="lazy">` : `<span aria-hidden="true">${emoji || '🌿'}</span>`;
+  return img ? `<img src="${esc(img)}" alt="" loading="lazy" title="Foto: ${esc(photoCredit(p))}">` : `<span aria-hidden="true">${emoji || '🌿'}</span>`;
 };
 function pintarFotosPendientes() {
   $$('[data-k-foto]').forEach((el) => {
     const p = fotos.get(el.dataset.kFoto);
-    if (p && !el.querySelector('img')) el.innerHTML = `<img src="${esc(photoUrl(p, el.dataset.size || 'medium'))}" alt="" loading="lazy">`;
+    if (p && !el.querySelector('img')) el.innerHTML = `<img src="${esc(photoUrl(p, el.dataset.size || 'medium'))}" alt="" loading="lazy" title="Foto: ${esc(photoCredit(p))}">`;
   });
 }
 function seleccionarTab(s) {
