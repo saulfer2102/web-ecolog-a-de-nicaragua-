@@ -189,8 +189,14 @@ async function main() {
         try {
           const m = await gbif(`/species/match?name=${encodeURIComponent(s.nombre_cientifico)}`);
           r.gbif = { matchType: m.matchType, status: m.status, rank: m.rank, key: m.usageKey, aceptado: m.acceptedUsageKey || m.usageKey, familia: m.family, nombre: m.canonicalName };
-          if (m.matchType === 'NONE' || m.matchType === 'HIGHERRANK') alerta(rep.especies, s.id, `GBIF no reconoce el nombre (coincidencia: ${m.matchType})`);
-          else {
+          if (m.matchType === 'NONE' || m.matchType === 'HIGHERRANK') {
+            alerta(rep.especies, s.id, `GBIF no reconoce el nombre (coincidencia: ${m.matchType})${s.ids?.gbif ? `; se usa la clave fijada a mano ${s.ids.gbif}` : ''}`);
+            if (s.ids?.gbif) {
+              r.gbif.manual = s.ids.gbif;
+              const c = await gbif(`/occurrence/search?taxonKey=${s.ids.gbif}&country=NI&limit=0`);
+              (r.registrosNI ||= {}).gbif = c.count;
+            }
+          } else {
             if (m.status === 'SYNONYM' || m.status === 'HETEROTYPIC_SYNONYM' || m.status === 'HOMOTYPIC_SYNONYM') {
               const acc = await gbif(`/species/${m.acceptedUsageKey}`).catch(() => null);
               r.gbif.nombreAceptado = acc?.canonicalName;
