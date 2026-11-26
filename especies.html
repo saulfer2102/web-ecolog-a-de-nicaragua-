@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Especies · Atlas Vivo de Nicaragua</title>
+  <meta name="description" content="Catálogo de especies emblemáticas de la flora y fauna de Nicaragua, con descripciones, estado de conservación y fuentes, y un buscador de cualquier especie.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/styles.css">
+  <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+</head>
+<body>
+  <main>
+    <section class="page-head">
+      <div class="container">
+        <span class="eyebrow">Catálogo curado</span>
+        <h1>Especies de Nicaragua</h1>
+        <p class="lead">Una selección de especies emblemáticas, endémicas, amenazadas o importantes para la gente, con fichas escritas a partir de fuentes científicas. Más abajo puedes buscar <strong>cualquier</strong> especie en los datos abiertos de iNaturalist y GBIF.</p>
+      </div>
+    </section>
+
+    <section class="container">
+      <div class="filters" id="filtros">
+        <div class="search-bar">
+          <label for="buscar" class="visually-hidden">Buscar en el catálogo</label>
+          <input id="buscar" class="input" type="search" placeholder="Buscar por nombre común o científico…" autocomplete="off">
+        </div>
+        <div class="seg" id="f-grupo" role="group" aria-label="Grupo"></div>
+        <div class="filters-row">
+          <label class="visually-hidden" for="f-region">Región</label>
+          <select id="f-region" class="select"><option value="">Todas las regiones</option></select>
+          <label class="visually-hidden" for="f-orden">Ordenar</label>
+          <select id="f-orden" class="select">
+            <option value="nombre">Ordenar: nombre común</option>
+            <option value="cientifico">Ordenar: nombre científico</option>
+            <option value="amenaza">Ordenar: más amenazadas primero</option>
+          </select>
+          <label class="check"><input type="checkbox" id="f-amenazadas"> Amenazadas (CR, EN, VU)</label>
+          <label class="check"><input type="checkbox" id="f-endemicas"> Endémicas de Nicaragua</label>
+          <label class="check"><input type="checkbox" id="f-simbolos"> Símbolos nacionales</label>
+          <span class="spacer"></span>
+          <span class="result-count" id="conteo"></span>
+        </div>
+      </div>
+      <div class="grid grid-4" id="grid"></div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="card card-body" style="padding:28px">
+          <span class="eyebrow">Buscador universal</span>
+          <h2>¿No encuentras una especie?</h2>
+          <p class="muted">Busca entre los cientos de miles de taxones de iNaturalist. Verás su descripción (resumen de Wikipedia), fotos, mapa de registros en Nicaragua según GBIF y en qué meses se observa.</p>
+          <div class="search-bar" style="max-width:640px">
+            <label for="buscar-global" class="visually-hidden">Buscar cualquier especie</label>
+            <input id="buscar-global" class="input" type="search" placeholder="Ej. colibrí, orquídea, Morpho, Ficus…" autocomplete="off">
+          </div>
+          <div id="global-res" class="sp-list" style="margin-top:14px;max-width:760px"></div>
+        </div>
+      </div>
+    </section>
+  </main>
+  <script type="module" src="assets/js/especies.js"></script>
+</body>
+</html>

@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Fuentes y método · Atlas Vivo de Nicaragua</title>
+  <meta name="description" content="De dónde vienen los datos del Atlas Vivo de Nicaragua, cómo se calculan las especies probables, cómo se verifica el contenido y cómo citarlo.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/styles.css">
+  <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+</head>
+<body>
+  <main class="container">
+    <section class="page-head doc">
+      <span class="eyebrow">Transparencia</span>
+      <h1>Fuentes y método</h1>
+      <p class="lead">Este atlas combina dos tipos de información: <strong>contenido curado</strong> (fichas escritas a partir de literatura científica y revisadas por personas expertas) y <strong>datos abiertos en vivo</strong> que se consultan en el momento desde repositorios internacionales de biodiversidad.</p>
+    </section>
+
+    <article class="doc">
+      <h2 id="fuentes">Fuentes de datos en vivo</h2>
+      <h3>GBIF — Infraestructura Mundial de Información en Biodiversidad</h3>
+      <p>Red internacional que publica cientos de millones de registros de presencia de especies: especímenes de museos y herbarios, inventarios, monitoreos y plataformas de ciencia ciudadana. Usamos su <a href="https://techdocs.gbif.org/en/openapi/" target="_blank" rel="noopener">API pública</a> para: contar registros de cada especie alrededor de un punto (búsqueda por distancia geográfica), contar registros por especie en Nicaragua, emparejar nombres científicos con su taxonomía (<em>GBIF Backbone</em>) y dibujar mapas de densidad.</p>
+      <blockquote>Cita sugerida: GBIF.org (año). Búsqueda de ocurrencias de GBIF. https://www.gbif.org (consultado en la fecha de uso).</blockquote>
+
+      <h3>iNaturalist</h3>
+      <p>Plataforma de ciencia ciudadana de la Academia de Ciencias de California y la National Geographic Society. Usamos únicamente observaciones de <strong>grado de investigación</strong> (con foto o sonido, fecha, ubicación y una identificación respaldada por al menos dos tercios de la comunidad) para la lista de especies probables. También mostramos las fotografías de la comunidad bajo sus licencias Creative Commons, con la autoría en cada imagen, y los resúmenes de Wikipedia que iNaturalist asocia a cada taxón.</p>
+
+      <h3>eBird</h3>
+      <p>Programa de ciencia ciudadana sobre aves del Laboratorio de Ornitología de Cornell. De dos formas:</p>
+      <ul>
+        <li><strong>Sin clave:</strong> mediante el conjunto <em>EOD – eBird Observation Dataset</em>, que eBird publica en GBIF con los registros históricos revisados.</li>
+        <li><strong>Con clave gratuita</strong> (<a href="https://ebird.org/api/keygen" target="_blank" rel="noopener">ebird.org/api/keygen</a>): aves reportadas en los últimos 30 días y sitios de observación (hotspots) alrededor del punto. La clave se guarda solo en tu navegador y se envía únicamente a eBird.</li>
+      </ul>
+      <blockquote>Cita sugerida: eBird. eBird: una base de datos en línea sobre la abundancia y distribución de aves. Cornell Lab of Ornithology, Ithaca, Nueva York. https://ebird.org</blockquote>
+
+      <h3>Smithsonian Tropical Research Institute (STRI) — Peces</h3>
+      <p>Los sistemas de información <em>Shorefishes of the Greater Caribbean</em> y <em>Shorefishes of the Tropical Eastern Pacific</em> contienen fichas de los peces costeros de ambos mares de Nicaragua, con fotografías, mapas de distribución y datos biológicos. Extrajimos sus listas sistemáticas (nombre científico y número de ficha) para enlazar cada pez marino con su página. No cubren peces estrictamente de agua dulce.</p>
+      <blockquote>Robertson, D. R. y Van Tassell, J. (2019). <em>Shorefishes of the Greater Caribbean: online information system</em>. Versión 2.0. Smithsonian Tropical Research Institute, Balboa, Panamá.<br>
+      Robertson, D. R. y Allen, G. R. (2015). <em>Shorefishes of the Tropical Eastern Pacific: online information system</em>. Versión 2.0. Smithsonian Tropical Research Institute, Balboa, Panamá.</blockquote>
+
+      <h3>Cartografía</h3>
+      <ul>
+        <li>Mapas base: © colaboradores de <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>; imágenes satelitales de Esri; relieve de OpenTopoMap.</li>
+        <li>Límites municipales y departamentales: <a href="https://www.geoboundaries.org" target="_blank" rel="noopener">geoBoundaries</a> (derivados de OpenStreetMap, licencia ODbL), simplificados. Son aproximados y no tienen valor oficial.</li>
+        <li>Lagos y países vecinos: Natural Earth (dominio público).</li>
+        <li>Búsqueda de lugares: Nominatim (OpenStreetMap). Altitud: Open-Meteo (modelo digital de elevación Copernicus).</li>
+      </ul>
+
+      <h2 id="metodo">¿Cómo se calculan las "especies probables"?</h2>
+      <p>Al elegir un punto y un radio, consultamos cuántas observaciones verificadas existen de cada especie dentro de ese círculo y las ordenamos de mayor a menor. La etiqueta de frecuencia compara cada especie con la más registrada del mismo lugar:</p>
+      <ul>
+        <li><strong>Muy frecuente:</strong> al menos la mitad de registros que la especie más registrada.</li>
+        <li><strong>Frecuente:</strong> entre 20 % y 50 %.</li>
+        <li><strong>Ocasional:</strong> entre 5 % y 20 %.</li>
+        <li><strong>Poco registrada:</strong> menos de 5 %.</li>
+      </ul>
+      <p>Esto <strong>no es una probabilidad de avistamiento en sentido estricto</strong>. Es un indicador que tiene sesgos conocidos:</p>
+      <ul>
+        <li><strong>Esfuerzo de muestreo:</strong> los lugares turísticos o cercanos a ciudades tienen muchos más registros que zonas remotas como Bosawás o la Costa Caribe.</li>
+        <li><strong>Detectabilidad:</strong> las especies grandes, coloridas, ruidosas o fáciles de fotografiar están sobrerrepresentadas; las nocturnas, crípticas o de dosel, subrepresentadas.</li>
+        <li><strong>Estacionalidad:</strong> las aves migratorias solo están presentes parte del año. Activa "Solo registros de esta época del año" para filtrar por el mes actual ± 1.</li>
+        <li><strong>Especies sensibles:</strong> iNaturalist y GBIF ocultan o difuminan la ubicación exacta de especies amenazadas para protegerlas del saqueo, por lo que pueden no aparecer en radios pequeños.</li>
+      </ul>
+      <p>Las <strong>especies emblemáticas de la zona</strong> no se calculan con datos en vivo: salen del catálogo curado, según la región del punto (Pacífico, Centro-Norte, Caribe, lagos, costas), las áreas protegidas cercanas en las que la especie está documentada y, cuando se conoce, su rango de altitud. La marca "En el radio" indica que además hay observaciones verificadas en iNaturalist dentro del círculo.</p>
+      <p>La <strong>región</strong> de cada punto se determina sin conexión con los límites municipales: Pacífico (Chinandega, León, Managua, Masaya, Carazo, Granada, Rivas), Centro y Norte (Nueva Segovia, Madriz, Estelí, Jinotega, Matagalpa, Boaco, Chontales) y Caribe (Costa Caribe Norte, Costa Caribe Sur, Río San Juan). Un punto dentro del Cocibolca o del Xolotlán, o a menos de 6 km, suma la región "Lagos y ríos"; un punto en el mar o a menos de 6 km de la costa suma la región marina correspondiente.</p>
+
+      <h2 id="curado">Contenido curado y verificación</h2>
+      <p>Las fichas de especies, áreas protegidas, regiones y la enciclopedia infantil están en archivos de datos abiertos (<code>data/*.json</code>) con sus fuentes. Cada registro tiene un estado:</p>
+      <ul>
+        <li><span class="badge-verif" data-estado="pendiente">○ Pendiente de verificación</span> redactado a partir de fuentes, aún sin revisión experta.</li>
+        <li><span class="badge-verif" data-estado="revisar">! En revisión</span> hay una duda concreta anotada.</li>
+        <li><span class="badge-verif" data-estado="verificado">✓ Verificado</span> revisado y aprobado; se indica quién y cuándo.</li>
+      </ul>
+      <p>Un programa de validación compara automáticamente cada nombre científico con el árbol taxonómico de GBIF y con iNaturalist, comprueba que existan registros en Nicaragua, contrasta la categoría de la Lista Roja de la UICN y revisa que los vínculos entre especies y áreas sean coherentes. El resultado está en el <a href="revision.html">panel de revisión</a>.</p>
+      <p>La categoría de la UICN que mostramos es la <strong>global</strong>. Nicaragua tiene además su propia lista nacional de especies en veda y la normativa de MARENA, que pueden diferir.</p>
+
+      <h2 id="limites">Limitaciones</h2>
+      <ul>
+        <li>Las ubicaciones de las áreas protegidas son puntos centrales aproximados, no límites oficiales. Para límites oficiales consulta a MARENA o <a href="https://www.protectedplanet.net/country/NIC" target="_blank" rel="noopener">Protected Planet</a>.</li>
+        <li>Los nombres comunes varían entre regiones y comunidades (español, miskitu, mayangna, rama, kriol, garífuna); recogemos los más usados y aceptamos sugerencias.</li>
+        <li>La taxonomía cambia: cuando una especie se divide o cambia de nombre, puede haber diferencias temporales entre GBIF, iNaturalist y este atlas.</li>
+        <li>Los servicios externos pueden estar lentos o fuera de línea; el contenido curado sigue disponible.</li>
+      </ul>
+
+      <h2 id="privacidad">Privacidad</h2>
+      <p>El sitio no usa cookies de rastreo ni analítica. Si usas "Mi ubicación", las coordenadas se procesan en tu navegador y solo se envían a los servicios de datos (iNaturalist, GBIF, eBird y Open-Meteo) para hacer la consulta. Las preferencias (tema, clave de eBird, progreso en los juegos) se guardan solo en tu navegador.</p>
+
+      <h2 id="contribuir">¿Cómo contribuir?</h2>
+      <ul>
+        <li><strong>Corrige un dato:</strong> cada ficha tiene un enlace "¿Encontraste un error?".</li>
+        <li><strong>Aporta observaciones:</strong> sube tus fotos a <a href="https://www.inaturalist.org" target="_blank" rel="noopener">iNaturalist</a> y tus listas de aves a <a href="https://ebird.org" target="_blank" rel="noopener">eBird</a>. En días o semanas aparecerán aquí.</li>
+        <li><strong>Revisa contenido:</strong> si tienes formación en biología o conservación, revisa las fichas pendientes en el <a href="revision.html">panel de revisión</a>.</li>
+      </ul>
+    </article>
+  </main>
+  <script type="module">
+    import { layout } from './assets/js/common.js';
+    layout('fuentes.html');
+  </script>
+</body>
+</html>

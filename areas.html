@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Áreas protegidas · Atlas Vivo de Nicaragua</title>
+  <meta name="description" content="Áreas protegidas del SINAP, reservas de biosfera, sitios Ramsar y lugares de importancia ecológica de Nicaragua.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+  <link rel="stylesheet" href="assets/css/styles.css">
+  <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+</head>
+<body>
+  <main>
+    <section class="page-head">
+      <div class="container">
+        <span class="eyebrow">Sistema Nacional de Áreas Protegidas y más</span>
+        <h1>Áreas protegidas y lugares de importancia ecológica</h1>
+        <p class="lead">Reservas de biosfera, parques nacionales, refugios de vida silvestre, humedales Ramsar y paisajes clave para la biodiversidad: dónde están, qué protegen y por qué importan.</p>
+      </div>
+    </section>
+    <section class="container">
+      <div class="map-box" id="mapa-areas" style="height:440px;margin-bottom:24px"></div>
+      <div class="filters">
+        <div class="search-bar"><label for="buscar" class="visually-hidden">Buscar</label><input id="buscar" class="input" type="search" placeholder="Buscar por nombre, departamento o ecosistema…"></div>
+        <div class="filters-row">
+          <div class="seg" id="f-tipo" role="group" aria-label="Tipo">
+            <button type="button" data-v="" aria-pressed="true">Todo</button>
+            <button type="button" data-v="area_protegida" aria-pressed="false">Áreas protegidas</button>
+            <button type="button" data-v="sitio_ecologico" aria-pressed="false">Sitios de importancia ecológica</button>
+          </div>
+          <label class="visually-hidden" for="f-region">Región</label>
+          <select id="f-region" class="select"><option value="">Todas las regiones</option></select>
+          <label class="check"><input type="checkbox" id="f-ramsar"> Sitio Ramsar</label>
+          <label class="check"><input type="checkbox" id="f-biosfera"> Reserva de Biosfera</label>
+          <span class="spacer"></span><span class="result-count" id="conteo"></span>
+        </div>
+      </div>
+      <div class="grid grid-3" id="lista"></div>
+      <p class="small muted" style="margin-top:24px">Las ubicaciones del mapa son puntos centrales aproximados, no los límites oficiales. Para límites oficiales consulta al Ministerio del Ambiente y los Recursos Naturales (MARENA) o la base mundial <a href="https://www.protectedplanet.net/country/NIC" target="_blank" rel="noopener">Protected Planet (WDPA)</a>.</p>
+    </section>
+  </main>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script type="module" src="assets/js/areas.js"></script>
+</body>
+</html>

@@ -1,0 +1,1400 @@
+{
+  "temas": [
+    {
+      "id": "que-es-la-biodiversidad",
+      "titulo": "¿Qué es la biodiversidad?",
+      "emoji": "🌎",
+      "color": "#2E9E5B",
+      "resumen": "La biodiversidad es toda la variedad de vida que hay en la Tierra: plantas, animales, hongos y seres diminutos. ¡Y Nicaragua tiene muchísima!",
+      "secciones": [
+        {
+          "titulo": "Una palabra muy grande",
+          "texto": "Biodiversidad quiere decir «variedad de la vida». Incluye a todos los seres vivos: el árbol de tu patio, las hormigas, los peces del lago, los hongos y hasta seres tan pequeños que solo se ven con un microscopio. También incluye los lugares donde viven, como bosques, ríos y playas. Cada ser vivo es diferente y especial, y todos juntos forman la gran familia de la vida."
+        },
+        {
+          "titulo": "Tres maneras de mirarla",
+          "texto": "Los científicos miran la biodiversidad de tres formas. Primero, la variedad de especies: guardabarrancos, ceibas, jaguares, ranas. Segundo, la variedad dentro de una misma especie: por eso no hay dos personas, ni dos jaguares, exactamente iguales. Tercero, la variedad de ecosistemas: bosques secos, selvas lluviosas, manglares, arrecifes y lagos. Las tres son importantes y se cuidan juntas."
+        },
+        {
+          "titulo": "Nicaragua, un puente de vida",
+          "texto": "Nicaragua está en el centro de un puente de tierra que une América del Norte con América del Sur. Desde hace millones de años, por ese puente han pasado plantas y animales de un lado a otro. Además, tenemos dos mares, grandes lagos, volcanes y montañas. Por eso aquí viven más de 700 especies de aves, más de 200 de mamíferos y miles de especies de plantas."
+        },
+        {
+          "titulo": "¿Por qué es importante?",
+          "texto": "La biodiversidad nos da alimentos, agua limpia, aire puro, medicinas, madera y paisajes hermosos para disfrutar. Las abejas y los murciélagos polinizan flores que luego se convierten en frutas. Los árboles dan sombra y protegen el suelo. Cuando una especie desaparece, la red de la vida se debilita, como una hamaca a la que le cortan hilos. ¡Por eso vale la pena cuidarla!"
+        }
+      ],
+      "sabias_que": [
+        "Nicaragua es el país más grande de Centroamérica y tiene costas en dos mares: el océano Pacífico y el mar Caribe.",
+        "Hay especies que solo viven en Nicaragua, como la salamandra del Mombacho y el teosinte nicaragüense, un pariente silvestre del maíz.",
+        "Un solo árbol grande del bosque puede ser la casa de cientos de insectos, además de aves, ranas, orquídeas y bromelias."
+      ],
+      "actividad": "Cacería de biodiversidad: con una persona adulta, sal al patio, al parque o a la escuela durante 15 minutos. Anota o dibuja todos los seres vivos diferentes que encuentres: plantas, insectos, aves, hongos. No toques ni arranques nada. Al final cuenta: ¿cuántos tipos distintos encontraste? Comparen en clase y hagan juntos un mural de la biodiversidad de su barrio.",
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Cifras redondeadas a propósito. Aves: listas de Avibase/eBird para Nicaragua rondan 750–790 especies (se usa 'más de 700'). Mamíferos: la literatura reciente da unas 250 especies (se usa 'más de 200'). Plantas: Stevens et al. (2001) Flora de Nicaragua registra varios miles de especies vasculares (se usa 'miles'). Endemismo de Bolitoglossa mombachoensis y Zea nicaraguensis: confirmar con especies.json. 'Cientos de insectos en un árbol' es una simplificación prudente de estudios de dosel tropical."
+      }
+    },
+    {
+      "id": "tierra-de-lagos-y-volcanes",
+      "titulo": "Nicaragua, tierra de lagos y volcanes",
+      "emoji": "🌋",
+      "color": "#E76F51",
+      "resumen": "Nicaragua tiene una fila de volcanes, dos lagos gigantes y lagunas dentro de antiguos cráteres. Todos forman parte de su paisaje y de su vida.",
+      "secciones": [
+        {
+          "titulo": "Una fila de volcanes",
+          "texto": "En el Pacífico de Nicaragua hay una larga fila de volcanes, desde el Cosigüina, en el noroeste, hasta los de la isla de Ometepe, dentro del Lago Cocibolca. Algunos están activos y echan gases, como el Masaya, donde a veces se puede ver lava al fondo del cráter. Otros llevan mucho tiempo tranquilos y están cubiertos de bosque, como el Mombacho."
+        },
+        {
+          "titulo": "Volcanes que dan vida",
+          "texto": "Los volcanes pueden ser peligrosos, pero también ayudan a la vida. Las cenizas que lanzaron hace mucho tiempo formaron suelos muy fértiles, buenos para sembrar. En sus faldas crecen bosques donde viven monos, aves y salamandras. El Cerro Negro es uno de los volcanes más jóvenes de Centroamérica: ¡nació en 1850! Los científicos vigilan los volcanes para avisar a la gente si hay peligro."
+        },
+        {
+          "titulo": "Dos lagos gigantes",
+          "texto": "Nicaragua tiene los dos lagos más grandes de Centroamérica: el Cocibolca, o Lago de Nicaragua, y el Xolotlán, o Lago de Managua. El río Tipitapa los une. El Cocibolca es tan grande que en muchos lugares no se ve la otra orilla, y tiene cientos de islas. Su agua llega hasta el mar Caribe por el río San Juan."
+        },
+        {
+          "titulo": "Lagunas dentro de volcanes",
+          "texto": "Después de grandes erupciones, algunos volcanes quedan con un enorme hueco llamado cráter o caldera. Si ese hueco se llena con agua de lluvia y agua subterránea, se forma una laguna cratérica. Nicaragua tiene varias: Apoyo, Masaya, Xiloá, Apoyeque, Asososca y Tiscapa, entre otras. En algunas viven peces que no existen en ningún otro lugar del mundo."
+        },
+        {
+          "titulo": "Montañas y ríos",
+          "texto": "En el norte y el centro del país hay montañas altas y frescas. El punto más alto de Nicaragua es el cerro Mogotón, en Nueva Segovia, que pasa de los 2,000 metros. De las montañas bajan muchos ríos que riegan el campo. El río Coco, que hace frontera con Honduras, es uno de los ríos más largos de Centroamérica."
+        }
+      ],
+      "sabias_que": [
+        "La isla de Ometepe está formada por dos volcanes que salen del Lago Cocibolca: el Concepción y el Maderas.",
+        "Las Isletas de Granada son cientos de islitas que se formaron con rocas de un gran derrumbe del Volcán Mombacho, hace miles de años.",
+        "Los españoles que llegaron hace unos 500 años llamaron al Cocibolca «la Mar Dulce», porque parecía un mar, ¡pero de agua dulce!"
+      ],
+      "actividad": "Volcán de laboratorio: con ayuda de una persona adulta, haz un volcán de plastilina o barro alrededor de un vasito. Pon dentro una cucharada de bicarbonato y unas gotas de colorante, y luego echa un chorrito de vinagre. ¡Mira la «erupción»! Después dibuja un mapa de Nicaragua y ubica los dos lagos, el río San Juan y algunos volcanes que conozcas.",
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Comprobar: Mogotón ≈ 2,107 m s. n. m. (se dice 'pasa de los 2,000'); Cerro Negro nació en 1850; Xolotlán (~1,000 km²) es el segundo lago más grande de Centroamérica, por encima del Izabal; origen de las Isletas por avalancha de escombros del Mombacho (la edad exacta varía según la fuente, por eso se dice 'miles de años'); 'la Mar Dulce' como nombre colonial del lago; río Coco 'uno de los más largos' (se evita afirmar que es el más largo). Lava visible en el Masaya: depende de la actividad del volcán."
+      }
+    },
+    {
+      "id": "ecosistemas-de-nicaragua",
+      "titulo": "Los ecosistemas de Nicaragua",
+      "emoji": "🏞️",
+      "color": "#7CB342",
+      "resumen": "Un ecosistema es un lugar donde los seres vivos, el agua, el suelo y el clima trabajan juntos. Nicaragua tiene bosques, manglares, arrecifes, lagos y ríos llenos de vida.",
+      "secciones": [
+        {
+          "titulo": "El bosque seco del Pacífico",
+          "texto": "En el Pacífico llueve durante unos seis meses y el resto del año es seco. En el verano, muchos árboles como el guanacaste, el pochote y el madroño botan sus hojas para ahorrar agua, y el bosque se ve café. Cuando vuelven las lluvias, ¡todo se pone verde otra vez! Aquí viven el guardabarranco, el garrobo, la urraca copetona y el venado."
+        },
+        {
+          "titulo": "El bosque lluvioso del Caribe",
+          "texto": "En el Caribe llueve casi todo el año. Allí crecen selvas altas y muy verdes, con árboles gigantes, bejucos y orquídeas. Es la casa del jaguar, la danta, la lapa verde, el perezoso y muchísimas ranas de colores. Las reservas de Bosawás e Indio Maíz protegen algunas de las selvas más grandes de Centroamérica."
+        },
+        {
+          "titulo": "Bosques nubosos y pinares",
+          "texto": "En lo alto de algunas montañas y volcanes, las nubes pasan entre los árboles y los mantienen húmedos: es el bosque nuboso. Está lleno de musgos, helechos y orquídeas, y allí vive el quetzal. En las montañas del norte y en las sabanas del Caribe norte crecen bosques de pinos. ¡Nicaragua es el lugar más al sur de América donde los pinos crecen de forma natural!"
+        },
+        {
+          "titulo": "Manglares y arrecifes",
+          "texto": "En las costas, donde el agua de los ríos se mezcla con la del mar, crecen los manglares. Sus raíces son la guardería de peces, camarones, cangrejos y conchas. En el mar Caribe, cerca de las Islas del Maíz y los Cayos Miskitos, hay arrecifes de coral llenos de peces de colores, langostas y tortugas."
+        },
+        {
+          "titulo": "Lagos, lagunas y ríos",
+          "texto": "El agua dulce también forma ecosistemas. En los lagos Cocibolca y Xolotlán, en las lagunas cratéricas y en ríos como el San Juan y el Coco viven peces como las mojarras, el guapote y el gaspar. En sus orillas hay garzas, patos, tortugas de río y caimanes. Los humedales son como esponjas: guardan agua y dan refugio a muchas aves."
+        }
+      ],
+      "sabias_que": [
+        "El bosque seco tropical es uno de los ecosistemas más amenazados de Centroamérica, porque gran parte se convirtió en potreros y cultivos.",
+        "Los arrecifes de coral cubren una parte muy pequeña del fondo del mar, pero en ellos vive una gran cantidad de especies marinas.",
+        "El mangle rojo tiene raíces que parecen patas, llamadas raíces zancudas, que lo sostienen en el lodo."
+      ],
+      "actividad": "Caja de ecosistemas: en equipos, cada grupo elige un ecosistema de Nicaragua y arma una maqueta dentro de una caja de zapatos con materiales reciclados (cartón, papel, tapitas). Dibujen y recorten tres animales y tres plantas que vivan allí. Luego cada equipo presenta su ecosistema y explica qué necesita para mantenerse sano.",
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Límite sur natural de los pinos en América (Pinus caribaea, ~12° N en el Caribe de Nicaragua): Farjon et al. (1997), citado en monografías de Pinus caribaea var. hondurensis. Época lluviosa del Pacífico ≈ mayo–octubre ('unos seis meses'). La frase sobre arrecifes se dejó sin porcentajes a propósito. 'Caimanes' se refiere al cuajipal (Caiman crocodilus)."
+      }
+    },
+    {
+      "id": "simbolos-naturales",
+      "titulo": "Nuestros símbolos naturales",
+      "emoji": "🌼",
+      "color": "#F2A541",
+      "resumen": "El guardabarranco, el sacuanjoche y el madroño representan a Nicaragua. ¡Conócelos y ayúdanos a cuidarlos!",
+      "secciones": [
+        {
+          "titulo": "El guardabarranco, ave nacional",
+          "texto": "El guardabarranco es el ave nacional de Nicaragua. Tiene plumas verdes, canela y turquesa, y una cola larga con dos «raquetas» en la punta. Cuando ve a un posible depredador, mueve la cola de un lado a otro como el péndulo de un reloj, como diciendo «¡ya te vi!». Se llama así porque hace su nido en túneles que excava en los barrancos."
+        },
+        {
+          "titulo": "El sacuanjoche, flor nacional",
+          "texto": "El sacuanjoche es la flor nacional desde 1971. Crece en un árbol pequeño que bota sus hojas en el verano y entonces se llena de flores. Cada flor tiene cinco pétalos, que pueden ser blancos con el centro amarillo, amarillos o rosados. Huelen muy rico, sobre todo al atardecer y en la noche, cuando atraen a unas polillas grandes llamadas esfinges."
+        },
+        {
+          "titulo": "El madroño, árbol nacional",
+          "texto": "El madroño es el árbol nacional, también desde 1971. Crece en el bosque seco del Pacífico y del centro del país. Su tronco es liso y su corteza se desprende en láminas delgadas. Cuando florece, se cubre de florecitas blancas, como si lo hubieran adornado para una fiesta. Su madera es dura y resistente."
+        },
+        {
+          "titulo": "¿Por qué cuidar nuestros símbolos?",
+          "texto": "Nuestros símbolos naturales nos recuerdan que Nicaragua es un país lleno de vida. Cuidarlos es fácil: no capturamos guardabarrancos ni otras aves para tenerlas en jaulas, sembramos árboles nativos como el madroño y el sacuanjoche, y protegemos el bosque seco, que es su casa. Así, las niñas y los niños del futuro también podrán verlos."
+        }
+      ],
+      "sabias_que": [
+        "El guardabarranco también es el ave nacional de El Salvador, donde lo llaman torogoz.",
+        "Las flores del sacuanjoche huelen muy rico pero no tienen néctar: ¡con su perfume atraen a las polillas, que se llevan su polen a otras flores!",
+        "Las «raquetas» de la cola del guardabarranco se forman porque se caen algunas barbas de las plumas y queda solo el tallo central."
+      ],
+      "actividad": "Tarjeta de símbolos: dobla una hoja en tres partes. En cada parte dibuja y colorea un símbolo natural: el guardabarranco, el sacuanjoche y el madroño. Debajo escribe algo que aprendiste de cada uno. Si puedes, busca con tu familia un sacuanjoche o un madroño en tu barrio y obsérvalo cada semana: ¿cuándo tiene hojas y cuándo tiene flores? Anótalo.",
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Sacuanjoche y madroño: declarados flor y árbol nacional en agosto de 1971 (decretos de 1971; MINED fecha la declaratoria del madroño el 27/08/1971). Guardabarranco: reconocido ampliamente como ave nacional (MINED, materiales escolares), pero una nota de La Prensa (2005) sostiene que no existe decreto formal; por eso no se da año para el ave. Torogoz: ave nacional de El Salvador (Decreto 735 de 1999). Movimiento de cola como señal de disuasión ante depredadores: Murphy (2006, Behavioral Ecology). Polinización por engaño de Plumeria rubra por esfinges: Haber (1984, Biotropica). Colores del sacuanjoche: hay variedades blancas con centro amarillo, amarillas y rosadas; confirmar cuál es la forma oficial del símbolo. No se indica el mes de floración del madroño porque las fuentes no coinciden (una fuente de la UNA menciona diciembre)."
+      }
+    },
+    {
+      "id": "animales-en-peligro",
+      "titulo": "Animales en peligro: ¿por qué desaparecen?",
+      "emoji": "🐾",
+      "color": "#D64F8A",
+      "resumen": "Algunas especies están en peligro porque pierden su casa, porque las cazan o porque se contamina su ambiente. ¡La buena noticia es que podemos ayudarlas!",
+      "secciones": [
+        {
+          "titulo": "¿Qué es una especie amenazada?",
+          "texto": "Una especie está amenazada cuando quedan pocos individuos o cuando su número baja muy rápido. Científicos de todo el mundo preparan una lista llamada Lista Roja, que dice qué tan en peligro está cada especie. Si una especie desaparece por completo, decimos que se extinguió, y eso es para siempre. Por eso es tan importante actuar a tiempo."
+        },
+        {
+          "titulo": "Cuando se pierde la casa",
+          "texto": "La causa más grande es la pérdida del hábitat. Cuando se cortan o se queman los bosques, los animales se quedan sin casa y sin comida. La danta, por ejemplo, necesita bosques grandes para vivir, y hoy está en peligro de extinción. La lapa verde, que anida en árboles altos como el almendro, también está en grave peligro."
+        },
+        {
+          "titulo": "Caza, comercio y basura",
+          "texto": "Otras especies desaparecen porque las cazan o las sacan de la naturaleza para venderlas como mascotas, como pasa con loros y lapas. Las tortugas marinas sufren cuando se sacan sus huevos de las playas. La basura y el plástico que llegan a ríos y mares también hacen daño: algunas tortugas confunden las bolsas plásticas con medusas y se las comen."
+        },
+        {
+          "titulo": "Un clima que cambia",
+          "texto": "El planeta se está calentando porque las personas quemamos mucho petróleo, gasolina y carbón, y cortamos bosques. Con más calor, los corales se enferman y se ponen blancos, y en las playas muy calientes nacen menos tortuguitas macho. Plantar árboles, ahorrar energía y cuidar los bosques ayuda a que el clima se mantenga más estable."
+        },
+        {
+          "titulo": "¡Hay esperanza!",
+          "texto": "Muchas personas trabajan para salvar especies. Los guardaparques cuidan las áreas protegidas, comunidades de la costa protegen los nidos de tortugas y los científicos estudian a los animales para saber cómo ayudarlos. Cuando cuidamos su casa y dejamos de cazarlos, muchos animales se recuperan. Tú también eres parte de esta historia."
+        }
+      ],
+      "sabias_que": [
+        "En el Lago Cocibolca antes se veían muchos peces sierra. Hoy son rarísimos, y la especie está en peligro crítico de extinción en el mundo.",
+        "La tortuga carey está en peligro crítico. Por eso nunca debemos comprar adornos hechos con su caparazón.",
+        "En Nicaragua está prohibido cazar o vender lapas, porque quedan pocas en nuestros bosques."
+      ],
+      "actividad": "Detectives de la naturaleza: elige un animal amenazado de Nicaragua (la danta, la lapa verde, la tortuga carey o el manatí). Dibújalo en el centro de una hoja. A un lado escribe tres cosas que lo ponen en peligro y, al otro lado, tres cosas que podemos hacer para ayudarlo. Peguen todos los carteles en el aula para que toda la escuela aprenda.",
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Categorías UICN globales consultadas en iNaturalist (2026-11-26): danta (Tapirus bairdii) EN; lapa verde (Ara ambiguus) CR; tortuga carey (Eretmochelys imbricata) CR; pez sierra (Pristis pristis) CR. Anidación de Ara ambiguus en almendro (Dipteryx oleifera): ampliamente documentada en Costa Rica y Nicaragua. Prohibición de cazar/vender lapas: confirmar con la resolución de vedas vigente de MARENA (veda nacional indefinida para Ara macao y Ara ambiguus). Efecto de la temperatura de la arena sobre la proporción de sexos en tortugas: bien documentado."
+      }
+    },
+    {
+      "id": "tortugas-marinas",
+      "titulo": "Las tortugas marinas y sus playas",
+      "emoji": "🐢",
+      "color": "#16A6A6",
+      "resumen": "Las tortugas marinas recorren los océanos y regresan a las playas a poner sus huevos. Las playas de Nicaragua son muy importantes para ellas.",
+      "secciones": [
+        {
+          "titulo": "Viajeras del mar",
+          "texto": "Las tortugas marinas son reptiles que nadan en los océanos desde hace millones de años. Respiran aire, por eso suben a la superficie, y tienen aletas en lugar de patas. En el mundo hay siete especies, y en las aguas de Nicaragua se pueden encontrar cinco: la paslama, la tora o baula, la carey, la verde y la cabezona."
+        },
+        {
+          "titulo": "La arribada",
+          "texto": "En las playas de La Flor y Chacocente, en el Pacífico, ocurre algo maravilloso: la arribada. Durante varias noches, miles de tortugas paslama salen del mar casi al mismo tiempo para poner sus huevos. Cada hembra cava un hoyo con sus aletas traseras, pone alrededor de 100 huevos, los tapa con arena y regresa al mar."
+        },
+        {
+          "titulo": "La arena decide",
+          "texto": "Los huevos se quedan bajo la arena unos 45 a 60 días. La temperatura de la arena decide si de cada huevo nacerá un macho o una hembra: si la arena está más caliente, nacen más hembras; si está más fresca, nacen más machos. Al salir del cascarón, las tortuguitas corren hacia el mar, guiadas por la claridad del horizonte."
+        },
+        {
+          "titulo": "Un largo camino",
+          "texto": "La vida de una tortuguita no es fácil: cangrejos, aves y peces se comen a muchas. Se calcula que solo una de cada mil llega a ser adulta. Las que sobreviven viajan por el océano durante años. Cuando las hembras crecen, muchas regresan a poner sus huevos en la misma región donde nacieron. ¡Es como si tuvieran un mapa en la cabeza!"
+        },
+        {
+          "titulo": "Cómo cuidar a las tortugas",
+          "texto": "Para ayudar a las tortugas, no compramos ni comemos sus huevos, ni objetos hechos de carey. En la playa recogemos la basura y usamos menos plástico. De noche no usamos linternas fuertes ni hacemos fogatas donde anidan, porque la luz confunde a las tortuguitas. Si ves una tortuga en la playa, obsérvala en silencio y de lejos."
+        }
+      ],
+      "sabias_que": [
+        "La tora o baula es la tortuga más grande del mundo: puede medir casi dos metros y pesar tanto como un caballo. ¡Y come sobre todo medusas!",
+        "Las tortugas marinas no pueden esconder la cabeza dentro de su caparazón, como sí hacen muchas tortugas de tierra y de río.",
+        "La paslama es una de las tortugas marinas más pequeñas: su caparazón mide entre 60 y 70 centímetros."
+      ],
+      "actividad": "El camino de la tortuguita: en el patio, marquen con tiza una «playa» y un «mar». Algunos niños son tortuguitas que deben llegar al mar, y otros son «peligros» (cangrejos, aves, basura y luces) que intentan tocarlas. Después conversen: ¿qué peligros podemos quitar las personas? Repitan el juego sin la basura ni las luces y comparen cuántas tortuguitas llegan.",
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "'Cinco de siete especies en aguas nicaragüenses': afirmación divulgativa frecuente; confirmar los registros de cabezona (Caretta caretta) en aguas del Caribe nicaragüense. 'Una de cada mil' es una estimación aproximada muy citada, varía según especie y estudio. Paslama: nidada media ~100 huevos, incubación ~45–60 días, caparazón ~60–70 cm, UICN VU (iNaturalist 2026-11-26). Baula: UICN global VU; tamaño y peso redondeados (~1.5–1.8 m de caparazón y varios cientos de kg). Arribadas en los refugios La Flor y Río Escalante-Chacocente."
+      }
+    },
+    {
+      "id": "bosques-agua-aire-alimento",
+      "titulo": "Los bosques nos regalan agua, aire y alimento",
+      "emoji": "🌳",
+      "color": "#2E9E5B",
+      "resumen": "Los bosques son como una gran fábrica natural: ayudan a limpiar el aire, guardan el agua y nos dan alimentos y medicinas.",
+      "secciones": [
+        {
+          "titulo": "Plantas que hacen oxígeno",
+          "texto": "Las plantas hacen su propio alimento usando la luz del sol, el agua y un gas del aire llamado dióxido de carbono. Este proceso se llama fotosíntesis. Al hacerlo, sueltan oxígeno, el gas que necesitamos para respirar. Además, los árboles guardan carbono en su madera, y eso ayuda a que el planeta no se caliente tanto."
+        },
+        {
+          "titulo": "Esponjas de agua",
+          "texto": "Cuando llueve sobre un bosque, las hojas frenan las gotas y las raíces ayudan a que el agua entre despacio en la tierra. Así se llenan los pozos, los ojos de agua y los ríos, incluso en el verano. Sin árboles, la lluvia corre rápido, arrastra el suelo y ensucia los ríos. ¡Cuidar el bosque es cuidar el agua que tomamos!"
+        },
+        {
+          "titulo": "Una despensa natural",
+          "texto": "De los árboles y el campo vienen muchos alimentos: el cacao para el chocolate, el jícaro con cuyas semillas se prepara una bebida refrescante, y frutas como el jocote, el nancite y el zapote. En Nicaragua también crece el teosinte nicaragüense, un pariente silvestre del maíz que solo vive aquí y que los científicos estudian porque aguanta suelos inundados."
+        },
+        {
+          "titulo": "Ayudantes del bosque",
+          "texto": "En el bosque viven muchos ayudantes. Las abejas, las mariposas, los colibríes y los murciélagos llevan el polen de flor en flor, y así se forman las frutas y las semillas. Muchas aves y animales como la danta comen frutas y luego dejan las semillas en otros lugares, donde nacen nuevos árboles. ¡Son jardineros que siembran sin saberlo!"
+        }
+      ],
+      "sabias_que": [
+        "Los bosques nubosos atrapan el agua de las nubes con sus hojas y musgos, y esa agua baja después a los ríos.",
+        "Los pueblos indígenas de Nicaragua y de Mesoamérica usaban las semillas de cacao como moneda para comprar cosas.",
+        "Las algas del mar también hacen fotosíntesis y producen mucho del oxígeno del planeta. ¡Cuidar el mar también es cuidar el aire!"
+      ],
+      "actividad": "Experimento de la esponja: con una persona adulta, prepara dos bandejas con tierra: una cubierta con hojas secas y zacate, y otra sin nada. Inclínalas un poco sobre dos recipientes y échales la misma cantidad de agua con una regadera. ¿De cuál bandeja sale más agua sucia con tierra? Así verás cómo las plantas protegen el suelo y el agua.",
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Uso del cacao como moneda entre los pueblos indígenas de Nicaragua: registrado por cronistas como Fernández de Oviedo; confirmar la referencia. Zea nicaraguensis: endémica de Nicaragua (Chinandega, cerca del Golfo de Fonseca), tolerante a inundación y estudiada para mejoramiento del maíz (Iltis & Benz 2000; estudios de tolerancia a anegamiento). Jocote (Spondias purpurea), nancite (Byrsonima crassifolia) y zapote (Pouteria sapota) son nativos de Mesoamérica; el cacao se cultiva en la región desde tiempos precolombinos, aunque su origen silvestre está en Sudamérica, por eso no se dice que sea nativo de Nicaragua. Se evita afirmar que los bosques producen 'la mayor parte' del oxígeno."
+      }
+    },
+    {
+      "id": "areas-protegidas",
+      "titulo": "Áreas protegidas: casas seguras para la naturaleza",
+      "emoji": "🏕️",
+      "color": "#7CB342",
+      "resumen": "Las áreas protegidas son lugares especiales que se cuidan por ley, para que las plantas y los animales vivan seguros y para que todos podamos disfrutarlos.",
+      "secciones": [
+        {
+          "titulo": "¿Qué es un área protegida?",
+          "texto": "Un área protegida es un territorio que se cuida de forma especial para conservar la naturaleza: sus bosques, animales, agua y paisajes. En Nicaragua hay más de 70 áreas protegidas, y juntas forman el Sistema Nacional de Áreas Protegidas, conocido como SINAP. Hay reservas naturales, refugios de vida silvestre, parques nacionales y monumentos nacionales."
+        },
+        {
+          "titulo": "Grandes reservas",
+          "texto": "Bosawás, en el norte, e Indio Maíz, en el sureste, protegen enormes selvas donde viven jaguares, dantas y lapas. Bosawás, la isla de Ometepe y el Río San Juan son Reservas de Biosfera reconocidas por la UNESCO. Eso quiere decir que el mundo entero reconoce que son lugares muy valiosos para la naturaleza y para las personas que viven allí."
+        },
+        {
+          "titulo": "Lugares para visitar y aprender",
+          "texto": "Algunas áreas protegidas se pueden visitar con tu familia o tu escuela. En el Parque Nacional Volcán Masaya puedes asomarte, cuando es seguro, a un cráter activo. En el Volcán Mombacho puedes caminar por un bosque nuboso. En la Laguna de Apoyo verás una laguna dentro de un volcán, y en el Cañón de Somoto, enormes paredes de roca junto al río."
+        },
+        {
+          "titulo": "Guardianes de la naturaleza",
+          "texto": "Los guardaparques son las personas que cuidan las áreas protegidas. Recorren los senderos, vigilan que nadie corte árboles ni cace animales y enseñan a los visitantes. Muchas comunidades indígenas, afrodescendientes y campesinas que viven cerca de los bosques también los cuidan desde hace generaciones. ¡Todos podemos ser guardianes!"
+        },
+        {
+          "titulo": "Reglas de oro para visitarlas",
+          "texto": "Cuando visites un área protegida, camina solo por los senderos, no arranques plantas y no te lleves piedras, flores ni animales. Guarda tu basura hasta encontrar dónde botarla. Habla en voz baja para no asustar a los animales y nunca les des de comer. Recuerda: de la naturaleza solo nos llevamos fotos y bonitos recuerdos."
+        }
+      ],
+      "sabias_que": [
+        "El Volcán Masaya fue el primer parque nacional de Nicaragua. Se creó en 1979.",
+        "Bosawás fue declarada Reserva de Biosfera por la UNESCO en 1997. ¡Es una de las selvas más grandes de Centroamérica!",
+        "En el Refugio de Vida Silvestre La Flor, guardaparques y voluntarios protegen cada año los nidos de miles de tortugas paslama."
+      ],
+      "actividad": "Diseña tu propia área protegida: imagina un lugar de tu comunidad que te gustaría proteger, como un río, un bosquecito o un cerro. Dibuja un mapa con sus plantas y animales, inventa un nombre y escribe tres reglas para cuidarlo. Luego preséntalo a tu clase como si fueras guardaparques.",
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Número de áreas del SINAP: las fuentes dan entre 76 y 78 según el año (estudio UICN/MARENA 2005; otras recopilaciones), por eso se usa 'más de 70'. Reservas de Biosfera UNESCO: Bosawás (1997), Río San Juan (2003), Isla de Ometepe (2010). Parque Nacional Volcán Masaya creado en 1979 como primer parque nacional: confirmar con MARENA. Acceso al cráter del Masaya sujeto a la actividad volcánica."
+      }
+    },
+    {
+      "id": "aves-viajeras",
+      "titulo": "Aves viajeras: la migración",
+      "emoji": "🕊️",
+      "color": "#8E6CEF",
+      "resumen": "Cada año, muchas aves viajan miles de kilómetros desde Norteamérica y pasan en Nicaragua los meses del invierno del norte.",
+      "secciones": [
+        {
+          "titulo": "¿Qué es la migración?",
+          "texto": "La migración es un viaje de ida y vuelta que algunos animales hacen cada año para encontrar comida o un buen lugar para tener a sus crías. Muchas aves que nacen en Estados Unidos y Canadá viajan hacia el sur cuando allá empieza el frío, porque se acaban los insectos y las frutas. Nicaragua es su casa de vacaciones durante varios meses."
+        },
+        {
+          "titulo": "¿Cuándo llegan?",
+          "texto": "Las aves migratorias empiezan a llegar a Nicaragua entre agosto y octubre, y la mayoría regresa al norte entre marzo y mayo. Algunas solo pasan por aquí rumbo a Sudamérica, como turistas de paso. Otras se quedan todo el invierno del norte en nuestros bosques, cafetales, playas y lagunas."
+        },
+        {
+          "titulo": "Pequeñas pero valientes",
+          "texto": "La reinita alidorada es un pajarito amarillo y gris que pesa menos de diez gramos. Aun así, viaja miles de kilómetros desde el norte para pasar el invierno en las montañas de Centroamérica, incluida Nicaragua. El colibrí garganta de rubí, que pesa unos tres gramos, ¡cruza el golfo de México volando sin parar!"
+        },
+        {
+          "titulo": "Brújulas en el cielo",
+          "texto": "¿Cómo saben las aves hacia dónde ir? Los científicos han descubierto que se orientan con el sol, las estrellas y el campo magnético de la Tierra, que funciona como una brújula invisible. También recuerdan montañas, ríos y costas. Muchas aves pequeñas viajan de noche, cuando el aire está más fresco."
+        },
+        {
+          "titulo": "Cómo ayudar a las viajeras",
+          "texto": "Las aves migratorias necesitan lugares para descansar y comer durante su viaje. Los cafetales con árboles de sombra, los bosques, los manglares y las lagunas limpias son como hoteles para ellas. Podemos ayudarlas sembrando árboles nativos, cuidando los humedales y apagando las luces que no se usan de noche, porque las luces fuertes las confunden."
+        }
+      ],
+      "sabias_que": [
+        "El Día Mundial de las Aves Migratorias se celebra dos veces al año: el segundo sábado de mayo y el segundo sábado de octubre.",
+        "Cada otoño del norte, millones de gavilanes y zopilotes viajan hacia el sur cruzando Centroamérica. ¡Forman verdaderos «ríos de aves» en el cielo!",
+        "No solo las aves migran: las tortugas marinas, las ballenas jorobadas y algunas mariposas también hacen grandes viajes."
+      ],
+      "actividad": "Mapa de viaje: en un mapa de América, traza con un color el viaje de la reinita alidorada desde el norte de Estados Unidos y el sur de Canadá hasta las montañas de Nicaragua. ¿Cuántos países cruza? Luego, entre octubre y marzo, sal con una persona adulta a observar aves y anota si ves alguna migratoria, como reinitas, golondrinas o playeros.",
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Fechas de llegada (ago–oct) y salida (mar–may) son aproximadas y varían por especie. Reinita alidorada (Vermivora chrysoptera): ~8–10 g, inverna en tierras altas de Centroamérica incluida Nicaragua, UICN global NT (iNaturalist 2026-11-26). Colibrí garganta de rubí (Archilochus colubris, no está en el catálogo): ~3 g, cruza el golfo de México; confirmar que inverna en Nicaragua (los mapas de distribución lo incluyen). Día Mundial de las Aves Migratorias: dos fechas desde 2018. 'Millones de rapaces' se basa en los conteos de migración otoñal de Veracruz, México, cuyas aves continúan por Centroamérica."
+      }
+    },
+    {
+      "id": "lago-cocibolca",
+      "titulo": "El gran Lago Cocibolca y sus peces",
+      "emoji": "🐟",
+      "color": "#3A86FF",
+      "resumen": "El Cocibolca es el lago más grande de Centroamérica. En sus aguas viven peces asombrosos, ¡y hasta tiburones!",
+      "secciones": [
+        {
+          "titulo": "Un mar de agua dulce",
+          "texto": "El Lago Cocibolca, también llamado Lago de Nicaragua, cubre unos 8,000 kilómetros cuadrados. ¡Es el lago más grande de Centroamérica! En él hay cientos de islas, como Ometepe, Zapatera, las Isletas de Granada y el archipiélago de Solentiname. Sus aguas llegan hasta el mar Caribe a través del río San Juan."
+        },
+        {
+          "titulo": "Las mojarras y el guapote",
+          "texto": "En el lago viven varias especies de mojarras, peces que cuidan con mucho esmero a sus crías. La mojarra midas puede ser de color gris oscuro o de un naranja dorado. El guapote tigre tiene manchas oscuras, como un jaguar, y caza otros peces. Muchas familias de las orillas y las islas viven de la pesca."
+        },
+        {
+          "titulo": "Visitantes del mar",
+          "texto": "En el Cocibolca pasa algo muy especial: algunos peces del mar suben por el río San Juan hasta el lago. El tiburón toro puede vivir en agua salada y en agua dulce, y logra pasar los raudales del río. El sábalo real, un pez plateado y enorme, también hace este viaje. Antes, el pez sierra llegaba al lago, pero hoy es rarísimo."
+        },
+        {
+          "titulo": "Un pez muy antiguo",
+          "texto": "El gaspar es un pez largo, con un hocico lleno de dientes y escamas duras como una armadura. Sus parientes ya nadaban en la época de los dinosaurios. El gaspar puede subir a la superficie y tragar aire, lo que le ayuda a vivir en aguas con poco oxígeno. ¡Es como un fósil viviente!"
+        },
+        {
+          "titulo": "Un lago que necesita cuidado",
+          "texto": "El Cocibolca es una enorme reserva de agua dulce para Nicaragua. Para mantenerlo sano, debemos evitar que le lleguen basura, aguas sucias y químicos, y cuidar los bosques de sus orillas y de los ríos que lo alimentan. También es importante pescar solo lo necesario y respetar las reglas de pesca, para que los peces puedan reproducirse."
+        }
+      ],
+      "sabias_que": [
+        "Durante años se pensó que el tiburón del lago era una especie diferente. Los científicos marcaron tiburones y demostraron que viajaban entre el mar Caribe y el lago.",
+        "En la Laguna de Apoyo vive la mojarra flecha, un pez que no existe en ningún otro lugar del mundo.",
+        "Las mamás y los papás mojarra protegen juntos a sus pececitos y los guían como si fueran un pequeño rebaño."
+      ],
+      "actividad": "Mural del lago: dibuja en un papelógrafo el Lago Cocibolca y el río San Juan llegando al mar Caribe. Recorta y colorea peces del lago (mojarra, guapote, gaspar, sábalo real y tiburón toro) y pégalos. Con una flecha, marca el viaje del tiburón toro desde el mar hasta el lago. ¿Qué obstáculos encuentra en el camino?",
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Área del Cocibolca ≈ 8,264 km² (se usa 'unos 8,000'). Tiburón toro: los estudios de marcaje de T. B. Thorson (décadas de 1960–1970) demostraron el movimiento entre el Caribe y el lago; antes se describía como Carcharhinus nicaraguensis. Pez sierra (Pristis pristis) CR; su presencia actual en el lago es muy escasa o nula, confirmar. Mojarra flecha (Amphilophus zaliosus): endémica de la Laguna de Apoyo, UICN CR. Mojarra midas (Amphilophus citrinellus): morfo oscuro y morfo dorado. Cuidado biparental en cíclidos: bien documentado. Familia de los gaspares (Lepisosteidae) con fósiles desde la era de los dinosaurios. Sábalo real (Megalops atlanticus) VU, presente en el lago."
+      }
+    },
+    {
+      "id": "como-puedo-ayudar",
+      "titulo": "¿Cómo puedo ayudar?",
+      "emoji": "💚",
+      "color": "#F2A541",
+      "resumen": "No necesitas ser grande para cuidar la naturaleza. ¡Las pequeñas acciones de cada día hacen una gran diferencia!",
+      "secciones": [
+        {
+          "titulo": "Cuidar el agua",
+          "texto": "El agua es un tesoro. Cierra la llave mientras te cepillas los dientes o te enjabonas. Avisa a una persona adulta si ves una llave o un tubo goteando. Usa el agua con la que lavaste frutas y verduras para regar las plantas. Y nunca botes basura en ríos, quebradas, lagos o en el mar: allí viven peces, ranas y muchos otros animales."
+        },
+        {
+          "titulo": "Menos basura, más vida",
+          "texto": "Recuerda las tres erres: reducir, reutilizar y reciclar. Lleva tu agua en una botella reutilizable, usa bolsas de tela y separa el plástico, el papel y los restos de comida. Con las cáscaras de frutas y verduras se puede hacer abono para las plantas. Y no quemes basura: el humo contamina el aire que todos respiramos."
+        },
+        {
+          "titulo": "Sembrar y cuidar árboles",
+          "texto": "Sembrar un árbol es un regalo para el futuro. Elige especies nativas de tu zona, como el madroño, el sacuanjoche, el guanacaste, el roble o frutales como el jocote. Pide ayuda a una persona adulta para escoger el lugar y riégalo hasta que crezca fuerte. Ese árbol dará sombra, frutas y casa a muchas aves e insectos."
+        },
+        {
+          "titulo": "Respetar a los animales",
+          "texto": "Los animales silvestres viven mejor en libertad. No compres ni tengas loros, lapas, monos, tortugas o garrobos como mascotas. No compres huevos de tortuga ni adornos de carey. Si encuentras un animal herido, no lo toques: avisa a una persona adulta para que llame a las autoridades ambientales o a un centro de rescate de fauna."
+        },
+        {
+          "titulo": "Contagiar el amor por la naturaleza",
+          "texto": "Lo que aprendes, ¡compártelo! Cuéntale a tu familia por qué es importante cuidar la naturaleza. Organiza con tu escuela una jornada de limpieza o un huerto escolar. Observa, dibuja y escribe sobre los animales y las plantas de tu comunidad. Cuando muchas personas pequeñas hacen cosas pequeñas, el mundo cambia."
+        }
+      ],
+      "sabias_que": [
+        "Una llave que gotea sin parar puede desperdiciar muchos litros de agua en un solo día.",
+        "Se calcula que una bolsa plástica puede tardar cientos de años en desaparecer de la naturaleza.",
+        "Con restos de frutas, verduras y hojas secas se puede hacer compost, un abono natural que alimenta la tierra."
+      ],
+      "actividad": "Mi semana verde: haz una tabla con los días de la semana y estas acciones: cerré la llave, separé la basura, apagué luces, regué una planta y aprendí algo nuevo sobre la naturaleza. Cada día, marca con una estrella lo que lograste. Al final de la semana, cuenta con tu familia cuántas estrellas ganaron juntos.",
+      "verificacion": {
+        "estado": "pendiente",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Contenido de hábitos sin cifras precisas. La duración de una bolsa plástica en el ambiente varía mucho según las fuentes (de decenas a cientos de años); por eso se dice 'se calcula' y 'cientos de años'. 'Roble' se refiere al roble macuelizo (Tabebuia rosea)."
+      }
+    },
+    {
+      "id": "ciencia-ciudadana",
+      "titulo": "¡Tú también puedes ser científico!",
+      "emoji": "🔍",
+      "color": "#E76F51",
+      "resumen": "Observar, preguntar y anotar es lo que hacen los científicos. Con tu curiosidad puedes ayudar a conocer mejor la naturaleza de Nicaragua.",
+      "secciones": [
+        {
+          "titulo": "¿Qué hace un científico?",
+          "texto": "Un científico o una científica es alguien que hace preguntas y busca respuestas observando con cuidado. ¿Qué aves llegan a mi patio? ¿Cuándo florece el sacuanjoche de mi calle? Para responder, observa, anota lo que ves, compara y saca conclusiones. ¡Tú ya haces ciencia cada vez que te preguntas «¿por qué?»!"
+        },
+        {
+          "titulo": "Tu cuaderno de campo",
+          "texto": "Los científicos usan un cuaderno de campo, y tú puedes hacer el tuyo con una libreta. Cada vez que observes, anota la fecha, la hora, el lugar y cómo está el clima. Luego describe o dibuja lo que viste: su color, su tamaño y qué estaba haciendo. No importa si no sabes su nombre: ¡tus dibujos y notas ayudarán a descubrirlo!"
+        },
+        {
+          "titulo": "Observar sin molestar",
+          "texto": "Un buen científico cuida lo que observa. Mira a los animales de lejos y en silencio, sin perseguirlos ni tocarlos. No los saques de su casa, no muevas los nidos y deja las plantas donde están. Si tomas fotos, no te acerques demasiado y evita el flash. Si ves una serpiente u otro animal que pueda ser peligroso, aléjate despacio y avisa a una persona adulta."
+        },
+        {
+          "titulo": "Ciencia ciudadana",
+          "texto": "La ciencia ciudadana es cuando personas de todas las edades ayudan a los científicos compartiendo lo que observan. Con una persona adulta, puedes subir fotos de plantas y animales a iNaturalist, donde otras personas ayudan a identificarlos. En eBird se anotan las aves que se ven. Esos datos ayudan a saber dónde viven las especies y cómo protegerlas."
+        },
+        {
+          "titulo": "Tus primeros pasos",
+          "texto": "Empieza en tu casa o en tu escuela: escoge un árbol y obsérvalo cada semana. ¿Quién lo visita? ¿Cuándo tiene flores o frutos? Para usar las aplicaciones, pide siempre a una persona adulta que cree la cuenta y te acompañe. No compartan la ubicación exacta de tu casa ni datos personales. ¡Cada observación cuenta!"
+        }
+      ],
+      "sabias_que": [
+        "En iNaturalist, personas de todo el mundo han compartido millones de observaciones. ¡Algunas han ayudado a encontrar especies en lugares donde no se sabía que vivían!",
+        "Cada año, en mayo y en octubre, miles de personas en todo el mundo cuentan aves el mismo día y anotan lo que ven en eBird.",
+        "Existe una aplicación llamada Seek, creada por iNaturalist para familias, que ayuda a reconocer plantas y animales con la cámara sin necesidad de crear una cuenta."
+      ],
+      "actividad": "Mi primera expedición: prepara tu cuaderno de campo y, con una persona adulta, observa durante 20 minutos un lugar con plantas. Anota la fecha, la hora, el lugar y el clima. Dibuja tres seres vivos y escribe qué estaban haciendo. Si tienen un teléfono, tomen una foto sin acercarse demasiado y súbanla juntos a iNaturalist o usen Seek para descubrir su nombre.",
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "iNaturalist y eBird exigen que las cuentas de menores de 13 años sean gestionadas por una persona adulta (padres o docentes); por eso se insiste en el acompañamiento adulto. Seek by iNaturalist funciona sin cuenta (el inicio de sesión es opcional): confirmar con la versión vigente. Eventos de eBird: Global Big Day (mayo) y October Big Day (octubre)."
+      }
+    }
+  ],
+  "fichas": [
+    {
+      "id": "guardabarranco",
+      "especie_id": "guardabarranco",
+      "nombre": "Guardabarranco",
+      "emoji": "🐦",
+      "tipo": "Ave",
+      "texto": "El guardabarranco es el ave nacional de Nicaragua. Mide unos 35 centímetros, contando su larga cola. Sus plumas son verdes, canela y turquesa, y en la punta de la cola tiene dos plumas en forma de raqueta. Pasa largos ratos quieto en una rama, esperando ver un insecto para atraparlo de un salto.",
+      "donde_vive": "En el bosque seco y en zonas con árboles del Pacífico y del centro de Nicaragua. Hace su nido en túneles que cava en barrancos y paredes de tierra.",
+      "que_come": "Insectos grandes, arañas, lagartijas pequeñas y algunas frutas.",
+      "sabias_que": "Cuando ve a un posible depredador, mueve la cola de un lado a otro como un péndulo. ¡Es su manera de decir «ya te vi»!",
+      "como_ayudar": "Cuida los árboles y los barrancos donde anida, y nunca lo tengas en una jaula: el guardabarranco es feliz en libertad.",
+      "verificacion": {
+        "estado": "pendiente",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Eumomota superciliosa. UICN global LC (iNaturalist, 2026-11-26). Longitud ~33–38 cm. Señal de cola ante depredadores: Murphy (2006). Sobre el carácter oficial de 'ave nacional', ver la nota del tema 'simbolos-naturales'."
+      }
+    },
+    {
+      "id": "sacuanjoche",
+      "especie_id": "sacuanjoche",
+      "nombre": "Sacuanjoche",
+      "emoji": "🌼",
+      "tipo": "Planta",
+      "texto": "El sacuanjoche es la flor nacional de Nicaragua. Es un árbol pequeño, de ramas gruesas, que en el verano bota sus hojas y se llena de flores perfumadas de cinco pétalos. Sus flores pueden ser blancas con el centro amarillo, amarillas o rosadas. Con ellas se hacen adornos para celebraciones y fiestas.",
+      "donde_vive": "Crece de forma natural en el bosque seco del Pacífico y también se siembra en parques, patios y escuelas de todo el país.",
+      "que_come": "Como toda planta, hace su propio alimento con la luz del sol, el agua y el aire (fotosíntesis). Necesita mucho sol y aguanta bien la época seca.",
+      "sabias_que": "Sus flores huelen muy rico, sobre todo al atardecer, pero no tienen néctar. ¡Con su perfume atraen a las polillas, que se llevan su polen a otras flores!",
+      "como_ayudar": "Siembra un sacuanjoche en tu escuela o en tu casa. Ten cuidado con su savia blanca, que puede irritar la piel y los ojos: si la tocas, lávate bien las manos.",
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Plumeria rubra. UICN global LC (iNaturalist, 2026-11-26). Polinización por engaño (sin néctar) por esfinges: Haber (1984, Biotropica). Látex irritante, propio de la familia Apocynaceae. Confirmar cuál es la coloración del sacuanjoche representado como símbolo oficial."
+      }
+    },
+    {
+      "id": "madrono",
+      "especie_id": "madrono",
+      "nombre": "Madroño",
+      "emoji": "🌸",
+      "tipo": "Planta",
+      "texto": "El madroño es el árbol nacional de Nicaragua. Puede crecer hasta unos 20 metros de alto. Su tronco es liso y su corteza se desprende en láminas finas, dejando ver tonos rojizos y grisáceos. Cuando florece, sus ramas se cubren de pequeñas flores blancas, y el árbol parece vestido de fiesta.",
+      "donde_vive": "En el bosque seco del Pacífico y del centro del país. También se siembra en potreros, orillas de caminos y parques.",
+      "que_come": "Hace su propio alimento con la luz del sol mediante la fotosíntesis. Necesita sol y resiste muy bien la temporada seca.",
+      "sabias_que": "Su madera es dura y resistente. Además, cuando florece, muchas abejas visitan sus flores.",
+      "como_ayudar": "Siembra madroños con tu escuela y cuida los que ya crecen en tu comunidad. ¡Son parte de nuestra identidad!",
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Calycophyllum candidissimum. UICN global LC (iNaturalist, 2026-11-26). Altura: se usa 'hasta unos 20 m' (algunas floras dan hasta 30 m). Mes de floración no indicado porque las fuentes no coinciden. Uso melífero mencionado en estudios de flora apícola de Nicaragua (UNA); confirmar. Lo vistoso de la flor incluye un lóbulo del cáliz blanco y agrandado; se simplifica como 'flores blancas'."
+      }
+    },
+    {
+      "id": "jaguar",
+      "especie_id": "jaguar",
+      "nombre": "Jaguar",
+      "emoji": "🐆",
+      "tipo": "Mamífero",
+      "texto": "El jaguar es el felino más grande de América. Su pelaje amarillo tiene manchas en forma de rosetas, y no hay dos jaguares con el mismo dibujo. Es fuerte, silencioso y un excelente nadador. Vive solo y recorre grandes territorios. Por eso necesita selvas grandes y bien conservadas para sobrevivir.",
+      "donde_vive": "En las selvas grandes del Caribe y del norte del país, como las reservas de Bosawás e Indio Maíz.",
+      "que_come": "Es carnívoro: caza chanchos de monte, venados, guatusas, cusucos, tortugas, peces y caimanes.",
+      "sabias_que": "Su mordida es tan fuerte que puede romper el caparazón de una tortuga. ¡Y le gusta el agua, al contrario de muchos gatos!",
+      "como_ayudar": "Cuidar los bosques es cuidar al jaguar. Es muy tímido y casi nunca se deja ver; si alguna vez ves uno, obsérvalo desde lejos, no te acerques y avisa a una persona adulta.",
+      "verificacion": {
+        "estado": "pendiente",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Panthera onca. UICN global NT (iNaturalist, 2026-11-26). Dieta y capacidad de romper caparazones de tortugas: bien documentadas en la literatura."
+      }
+    },
+    {
+      "id": "danta",
+      "especie_id": "danta",
+      "nombre": "Danta",
+      "emoji": "🐾",
+      "tipo": "Mamífero",
+      "texto": "La danta es el mamífero terrestre más grande de Centroamérica: puede pesar más de 200 kilos. Tiene una nariz larga y flexible, como una pequeña trompa, que usa para arrancar hojas. Es tranquila, nada muy bien y le gusta refrescarse en ríos y lagunas. Hoy está en peligro de extinción.",
+      "donde_vive": "En selvas y bosques húmedos bien conservados, sobre todo en Bosawás, Indio Maíz y otras áreas del Caribe.",
+      "que_come": "Es herbívora: come hojas, brotes, ramitas y frutas caídas.",
+      "sabias_que": "Las crías nacen con rayas y manchas blancas, como una sandía, que las ayudan a esconderse entre la luz y la sombra del bosque.",
+      "como_ayudar": "No cazar dantas y proteger los bosques donde viven. Como come frutas y deja las semillas en otros lugares, ¡ayuda a sembrar el bosque!",
+      "verificacion": {
+        "estado": "pendiente",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Tapirus bairdii. UICN global EN (iNaturalist, 2026-11-26). Peso adulto ~150–300 kg."
+      }
+    },
+    {
+      "id": "mono-congo",
+      "especie_id": "mono-congo",
+      "nombre": "Mono congo",
+      "emoji": "🐒",
+      "tipo": "Mamífero",
+      "texto": "El mono congo, o mono aullador, es negro y tiene pelos dorados o cafés a los lados del cuerpo. Vive en grupos familiares en lo alto de los árboles. Al amanecer y al atardecer lanza aullidos muy fuertes para avisar a otros grupos dónde está. Usa su cola como una mano más para agarrarse de las ramas.",
+      "donde_vive": "En bosques de casi todo el país, desde el bosque seco del Pacífico hasta las selvas del Caribe. Es fácil oírlo en el Volcán Mombacho y en la isla de Ometepe.",
+      "que_come": "Sobre todo hojas, además de frutas y flores.",
+      "sabias_que": "Sus aullidos se pueden escuchar a kilómetros de distancia. ¡Es uno de los animales más ruidosos de América!",
+      "como_ayudar": "Cuida los árboles donde vive y no le des comida: los alimentos de las personas pueden enfermarlo. Obsérvalo en silencio y sin molestarlo.",
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Alouatta palliata. UICN global VU (iNaturalist, 2026-11-26). Alcance de los aullidos: las fuentes dan de 1 a 5 km según el terreno; se dice 'a kilómetros'."
+      }
+    },
+    {
+      "id": "perezoso-tres-dedos",
+      "especie_id": "perezoso-tres-dedos",
+      "nombre": "Perezoso de tres dedos",
+      "emoji": "🦥",
+      "tipo": "Mamífero",
+      "texto": "El perezoso de tres dedos pasa casi toda su vida colgado de los árboles. Se mueve muy despacio para ahorrar energía, porque las hojas que come le dan poca. En su pelo crecen algas diminutas que le dan un color verdoso y lo ayudan a camuflarse entre las hojas. ¡Siempre parece estar sonriendo!",
+      "donde_vive": "En los bosques húmedos, sobre todo del Caribe y del sureste de Nicaragua.",
+      "que_come": "Hojas, brotes y flores de árboles como el guarumo.",
+      "sabias_que": "Baja al suelo más o menos una vez por semana para hacer popó. ¡Y tiene más huesitos en el cuello que una jirafa, por eso puede girar mucho la cabeza!",
+      "como_ayudar": "No lo cargues ni te tomes fotos con él: se estresa mucho. Si ves uno cruzando una carretera, avisa a una persona adulta para que lo protejan del tráfico.",
+      "verificacion": {
+        "estado": "pendiente",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Bradypus variegatus. UICN global LC (iNaturalist, 2026-11-26). Bradypus tiene 8–9 vértebras cervicales (la jirafa, 7). Algas en el pelo y bajada semanal a defecar: bien documentadas."
+      }
+    },
+    {
+      "id": "manati",
+      "especie_id": "manati",
+      "nombre": "Manatí",
+      "emoji": "🌊",
+      "tipo": "Mamífero",
+      "texto": "El manatí es un mamífero grande y tranquilo que vive en el agua. Puede medir unos tres metros de largo y pesar cientos de kilos. Nada despacio, moviendo su cola redonda como un remo, y sube a la superficie para respirar. Las mamás amamantan a sus crías bajo el agua.",
+      "donde_vive": "En lagunas costeras, ríos y bahías del Caribe, como la Laguna de Perlas, la bahía de Bluefields y el río San Juan.",
+      "que_come": "Es herbívoro: come pastos marinos y plantas acuáticas, ¡muchísimas cada día!",
+      "sabias_que": "Aunque vive en el agua, sus parientes vivos más cercanos son los elefantes.",
+      "como_ayudar": "No botes basura en ríos y lagunas, y si viajas en panga por donde viven, pide que vayan despacio para no golpearlos. El manatí es una especie amenazada y está protegido.",
+      "verificacion": {
+        "estado": "pendiente",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Trichechus manatus. UICN global VU (iNaturalist, 2026-11-26); la subespecie antillana (T. m. manatus), que es la de Nicaragua, está evaluada como EN. Parentesco con los proboscídeos (elefantes): bien establecido."
+      }
+    },
+    {
+      "id": "tortuga-paslama",
+      "especie_id": "tortuga-paslama",
+      "nombre": "Tortuga paslama",
+      "emoji": "🐢",
+      "tipo": "Reptil",
+      "texto": "La tortuga paslama es una de las tortugas marinas más pequeñas: su caparazón mide entre 60 y 70 centímetros y es de color verde oliva. Pasa casi toda su vida en el mar, pero las hembras salen a la playa para poner sus huevos. ¡En Nicaragua llegan miles a la vez, en las famosas arribadas!",
+      "donde_vive": "En el océano Pacífico. Pone sus huevos en playas como La Flor y Chacocente, que son refugios de vida silvestre.",
+      "que_come": "Es omnívora: come cangrejos, camarones, caracoles, medusas y algas.",
+      "sabias_que": "Cada hembra pone alrededor de 100 huevos en un nido que cava con sus aletas traseras. ¡El calor de la arena decide si nacen machos o hembras!",
+      "como_ayudar": "No compres ni comas huevos de tortuga. En la playa, recoge la basura, no hagas fogatas en la zona de nidos y no uses luces fuertes de noche.",
+      "verificacion": {
+        "estado": "pendiente",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Lepidochelys olivacea. UICN global VU (iNaturalist, 2026-11-26). Caparazón ~60–70 cm; nidada media ~100 huevos; arribadas en La Flor y Río Escalante-Chacocente."
+      }
+    },
+    {
+      "id": "tiburon-toro",
+      "especie_id": "tiburon-toro",
+      "nombre": "Tiburón toro",
+      "emoji": "🦈",
+      "tipo": "Pez",
+      "texto": "El tiburón toro es un tiburón grande y robusto, de hocico corto y redondeado. Los adultos suelen medir entre 2 y 3 metros. Lo más asombroso es que puede vivir en el mar y también en agua dulce. Por eso algunos suben desde el mar Caribe por el río San Juan hasta el Lago Cocibolca.",
+      "donde_vive": "En las costas del Caribe y del Pacífico, en las desembocaduras de los ríos, en el río San Juan y en el Lago Cocibolca, donde hoy es poco común.",
+      "que_come": "Es carnívoro: come peces, rayas, otros tiburones, tortugas y cangrejos.",
+      "sabias_que": "Durante años se pensó que el tiburón del lago era una especie distinta. Los científicos marcaron tiburones y descubrieron que viajaban entre el mar y el lago.",
+      "como_ayudar": "Pescar de forma responsable y cuidar el río San Juan. Es un animal salvaje y poderoso: si alguna vez ves uno, obsérvalo de lejos y fuera del agua, y avisa a una persona adulta.",
+      "verificacion": {
+        "estado": "pendiente",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Carcharhinus leucas. UICN global VU (iNaturalist, 2026-11-26). Marcajes de T. B. Thorson (1960–1970). Disminución en el lago asociada a la pesca intensiva de tiburones en décadas pasadas."
+      }
+    },
+    {
+      "id": "lapa-roja",
+      "especie_id": "lapa-roja",
+      "nombre": "Lapa roja",
+      "emoji": "🦜",
+      "tipo": "Ave",
+      "texto": "La lapa roja es un loro gigante de plumas rojas, amarillas y azules. Mide casi un metro, contando su larga cola. Su pico es tan fuerte que puede abrir semillas y nueces muy duras. Vuela en parejas o en grupos, y sus gritos se escuchan desde lejos. Las parejas suelen permanecer juntas muchos años.",
+      "donde_vive": "En bosques grandes y bien conservados, sobre todo en el Caribe y el norte, como Bosawás e Indio Maíz.",
+      "que_come": "Semillas, frutas, nueces, flores y brotes de los árboles del bosque.",
+      "sabias_que": "Anida en huecos de árboles altos y viejos. Si se cortan esos árboles, las lapas no tienen dónde criar a sus pichones.",
+      "como_ayudar": "Nunca compres lapas ni loros como mascotas: su casa es el bosque. En Nicaragua está prohibido cazarlas o venderlas.",
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Ara macao. UICN global LC (iNaturalist, 2026-11-26), CITES I. Longitud ~81–96 cm. Escasa en Nicaragua; confirmar su inclusión en la veda nacional indefinida de MARENA. Confirmar si se debe mencionar alguna población remanente del Pacífico (p. ej., Cosigüina)."
+      }
+    },
+    {
+      "id": "quetzal",
+      "especie_id": "quetzal",
+      "nombre": "Quetzal",
+      "emoji": "🪶",
+      "tipo": "Ave",
+      "texto": "El quetzal es una de las aves más hermosas de América. Tiene plumas verdes brillantes y el pecho rojo. El macho tiene unas plumas larguísimas que le cuelgan como una cola y pueden medir más que su cuerpo. Vive en lo alto de las montañas, entre nubes, musgos y orquídeas.",
+      "donde_vive": "En los bosques nubosos de las montañas del norte y el centro, en reservas como Cerro El Arenal y Datanlí-El Diablo.",
+      "que_come": "Sobre todo frutos de aguacatillo, parientes silvestres del aguacate, que traga enteros. También come insectos, lagartijas y ranitas.",
+      "sabias_que": "Después de comer un aguacatillo, devuelve la semilla por el pico. ¡Así siembra nuevos árboles en el bosque!",
+      "como_ayudar": "Proteger los bosques nubosos y los troncos viejos en pie, porque en ellos hace su nido. Si lo ves, obsérvalo en silencio y sin acercarte al nido.",
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Pharomachrus mocinno. UICN global NT (iNaturalist, 2026-11-26). Plumas supracaudales del macho de hasta ~65 cm, más largas que el cuerpo (~36–40 cm). Confirmar localidades: Cerro El Arenal y Datanlí-El Diablo son citadas a menudo; también Peñas Blancas (Bosawás) y Kilambé."
+      }
+    },
+    {
+      "id": "rana-ojos-rojos",
+      "especie_id": "rana-ojos-rojos",
+      "nombre": "Rana de ojos rojos",
+      "emoji": "🐸",
+      "tipo": "Anfibio",
+      "texto": "La rana de ojos rojos es verde brillante, con los costados azules y amarillos, las patas anaranjadas y unos enormes ojos rojos. Mide unos 5 a 7 centímetros. De día duerme pegada debajo de una hoja, con los ojos cerrados y sus colores escondidos. De noche despierta para cazar.",
+      "donde_vive": "En los bosques húmedos de tierras bajas, sobre todo en el Caribe, cerca de charcas y ríos.",
+      "que_come": "Insectos como grillos, moscas y polillas.",
+      "sabias_que": "Pone sus huevos en hojas que cuelgan sobre el agua, y los renacuajos caen al agua al nacer. Si una serpiente ataca los huevos, ¡los embriones pueden salir antes y escapar!",
+      "como_ayudar": "No la toques ni la saques de su hábitat: el jabón, el repelente o el bloqueador de tus manos pueden dañar su piel delicada. Cuidar el agua limpia es cuidarla.",
+      "verificacion": {
+        "estado": "pendiente",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Agalychnis callidryas. UICN global LC (iNaturalist, 2026-11-26). Eclosión temprana ante depredadores: Warkentin (1995, PNAS). Tamaño ~5–7 cm (hembras mayores)."
+      }
+    },
+    {
+      "id": "garrobo",
+      "especie_id": "garrobo",
+      "nombre": "Garrobo",
+      "emoji": "🦎",
+      "tipo": "Reptil",
+      "texto": "El garrobo es un lagarto grande con una cola larga llena de anillos de espinas. Los adultos pueden medir más de un metro, contando la cola. Le gusta tomar el sol sobre piedras, troncos y techos para calentar su cuerpo. Cuando se siente en peligro, corre rapidísimo hasta su escondite en un hueco.",
+      "donde_vive": "En el bosque seco y en zonas abiertas del Pacífico, incluso en patios, muros de piedra y cerca de las playas.",
+      "que_come": "Es omnívoro: los jóvenes comen sobre todo insectos, y los adultos comen hojas, flores y frutas, además de algunos animalitos.",
+      "sabias_que": "Es uno de los lagartos más rápidos del mundo: los científicos lo han medido corriendo a casi 35 kilómetros por hora.",
+      "como_ayudar": "No caces garrobos ni compres sus huevos; en Nicaragua hay meses de veda para protegerlos mientras se reproducen. Obsérvalo de lejos: si lo agarras, puede morder o dar coletazos.",
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Ctenosaura similis. UICN global LC (iNaturalist, 2026-11-26). Velocidad máxima 34.6 km/h (Garland 1984, Am. J. Physiol.); Guinness registra 34.9 km/h (2017). Longitud total de machos hasta ~1.3 m. Confirmar que el garrobo negro está incluido en la veda vigente de MARENA (no se dan fechas)."
+      }
+    },
+    {
+      "id": "ceiba",
+      "especie_id": "ceiba",
+      "nombre": "Ceiba",
+      "emoji": "🌳",
+      "tipo": "Planta",
+      "texto": "La ceiba es uno de los árboles más grandes de América. Puede crecer más de 40 metros, tan alta como un edificio de muchos pisos. En la base tiene raíces enormes en forma de tablas, llamadas contrafuertes, que la sostienen. De sus frutos sale una fibra parecida al algodón, muy suave, que lleva las semillas con el viento.",
+      "donde_vive": "En bosques secos y húmedos de todo el país, y también en parques y plazas de muchos pueblos.",
+      "que_come": "Hace su propio alimento con la luz del sol (fotosíntesis). Necesita mucho espacio y sol para crecer tan grande.",
+      "sabias_que": "Sus flores se abren de noche y las visitan murciélagos, que beben su néctar y llevan su polen a otras ceibas.",
+      "como_ayudar": "Cuida las ceibas viejas de tu comunidad: son la casa de aves, orquídeas, bromelias e insectos. ¡Un solo árbol guarda un pequeño mundo!",
+      "verificacion": {
+        "estado": "pendiente",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Ceiba pentandra. UICN global LC (iNaturalist, 2026-11-26). Altura máxima de la especie ~60–70 m; se dice 'más de 40'. Polinización por murciélagos en el Neotrópico: documentada. Fibra (kapok) dispersada por el viento."
+      }
+    },
+    {
+      "id": "mangle-rojo",
+      "especie_id": "mangle-rojo",
+      "nombre": "Mangle rojo",
+      "emoji": "🌿",
+      "tipo": "Planta",
+      "texto": "El mangle rojo es un árbol que crece donde el agua del mar se mezcla con la de los ríos. Sus raíces parecen patas largas que salen del tronco y se clavan en el lodo. Estas raíces lo sostienen cuando sube la marea y forman un laberinto donde se esconden peces, camarones y cangrejos.",
+      "donde_vive": "En los manglares de las dos costas: en el Pacífico, como en el Estero Real y la Isla Juan Venado, y en el Caribe, como en la Laguna de Perlas y la bahía de Bluefields.",
+      "que_come": "Hace su propio alimento con la luz del sol (fotosíntesis). Necesita agua salobre y lodo, y sus raíces filtran gran parte de la sal del agua.",
+      "sabias_que": "Su semilla empieza a crecer mientras todavía cuelga del árbol. Luego cae al agua como un lápiz verde, flota y echa raíces donde llega.",
+      "como_ayudar": "No cortes mangles ni botes basura en esteros y lagunas. Los manglares protegen las costas de las olas y las tormentas, y dan alimento a muchas familias.",
+      "verificacion": {
+        "estado": "pendiente",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Rhizophora mangle. UICN global LC (iNaturalist, 2026-11-26). Viviparidad (propágulos) y exclusión de sal en las raíces: bien documentadas."
+      }
+    },
+    {
+      "id": "salamandra-mombacho",
+      "especie_id": "salamandra-mombacho",
+      "nombre": "Salamandra del Mombacho",
+      "emoji": "🌋",
+      "tipo": "Anfibio",
+      "texto": "La salamandra del Mombacho es un anfibio pequeño, de piel húmeda y cola larga. Mide unos 10 a 12 centímetros, contando la cola. ¡Solo vive en el Volcán Mombacho y en ningún otro lugar del mundo! No tiene pulmones: respira a través de su piel y del interior de su boca.",
+      "donde_vive": "En el bosque nuboso de la parte alta del Volcán Mombacho, en Granada, escondida entre hojas caídas, musgos, troncos y bromelias.",
+      "que_come": "Insectos pequeños, arañas y otros animalitos del suelo del bosque.",
+      "sabias_que": "Sus crías no pasan por la etapa de renacuajo en el agua: salen del huevo como salamandritas completas.",
+      "como_ayudar": "Si visitas el Mombacho, quédate en los senderos y no levantes troncos ni piedras para buscarla. Su casa es pequeña y muy frágil.",
+      "verificacion": {
+        "estado": "pendiente",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Bolitoglossa mombachoensis. UICN global VU (iNaturalist, 2026-11-26). Endémica del Volcán Mombacho. LHC 46–66 mm y cola ~90–96 % de la LHC (AmphibiaWeb), lo que da ~9–13 cm de longitud total. Pletodóntido sin pulmones y con desarrollo directo."
+      }
+    },
+    {
+      "id": "rana-venenosa-fresa",
+      "especie_id": "rana-venenosa-fresa",
+      "nombre": "Rana venenosa fresa",
+      "emoji": "🍓",
+      "tipo": "Anfibio",
+      "texto": "La rana venenosa fresa es diminuta: mide apenas unos 2 centímetros. Es roja como una fresa y, en algunos lugares, tiene las patas azules, como si llevara pantalones de color azul. Sus colores brillantes son una advertencia para otros animales: «¡No me comas, soy venenosa!». A diferencia de muchas ranas, está activa de día.",
+      "donde_vive": "En los bosques húmedos del sureste de Nicaragua, en el Caribe, entre la hojarasca y las plantas del suelo.",
+      "que_come": "Hormigas, ácaros y otros insectos diminutos. De esa comida obtiene las sustancias que hacen venenosa su piel.",
+      "sabias_que": "La mamá carga a sus renacuajos en la espalda, uno por uno, hasta charquitos de agua dentro de plantas como las bromelias. ¡Y después les lleva huevitos para que coman!",
+      "como_ayudar": "Es muy bonita, pero no se toca: obsérvala de lejos y avisa a una persona adulta si la ves. Proteger el bosque húmedo es proteger su casa.",
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Oophaga pumilio. UICN global LC (iNaturalist, 2026-11-26). Tamaño ~17–24 mm. Alcaloides de la piel obtenidos de la dieta (hormigas y ácaros); cuidado materno con huevos tróficos. Confirmar el límite norte de su distribución en el Caribe de Nicaragua."
+      }
+    },
+    {
+      "id": "mariposa-morfo",
+      "especie_id": "mariposa-morfo",
+      "nombre": "Mariposa morfo azul",
+      "emoji": "🦋",
+      "tipo": "Invertebrado",
+      "texto": "La mariposa morfo tiene alas de un azul brillante que parece metálico. Abiertas, pueden medir unos 12 centímetros o más. Por debajo, sus alas son cafés y tienen manchas redondas como ojos, que la ayudan a esconderse. Cuando vuela, el azul aparece y desaparece, como un destello entre los árboles.",
+      "donde_vive": "En bosques húmedos y en orillas de ríos y quebradas, sobre todo en el centro y el Caribe de Nicaragua.",
+      "que_come": "Las mariposas adultas chupan el jugo de frutas maduras caídas en el suelo. Las orugas comen hojas de algunas plantas del bosque.",
+      "sabias_que": "Su azul no viene de un pigmento, como el de una pintura. Las escamas de sus alas tienen formas diminutas que reflejan la luz azul. ¡Es un color hecho con luz!",
+      "como_ayudar": "No atrapes mariposas: obsérvalas y tómales fotos. Sembrar plantas nativas y no usar venenos en el jardín ayuda a todos los insectos.",
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Morpho peleides: GBIF la acepta como especie; iNaturalist la trata como Morpho helenor peleides (subespecie). Conservar el id. UICN: no evaluada (NE). Envergadura aproximada ~10–14 cm según la fuente; confirmar. Color estructural de las escamas: bien documentado."
+      }
+    },
+    {
+      "id": "coral-cuerno-de-alce",
+      "especie_id": "coral-cuerno-de-alce",
+      "nombre": "Coral cuerno de alce",
+      "emoji": "🪸",
+      "tipo": "Invertebrado",
+      "texto": "El coral cuerno de alce parece una planta o una piedra, ¡pero es un animal! Está formado por miles de animalitos llamados pólipos que viven juntos. Sus ramas anchas se parecen a los cuernos de un alce. Dentro de él viven algas diminutas que le dan alimento gracias a la luz del sol.",
+      "donde_vive": "En los arrecifes poco profundos del mar Caribe, como los de las Islas del Maíz y los Cayos Miskitos.",
+      "que_come": "Recibe alimento de las algas que viven dentro de él y, además, atrapa animalitos diminutos del agua con sus tentáculos.",
+      "sabias_que": "Cuando el agua del mar se calienta demasiado, las algas se van y el coral se pone blanco. A eso se le llama blanqueamiento.",
+      "como_ayudar": "Si visitas un arrecife, no toques ni pises los corales, y usa un protector solar que no dañe el mar. Este coral está en peligro crítico de extinción.",
+      "verificacion": {
+        "estado": "pendiente",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Acropora palmata. UICN global CR (iNaturalist, 2026-11-26; ficha UICN 133006). Simbiosis con zooxantelas y blanqueamiento: bien documentados. Presencia en arrecifes de Corn Islands y Cayos Miskitos: confirmar con estudios locales."
+      }
+    },
+    {
+      "id": "gaspar",
+      "especie_id": "gaspar",
+      "nombre": "Gaspar",
+      "emoji": "🐟",
+      "tipo": "Pez",
+      "texto": "El gaspar es un pez largo con un hocico como de cocodrilo, lleno de dientes afilados. Su cuerpo está cubierto de escamas duras y brillantes, como una armadura. Puede medir más de un metro. Pertenece a una familia de peces muy antigua, que ya existía cuando vivían los dinosaurios.",
+      "donde_vive": "En el Lago Cocibolca, el Lago Xolotlán, el río San Juan y otros ríos y lagunas de agua dulce.",
+      "que_come": "Es carnívoro: come peces, camarones y cangrejos de río.",
+      "sabias_que": "Además de branquias, puede tragar aire en la superficie, como si tuviera un pulmón. Así sobrevive en aguas con poco oxígeno.",
+      "como_ayudar": "Mantener limpios los lagos y los ríos, y pescar solo lo necesario, respetando las tallas y las épocas permitidas.",
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Atractosteus tropicus. UICN global LC (iNaturalist, 2026-11-26). Talla máxima ~125 cm (FishBase). Respiración aérea mediante la vejiga natatoria: documentada en lepisosteidos. Confirmar su presencia actual en el Xolotlán."
+      }
+    },
+    {
+      "id": "tucan-pico-iris",
+      "especie_id": "tucan-pico-iris",
+      "nombre": "Tucán pico iris",
+      "emoji": "🌈",
+      "tipo": "Ave",
+      "texto": "El tucán pico iris tiene un pico enorme pintado de verde, azul, naranja y rojo, como un arcoíris. Aunque parece pesado, su pico es muy liviano, porque por dentro es como una esponja llena de aire. Su cuerpo es negro y su pecho es amarillo. Vive en grupos que van de árbol en árbol buscando frutas.",
+      "donde_vive": "En los bosques húmedos del Caribe y del centro de Nicaragua, sobre todo donde hay árboles altos con frutas.",
+      "que_come": "Sobre todo frutas; también insectos, lagartijas y, a veces, huevos o pichones de otras aves.",
+      "sabias_que": "Para dormir, gira la cabeza, acomoda el pico sobre la espalda y dobla la cola hacia adelante. ¡Queda hecho una bolita de plumas!",
+      "como_ayudar": "No compres tucanes como mascotas y cuida los árboles frutales del bosque. Así ellos siguen esparciendo semillas.",
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Ramphastos sulfuratus. UICN global NT (iNaturalist, 2026-11-26). Confirmar si también debe mencionarse su presencia en zonas húmedas del Pacífico de Nicaragua."
+      }
+    },
+    {
+      "id": "ballena-jorobada",
+      "especie_id": "ballena-jorobada",
+      "nombre": "Ballena jorobada",
+      "emoji": "🐋",
+      "tipo": "Mamífero",
+      "texto": "La ballena jorobada es un gigante del mar: puede medir entre 12 y 16 metros, más que un bus, y pesar unas 30 toneladas. Tiene aletas larguísimas, como alas, y le gusta saltar fuera del agua. Los machos cantan canciones largas y complicadas bajo el agua.",
+      "donde_vive": "Viaja por los océanos. En ciertas épocas del año llega a las aguas cálidas del Pacífico de Nicaragua para tener a sus crías.",
+      "que_come": "Come krill (camaroncitos diminutos) y pececitos en las aguas frías donde se alimenta. En las aguas cálidas casi no come.",
+      "sabias_que": "Sus aletas pectorales son las más largas de todas las ballenas: ¡pueden medir hasta cinco metros!",
+      "como_ayudar": "Si sales a verlas en lancha, mantén la distancia y no las persigas. Evita que la basura llegue al mar: las redes y los plásticos pueden enredarlas.",
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Megaptera novaeangliae. UICN global LC (iNaturalist, 2026-11-26). Temporadas en Nicaragua: la población del Pacífico Norte visita Centroamérica aprox. de diciembre a abril; confirmar si también llegan grupos del hemisferio sur (jul–oct). Por eso no se dan meses."
+      }
+    },
+    {
+      "id": "terciopelo",
+      "especie_id": "terciopelo",
+      "nombre": "Terciopelo",
+      "emoji": "🐍",
+      "tipo": "Reptil",
+      "texto": "La terciopelo es una serpiente grande, de cabeza ancha y triangular, con dibujos en forma de triángulos o equis a los lados del cuerpo. Puede medir más de un metro y medio. Es venenosa, pero no ataca por gusto: muerde solo si se siente acorralada o si la pisan sin querer. Casi siempre caza de noche.",
+      "donde_vive": "En bosques húmedos, orillas de ríos, potreros y cultivos, sobre todo en el centro y el Caribe de Nicaragua.",
+      "que_come": "Ratones, ratas, ranas, lagartijas y a veces aves. Así ayuda a controlar las plagas de ratas.",
+      "sabias_que": "No pone huevos: sus crías nacen ya formadas, ¡y pueden nacer muchas de una sola vez!",
+      "como_ayudar": "Nunca intentes tocar ni matar una serpiente. Si ves una, quédate tranquilo, aléjate despacio y avisa a una persona adulta. Usa botas y lámpara al caminar de noche por el monte. Si alguien sufre una mordedura, debe ir de inmediato al centro de salud, sin usar remedios caseros.",
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Bothrops asper. UICN global LC (iNaturalist, 2026-11-26). Vivípara, camadas de unas pocas a varias decenas de crías. Longitud habitual 1.2–1.8 m. Confirmar su distribución en el Pacífico de Nicaragua (se dice 'sobre todo en el centro y el Caribe')."
+      }
+    }
+  ],
+  "glosario": [
+    {
+      "palabra": "ecosistema",
+      "definicion": "Lugar donde los seres vivos (plantas, animales, hongos) y las cosas sin vida (agua, suelo, aire, sol) se relacionan y dependen unos de otros. Un bosque, un manglar y un lago son ecosistemas."
+    },
+    {
+      "palabra": "especie",
+      "definicion": "Grupo de seres vivos muy parecidos entre sí que pueden tener crías juntos. El jaguar es una especie y el guardabarranco es otra."
+    },
+    {
+      "palabra": "hábitat",
+      "definicion": "Lugar donde vive un ser vivo y donde encuentra comida, agua y refugio. El hábitat del manatí son las lagunas y los ríos."
+    },
+    {
+      "palabra": "endémico",
+      "definicion": "Se dice de una especie que vive de forma natural solo en un lugar del mundo. La salamandra del Mombacho es endémica de ese volcán."
+    },
+    {
+      "palabra": "extinción",
+      "definicion": "Es cuando una especie desaparece por completo y ya no queda ningún individuo vivo. La extinción es para siempre."
+    },
+    {
+      "palabra": "biodiversidad",
+      "definicion": "Toda la variedad de vida que existe: plantas, animales, hongos y seres diminutos, y también los lugares donde viven."
+    },
+    {
+      "palabra": "manglar",
+      "definicion": "Bosque que crece en las costas, donde el agua dulce de los ríos se mezcla con el agua salada del mar."
+    },
+    {
+      "palabra": "migración",
+      "definicion": "Viaje de ida y vuelta que algunos animales hacen cada año para buscar comida o un buen lugar para tener crías."
+    },
+    {
+      "palabra": "polinizador",
+      "definicion": "Animal, como una abeja, un colibrí o un murciélago, que lleva el polen de una flor a otra y así ayuda a que se formen frutos y semillas."
+    },
+    {
+      "palabra": "depredador",
+      "definicion": "Animal que caza a otros animales para comérselos. El jaguar es un depredador."
+    },
+    {
+      "palabra": "herbívoro",
+      "definicion": "Animal que se alimenta de plantas, como hojas, frutas o semillas. La danta y el manatí son herbívoros."
+    },
+    {
+      "palabra": "carnívoro",
+      "definicion": "Animal que se alimenta principalmente de otros animales. El tiburón toro es carnívoro."
+    },
+    {
+      "palabra": "omnívoro",
+      "definicion": "Animal que come plantas y también animales. Las personas y la tortuga paslama somos omnívoras."
+    },
+    {
+      "palabra": "cadena alimenticia",
+      "definicion": "Es el camino que sigue la energía cuando un ser vivo se come a otro. Por ejemplo: un saltamontes come hojas y un guardabarranco se come al saltamontes."
+    },
+    {
+      "palabra": "área protegida",
+      "definicion": "Lugar que se cuida por ley para proteger sus plantas, animales, agua y paisajes. Bosawás y el Volcán Masaya son áreas protegidas."
+    },
+    {
+      "palabra": "volcán",
+      "definicion": "Montaña por donde sale, o salió alguna vez, roca derretida llamada lava, junto con ceniza y gases que vienen del interior de la Tierra."
+    },
+    {
+      "palabra": "laguna cratérica",
+      "definicion": "Laguna que se forma cuando el cráter o hueco de un volcán se llena de agua. La Laguna de Apoyo es una de ellas."
+    },
+    {
+      "palabra": "arrecife de coral",
+      "definicion": "Estructura en el fondo del mar formada por corales, que son animales. Es la casa de muchísimos peces y otros seres marinos."
+    },
+    {
+      "palabra": "reciclar",
+      "definicion": "Convertir materiales usados, como papel, plástico o vidrio, en cosas nuevas, en lugar de botarlos."
+    },
+    {
+      "palabra": "deforestación",
+      "definicion": "Es cuando se cortan o se queman los bosques y no se les deja volver a crecer."
+    },
+    {
+      "palabra": "contaminación",
+      "definicion": "Es cuando el aire, el agua o el suelo se ensucian con basura, humo o sustancias que hacen daño a los seres vivos."
+    },
+    {
+      "palabra": "científico/a",
+      "definicion": "Persona que hace preguntas sobre el mundo y busca respuestas observando, experimentando y anotando lo que descubre."
+    },
+    {
+      "palabra": "fotosíntesis",
+      "definicion": "Proceso con el que las plantas hacen su propio alimento usando la luz del sol, el agua y el aire. Al hacerlo, sueltan oxígeno."
+    },
+    {
+      "palabra": "nido",
+      "definicion": "Lugar que preparan algunos animales, como las aves y las tortugas, para poner sus huevos y proteger a sus crías."
+    },
+    {
+      "palabra": "desove",
+      "definicion": "Momento en que una hembra pone sus huevos, como cuando las tortugas marinas los ponen en la arena o los peces en el agua."
+    },
+    {
+      "palabra": "metamorfosis",
+      "definicion": "Gran cambio de forma que tienen algunos animales al crecer. El renacuajo se convierte en rana y la oruga en mariposa."
+    },
+    {
+      "palabra": "mamífero",
+      "definicion": "Animal que tiene pelo, aunque sea muy poquito, y cuyas crías toman leche de su mamá. El mono congo, el manatí y las personas somos mamíferos."
+    },
+    {
+      "palabra": "reptil",
+      "definicion": "Animal de piel seca cubierta de escamas o placas, como el garrobo, las serpientes, los cocodrilos y las tortugas."
+    },
+    {
+      "palabra": "anfibio",
+      "definicion": "Animal de piel húmeda y suave, como las ranas, los sapos y las salamandras. Muchos pasan una parte de su vida en el agua y otra en la tierra."
+    },
+    {
+      "palabra": "especie amenazada",
+      "definicion": "Especie que corre peligro de desaparecer si no la protegemos, porque quedan pocos individuos o porque está perdiendo su hábitat."
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Cuál es el ave nacional de Nicaragua?",
+      "opciones": [
+        "La lapa roja",
+        "El guardabarranco",
+        "El zanate"
+      ],
+      "correcta": 1,
+      "explicacion": "¡Muy bien! El guardabarranco, con su cola de raquetas, es nuestra ave nacional."
+    },
+    {
+      "pregunta": "¿Qué quiere decir que una especie es endémica?",
+      "opciones": [
+        "Que solo vive en un lugar del mundo",
+        "Que vive en todos los países",
+        "Que está enferma"
+      ],
+      "correcta": 0,
+      "explicacion": "¡Exacto! Una especie endémica vive de forma natural en un solo lugar, como la salamandra del Mombacho."
+    },
+    {
+      "pregunta": "¿Dónde vive una salamandra que no existe en ningún otro lugar del mundo?",
+      "opciones": [
+        "En el Lago Xolotlán",
+        "En los Cayos Miskitos",
+        "En el Volcán Mombacho"
+      ],
+      "correcta": 2,
+      "explicacion": "¡Correcto! La salamandra del Mombacho solo vive en el bosque nuboso de ese volcán."
+    },
+    {
+      "pregunta": "¿Cuál es el lago más grande de Centroamérica?",
+      "opciones": [
+        "El Lago Cocibolca",
+        "La Laguna de Apoyo",
+        "El Lago Xolotlán"
+      ],
+      "correcta": 0,
+      "explicacion": "¡Así es! El Cocibolca, o Lago de Nicaragua, es el más grande de Centroamérica."
+    },
+    {
+      "pregunta": "¿Cómo se llama cuando miles de tortugas paslama llegan juntas a la playa a poner huevos?",
+      "opciones": [
+        "Una tormenta",
+        "Una migración de aves",
+        "Una arribada"
+      ],
+      "correcta": 2,
+      "explicacion": "¡Muy bien! Las arribadas ocurren en playas como La Flor y Chacocente."
+    },
+    {
+      "pregunta": "¿Qué decide si de un huevo de tortuga nace un macho o una hembra?",
+      "opciones": [
+        "El color de la luna",
+        "La temperatura de la arena",
+        "El tamaño de la playa"
+      ],
+      "correcta": 1,
+      "explicacion": "¡Exacto! Con arena más caliente nacen más hembras, y con arena más fresca, más machos."
+    },
+    {
+      "pregunta": "¿Qué come el manatí?",
+      "opciones": [
+        "Plantas acuáticas y pastos marinos",
+        "Peces grandes",
+        "Frutas de los árboles"
+      ],
+      "correcta": 0,
+      "explicacion": "¡Correcto! El manatí es herbívoro y come muchísimas plantas acuáticas cada día."
+    },
+    {
+      "pregunta": "¿Por qué el perezoso a veces se ve verdoso?",
+      "opciones": [
+        "Porque se pinta con hojas",
+        "Porque está enojado",
+        "Porque en su pelo crecen algas"
+      ],
+      "correcta": 2,
+      "explicacion": "¡Muy bien! Las algas de su pelo lo ayudan a camuflarse entre las hojas."
+    },
+    {
+      "pregunta": "¿Cuál es la flor nacional de Nicaragua?",
+      "opciones": [
+        "La rosa",
+        "El sacuanjoche",
+        "El girasol"
+      ],
+      "correcta": 1,
+      "explicacion": "¡Así es! El sacuanjoche es nuestra flor nacional y huele muy rico."
+    },
+    {
+      "pregunta": "¿Qué tiburón puede subir del mar Caribe al Lago Cocibolca?",
+      "opciones": [
+        "El tiburón toro",
+        "El tiburón ballena",
+        "El tiburón martillo"
+      ],
+      "correcta": 0,
+      "explicacion": "¡Excelente! El tiburón toro puede vivir en agua salada y en agua dulce, y sube por el río San Juan."
+    },
+    {
+      "pregunta": "¿Para qué sirven las raíces del mangle rojo?",
+      "opciones": [
+        "Para secar el mar",
+        "Para atraer tormentas",
+        "Para sostener el árbol y dar refugio a peces y cangrejos"
+      ],
+      "correcta": 2,
+      "explicacion": "¡Correcto! Sus raíces son como una guardería para muchos animales del mar."
+    },
+    {
+      "pregunta": "¿Cuál es el mamífero terrestre más grande de Centroamérica?",
+      "opciones": [
+        "El jaguar",
+        "La danta",
+        "El venado"
+      ],
+      "correcta": 1,
+      "explicacion": "¡Muy bien! La danta puede pesar más de 200 kilos y vive en las selvas."
+    },
+    {
+      "pregunta": "¿Cómo se llama el proceso con el que las plantas hacen su alimento usando la luz del sol?",
+      "opciones": [
+        "Fotosíntesis",
+        "Metamorfosis",
+        "Migración"
+      ],
+      "correcta": 0,
+      "explicacion": "¡Exacto! Con la fotosíntesis, las plantas hacen su alimento y sueltan oxígeno."
+    },
+    {
+      "pregunta": "¿Qué debes hacer si ves una serpiente?",
+      "opciones": [
+        "Tocarla para ver si es venenosa",
+        "Alejarte despacio y avisar a una persona adulta",
+        "Tirarle piedras"
+      ],
+      "correcta": 1,
+      "explicacion": "¡Muy bien! Mantener la calma y alejarte es lo más seguro para ti y para la serpiente."
+    },
+    {
+      "pregunta": "Los corales de los arrecifes son...",
+      "opciones": [
+        "Piedras de colores",
+        "Plantas del mar",
+        "Animales"
+      ],
+      "correcta": 2,
+      "explicacion": "¡Sorpresa! Los corales son animales formados por muchos pólipos diminutos."
+    },
+    {
+      "pregunta": "¿Por qué muchas aves migratorias vienen a Nicaragua?",
+      "opciones": [
+        "Para escapar del frío y encontrar comida",
+        "Porque se pierden",
+        "Para buscar nieve"
+      ],
+      "correcta": 0,
+      "explicacion": "¡Correcto! Cuando en el norte hace frío, aquí encuentran comida y un clima agradable."
+    },
+    {
+      "pregunta": "¿Qué tipo de cafetal ayuda más a las aves migratorias?",
+      "opciones": [
+        "Uno sin ningún árbol",
+        "Uno con muchas luces de noche",
+        "Uno con árboles de sombra"
+      ],
+      "correcta": 2,
+      "explicacion": "¡Así es! Los cafetales con árboles de sombra son como hoteles para las aves viajeras."
+    },
+    {
+      "pregunta": "¿Qué le pasa a un renacuajo durante la metamorfosis?",
+      "opciones": [
+        "Se convierte en pez",
+        "Se transforma en rana",
+        "Se vuelve planta"
+      ],
+      "correcta": 1,
+      "explicacion": "¡Excelente! El renacuajo cambia poco a poco hasta convertirse en rana."
+    },
+    {
+      "pregunta": "¿Qué aplicación usan muchas personas para anotar las aves que observan?",
+      "opciones": [
+        "eBird",
+        "Una calculadora",
+        "Un juego de carros"
+      ],
+      "correcta": 0,
+      "explicacion": "¡Muy bien! Con eBird, y con ayuda de una persona adulta, tus observaciones ayudan a la ciencia."
+    },
+    {
+      "pregunta": "¿Cuál de estas acciones ayuda a las tortugas marinas?",
+      "opciones": [
+        "Comprar huevos de tortuga",
+        "Recoger basura de la playa y apagar las luces fuertes de noche",
+        "Llevarse tortuguitas a la casa"
+      ],
+      "correcta": 1,
+      "explicacion": "¡Correcto! Una playa limpia y oscura de noche ayuda a las tortuguitas a llegar al mar."
+    },
+    {
+      "pregunta": "¿Qué pez del Cocibolca tiene escamas duras como una armadura y puede tragar aire?",
+      "opciones": [
+        "La mojarra",
+        "El sábalo real",
+        "El gaspar"
+      ],
+      "correcta": 2,
+      "explicacion": "¡Exacto! El gaspar es un pez muy antiguo, con una armadura de escamas."
+    },
+    {
+      "pregunta": "¿Qué volcán de Nicaragua nació en el año 1850?",
+      "opciones": [
+        "El Cerro Negro",
+        "El Mombacho",
+        "El Maderas"
+      ],
+      "correcta": 0,
+      "explicacion": "¡Muy bien! El Cerro Negro es uno de los volcanes más jóvenes de Centroamérica."
+    },
+    {
+      "pregunta": "¿Qué fruto silvestre le encanta al quetzal?",
+      "opciones": [
+        "El mango",
+        "El aguacatillo",
+        "La sandía"
+      ],
+      "correcta": 1,
+      "explicacion": "¡Así es! El quetzal traga el aguacatillo entero y luego devuelve la semilla, sembrando el bosque."
+    },
+    {
+      "pregunta": "¿Por qué la rana venenosa fresa tiene colores tan brillantes?",
+      "opciones": [
+        "Para brillar de noche",
+        "Porque come fresas",
+        "Para avisar a otros animales que es venenosa"
+      ],
+      "correcta": 2,
+      "explicacion": "¡Correcto! Sus colores dicen «¡no me comas!». Por eso la observamos sin tocarla."
+    },
+    {
+      "pregunta": "¿Qué significa biodiversidad?",
+      "opciones": [
+        "Un tipo de planta",
+        "La variedad de vida que hay en la Tierra",
+        "Un volcán activo"
+      ],
+      "correcta": 1,
+      "explicacion": "¡Excelente! La biodiversidad es toda la variedad de vida, ¡y Nicaragua tiene muchísima!"
+    }
+  ],
+  "adivinanzas": [
+    {
+      "pistas": [
+        "Hago mi nido en túneles que cavo en la tierra.",
+        "Cuando veo un peligro, muevo la cola como un péndulo.",
+        "Soy el ave nacional de Nicaragua."
+      ],
+      "respuesta": "guardabarranco"
+    },
+    {
+      "pistas": [
+        "Soy muy tímido y casi nadie me ve en el bosque.",
+        "Soy un gato, pero me encanta nadar.",
+        "Soy el felino más grande de América y tengo manchas en forma de rosetas."
+      ],
+      "respuesta": "jaguar"
+    },
+    {
+      "pistas": [
+        "Cuando era bebé tenía rayas y manchas, como una sandía.",
+        "Tengo una nariz larga y flexible, como una pequeña trompa.",
+        "Soy el mamífero terrestre más grande de Centroamérica."
+      ],
+      "respuesta": "danta"
+    },
+    {
+      "pistas": [
+        "Uso mi cola como si fuera una mano más.",
+        "Como muchas hojas y paso horas descansando en los árboles.",
+        "Al amanecer lanzo aullidos que se oyen a kilómetros."
+      ],
+      "respuesta": "mono-congo"
+    },
+    {
+      "pistas": [
+        "Bajo al suelo más o menos una vez por semana.",
+        "En mi pelo crecen algas que me pintan de verde.",
+        "Soy famoso por moverme muy, muy despacio."
+      ],
+      "respuesta": "perezoso-tres-dedos"
+    },
+    {
+      "pistas": [
+        "Mis parientes vivos más cercanos son los elefantes.",
+        "Como plantas acuáticas y pastos marinos.",
+        "Soy un mamífero grande y tranquilo que vive en las lagunas y ríos del Caribe."
+      ],
+      "respuesta": "manati"
+    },
+    {
+      "pistas": [
+        "El calor de la arena decide si mis hijos serán machos o hembras.",
+        "Llego a la playa con miles de compañeras en una arribada.",
+        "Soy una tortuga marina y pongo mis huevos en La Flor y Chacocente."
+      ],
+      "respuesta": "tortuga-paslama"
+    },
+    {
+      "pistas": [
+        "Me trago enteros los aguacatillos y luego devuelvo la semilla.",
+        "Vivo en los bosques nubosos de las montañas.",
+        "Soy verde brillante, tengo el pecho rojo y el macho luce plumas larguísimas."
+      ],
+      "respuesta": "quetzal"
+    },
+    {
+      "pistas": [
+        "Pongo mis huevos en hojas que cuelgan sobre el agua.",
+        "De día duermo pegada debajo de una hoja.",
+        "Soy verde y tengo unos grandes ojos rojos."
+      ],
+      "respuesta": "rana-ojos-rojos"
+    },
+    {
+      "pistas": [
+        "No tengo pulmones: respiro por la piel.",
+        "Me escondo entre musgos y hojas de un bosque nuboso.",
+        "Solo vivo en un volcán de Granada que lleva mi nombre."
+      ],
+      "respuesta": "salamandra-mombacho"
+    },
+    {
+      "pistas": [
+        "Puedo vivir en agua salada y también en agua dulce.",
+        "Subo por el río San Juan y paso sus raudales.",
+        "Soy un tiburón y me han visto nadando en el Lago Cocibolca."
+      ],
+      "respuesta": "tiburon-toro"
+    },
+    {
+      "pistas": [
+        "Mis flores se abren de noche y las visitan murciélagos.",
+        "Mis frutos tienen una fibra suave, como algodón, que viaja con el viento.",
+        "Soy un árbol gigante con enormes raíces en forma de tablas."
+      ],
+      "respuesta": "ceiba"
+    }
+  ],
+  "promesas": [
+    "Cuido el agua cerrando la llave mientras me cepillo los dientes y avisando si veo una fuga.",
+    "Pongo la basura en su lugar, separo lo que se puede reciclar y uso menos plástico.",
+    "Observo a los animales de lejos y en silencio, sin perseguirlos ni hacerles daño.",
+    "Dejo que los animales silvestres vivan libres: no los compro ni los tengo como mascotas.",
+    "Siembro y cuido árboles y plantas nativas de mi comunidad.",
+    "Apago las luces y los aparatos que no estoy usando para ahorrar energía.",
+    "Cuando visito un área protegida, camino por los senderos y no me llevo plantas, flores, piedras ni animales.",
+    "Comparto con mi familia y mis amigos lo que aprendo, para que juntos cuidemos la naturaleza de Nicaragua."
+  ]
+}

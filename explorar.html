@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Explorar el mapa · Atlas Vivo de Nicaragua</title>
+  <meta name="description" content="Elige un punto de Nicaragua y descubre qué especies es probable observar, las especies emblemáticas de la zona y las áreas protegidas cercanas.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+  <link rel="stylesheet" href="assets/css/styles.css">
+  <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+</head>
+<body data-no-footer>
+  <main class="explore-layout">
+    <aside class="explore-panel" id="panel">
+      <div class="panel-block">
+        <span class="eyebrow">¿Qué puedo ver aquí?</span>
+        <h1 style="font-size:1.7rem;margin-bottom:6px">Explora por ubicación</h1>
+        <p class="muted small" style="margin-bottom:14px">Toca el mapa, busca un lugar o usa tu ubicación. Te mostraremos las especies con más registros científicos alrededor, las especies emblemáticas de la zona y las áreas protegidas cercanas.</p>
+
+        <form class="search-bar" id="form-buscar" role="search">
+          <label for="q" class="visually-hidden">Buscar un lugar</label>
+          <input id="q" class="input" type="search" placeholder="Ej. Somoto, Laguna de Apoyo, Bluefields…" autocomplete="off">
+          <button class="btn btn-primary" type="submit">Buscar</button>
+        </form>
+        <div id="geo-resultados" class="small" style="margin-top:6px"></div>
+
+        <div class="row" style="margin-top:10px">
+          <button class="btn btn-secondary btn-sm" id="btn-ubicacion" type="button">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3"/></svg>
+            Usar mi ubicación
+          </button>
+          <label for="lugares" class="visually-hidden">Lugares rápidos</label>
+          <select id="lugares" class="select" style="width:auto;flex:1;min-width:160px">
+            <option value="">Ir a un lugar…</option>
+          </select>
+        </div>
+
+        <span class="panel-label">Radio de búsqueda</span>
+        <div class="seg" id="seg-radio" role="group" aria-label="Radio de búsqueda">
+          <button type="button" data-v="2">2 km</button>
+          <button type="button" data-v="5">5 km</button>
+          <button type="button" data-v="10">10 km</button>
+          <button type="button" data-v="25">25 km</button>
+          <button type="button" data-v="50">50 km</button>
+        </div>
+
+        <span class="panel-label">Grupo</span>
+        <div class="seg" id="seg-grupo" role="group" aria-label="Grupo de organismos"></div>
+
+        <label class="check" style="margin-top:12px">
+          <input type="checkbox" id="chk-temporada"> Solo registros de esta época del año (mes actual ± 1)
+        </label>
+      </div>
+
+      <div id="resultados">
+        <div class="empty-state">
+          <svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2"><path d="M32 58s18-17 18-31a18 18 0 1 0-36 0c0 14 18 31 18 31z"/><circle cx="32" cy="27" r="7"/></svg>
+          <p><strong>Elige un punto en el mapa</strong><br>o busca un lugar para comenzar.</p>
+        </div>
+        <div id="region-info"></div>
+      </div>
+    </aside>
+    <section class="explore-map" aria-label="Mapa">
+      <div id="mapa"></div>
+      <div class="map-hint" id="map-hint">Toca cualquier punto del mapa</div>
+    </section>
+  </main>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script type="module" src="assets/js/explorar.js"></script>
+</body>
+</html>

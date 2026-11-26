@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Panel de revisión científica · Atlas Vivo de Nicaragua</title>
+  <meta name="description" content="Estado de verificación de cada ficha del atlas y resultados de la validación automática contra GBIF e iNaturalist.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/styles.css">
+  <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+</head>
+<body>
+  <main class="container">
+    <section class="page-head">
+      <span class="eyebrow">Para personas revisoras</span>
+      <h1>Panel de revisión científica</h1>
+      <p class="lead">Estado de cada ficha curada y resultado de la validación automática (nombres contra GBIF e iNaturalist, registros en Nicaragua, categoría UICN y vínculos internos).</p>
+      <div class="stats" id="resumen" style="margin-top:20px"></div>
+    </section>
+
+    <div class="tabs" role="tablist" id="tabs">
+      <button role="tab" data-t="especies" aria-selected="true">Especies</button>
+      <button role="tab" data-t="areas" aria-selected="false">Áreas y sitios</button>
+      <button role="tab" data-t="ninos" aria-selected="false">Enciclopedia infantil</button>
+    </div>
+    <div class="filters-row" style="margin-bottom:14px">
+      <label class="visually-hidden" for="f-estado">Estado</label>
+      <select id="f-estado" class="select">
+        <option value="">Todos los estados</option>
+        <option value="pendiente">Pendiente</option>
+        <option value="revisar">En revisión</option>
+        <option value="verificado">Verificado</option>
+      </select>
+      <label class="check"><input type="checkbox" id="f-alertas"> Solo con alertas automáticas</label>
+      <label class="visually-hidden" for="f-q">Buscar</label>
+      <input id="f-q" class="input" type="search" placeholder="Buscar…" style="max-width:260px">
+      <span class="spacer"></span>
+      <button class="btn btn-secondary btn-sm" id="csv">Descargar CSV</button>
+    </div>
+    <div class="table-wrap"><table class="data" id="tabla"></table></div>
+    <p class="small muted" id="fecha-validacion" style="margin-top:10px"></p>
+
+    <section class="section-sm doc">
+      <h2>Cómo marcar una ficha como verificada</h2>
+      <ol>
+        <li>Abre el archivo correspondiente en GitHub: <code>data/especies.json</code>, <code>data/areas.json</code> o <code>data/ninos.json</code>.</li>
+        <li>Busca el registro por su <code>id</code> y corrige lo necesario.</li>
+        <li>En <code>verificacion</code>, cambia <code>"estado"</code> a <code>"verificado"</code> (o <code>"revisar"</code> si queda una duda), y completa <code>"revisor"</code>, <code>"fecha"</code> (AAAA-MM-DD) y, si quieres, <code>"notas"</code>.</li>
+        <li>Guarda el cambio (commit). El sitio se actualiza solo.</li>
+      </ol>
+      <p>Para volver a correr la validación automática: <code>node scripts/validar.mjs</code> (requiere Node.js 18 o superior). Ver <code>docs/GUIA-VERIFICACION.md</code>.</p>
+    </section>
+  </main>
+  <script type="module" src="assets/js/revision.js"></script>
+</body>
+</html>

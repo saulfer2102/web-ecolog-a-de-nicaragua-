@@ -1,0 +1,141 @@
+/* Mi Primera Enciclopedia de la Naturaleza — estilos infantiles */
+.ninos {
+  --k-bg: #fffaf0;
+  --k-ink: #2b2a3a;
+  --k-soft: #5a5870;
+  --k-card: #ffffff;
+  --k-border: #f0e4c8;
+  --k-sol: #ffc93c;
+  --k-verde: #2e9e5b;
+  --k-azul: #3a86ff;
+  --k-rojo: #e76f51;
+  background: var(--k-bg);
+  color: var(--k-ink);
+  font-family: "Nunito", "Inter", system-ui, sans-serif;
+  font-size: 18px;
+}
+:root[data-theme="dark"] .ninos { --k-bg: #1d1b2a; --k-ink: #f4f1ff; --k-soft: #c5c1dc; --k-card: #29263b; --k-border: #3b3753; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .ninos { --k-bg: #1d1b2a; --k-ink: #f4f1ff; --k-soft: #c5c1dc; --k-card: #29263b; --k-border: #3b3753; }
+}
+.ninos h1, .ninos h2, .ninos h3 { font-family: "Baloo 2", "Fraunces", system-ui, sans-serif; font-weight: 700; letter-spacing: 0; }
+.k-hero {
+  background: radial-gradient(800px 300px at 90% 0%, #ffe08a 0%, transparent 60%), linear-gradient(160deg, #bdf0d0 0%, #a6dcff 100%);
+  color: #1f2a44; padding: 40px 0 70px; position: relative; overflow: hidden;
+}
+.k-hero h1 { font-size: clamp(2rem, 5vw, 3.2rem); color: #1f2a44; margin-bottom: 8px; }
+.k-hero p { font-size: 1.15rem; max-width: 46ch; color: #2d3b5a; }
+.k-hero .k-sun { position: absolute; right: 6%; top: 20px; font-size: clamp(4rem, 12vw, 8rem); animation: flotar 5s ease-in-out infinite; }
+@keyframes flotar { 50% { transform: translateY(-10px) rotate(4deg); } }
+@media (prefers-reduced-motion: reduce) { .k-hero .k-sun { animation: none; } }
+.k-back { display: inline-block; margin-bottom: 14px; color: #1f2a44; font-weight: 700; font-size: .95rem; }
+
+.k-nav { display: flex; gap: 10px; flex-wrap: wrap; margin-top: -34px; position: relative; z-index: 2; }
+.k-nav button {
+  border: none; cursor: pointer; font-family: "Baloo 2", system-ui, sans-serif; font-size: 1.1rem; font-weight: 700;
+  padding: 12px 20px; border-radius: 18px; background: var(--k-card); color: var(--k-ink);
+  box-shadow: 0 4px 0 rgba(0,0,0,.12), 0 8px 18px rgba(0,0,0,.08); transition: transform .1s;
+}
+.k-nav button:hover { transform: translateY(-2px); }
+.k-nav button[aria-selected="true"] { background: var(--k-sol); color: #3a2a00; }
+
+.k-section { padding: 34px 0 20px; }
+.k-grid { display: grid; gap: 18px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 230px), 1fr)); }
+.k-tema {
+  border: none; text-align: left; cursor: pointer; border-radius: 24px; padding: 22px; color: #fff; min-height: 170px;
+  display: flex; flex-direction: column; justify-content: space-between; box-shadow: 0 6px 0 rgba(0,0,0,.15); transition: transform .12s;
+  font-family: inherit;
+  /* Oscurece ligeramente cualquier color de fondo para asegurar contraste con el texto blanco. */
+  background-image: linear-gradient(rgba(0,0,0,.18), rgba(0,0,0,.26));
+  text-shadow: 0 1px 2px rgba(0,0,0,.25);
+}
+.k-tema:hover { transform: translateY(-3px) rotate(-.5deg); }
+.k-tema .k-emoji { font-size: 2.8rem; line-height: 1; }
+.k-tema h3 { color: #fff; font-size: 1.3rem; margin: 10px 0 4px; }
+.k-tema p { margin: 0; font-size: .95rem; opacity: .95; }
+
+.k-ficha {
+  background: var(--k-card); border-radius: 22px; overflow: hidden; cursor: pointer; border: 3px solid var(--k-border);
+  text-align: left; padding: 0; font-family: inherit; color: inherit; display: flex; flex-direction: column; transition: transform .12s;
+}
+.k-ficha:hover { transform: translateY(-3px); border-color: var(--k-sol); }
+.k-ficha .k-foto { aspect-ratio: 1; background: #e9f5ee; position: relative; display: grid; place-items: center; font-size: 4rem; }
+.k-ficha .k-foto img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.k-ficha .k-nombre { padding: 12px 14px 14px; }
+.k-ficha .k-nombre b { font-family: "Baloo 2", system-ui; font-size: 1.25rem; display: block; line-height: 1.1; }
+.k-ficha .k-nombre span { font-size: .85rem; color: var(--k-soft); }
+
+.k-panel { background: var(--k-card); border-radius: 28px; padding: clamp(18px, 4vw, 36px); border: 3px solid var(--k-border); }
+.k-panel h2 { font-size: clamp(1.7rem, 4vw, 2.4rem); }
+.k-panel p { font-size: 1.12rem; line-height: 1.7; }
+.k-bubbles { display: grid; gap: 14px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 260px), 1fr)); margin: 20px 0; }
+.k-bubble { background: #fff3cf; color: #3a2a00; border-radius: 20px; padding: 16px 18px; font-size: 1.02rem; position: relative; }
+.k-bubble::before { content: "💡"; font-size: 1.4rem; display: block; margin-bottom: 4px; }
+.k-actividad { background: #e3f6ff; color: #12324a; border-radius: 20px; padding: 18px 20px; margin-top: 18px; }
+.k-actividad::before { content: "✂️ ¡Manos a la obra!"; display: block; font-family: "Baloo 2", system-ui; font-weight: 700; font-size: 1.2rem; margin-bottom: 6px; }
+.k-btn {
+  border: none; cursor: pointer; font-family: "Baloo 2", system-ui, sans-serif; font-weight: 700; font-size: 1.05rem;
+  padding: 10px 18px; border-radius: 999px; background: var(--k-verde); color: #fff; box-shadow: 0 4px 0 rgba(0,0,0,.18);
+  display: inline-flex; align-items: center; gap: 8px; text-decoration: none;
+}
+.k-btn:active { transform: translateY(2px); box-shadow: 0 2px 0 rgba(0,0,0,.18); }
+.k-btn.alt { background: var(--k-azul); }
+.k-btn.sol { background: var(--k-sol); color: #3a2a00; }
+.k-btn.gris { background: #d9d6e6; color: #2b2a3a; }
+.k-row { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+
+.k-ficha-det { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.2fr); gap: 28px; align-items: start; }
+@media (max-width: 760px) { .k-ficha-det { grid-template-columns: 1fr; } }
+.k-ficha-det .k-big { border-radius: 24px; overflow: hidden; aspect-ratio: 1; background: #e9f5ee; display: grid; place-items: center; font-size: 7rem; position: relative; }
+.k-ficha-det .k-big img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.k-credito { font-size: .72rem; color: var(--k-soft); margin-top: 6px; }
+.k-datos { display: grid; gap: 12px; margin-top: 14px; }
+.k-dato { border-radius: 18px; padding: 12px 16px; font-size: 1.05rem; }
+.k-dato b { display: block; font-family: "Baloo 2", system-ui; font-size: 1.1rem; }
+.k-dato.d1 { background: #e7f7ec; color: #17402a; }
+.k-dato.d2 { background: #fff0e6; color: #4a2410; }
+.k-dato.d3 { background: #fff7d6; color: #3a2a00; }
+.k-dato.d4 { background: #ece7ff; color: #2a1d5a; }
+
+/* Juegos */
+.k-quiz-op { display: block; width: 100%; text-align: left; margin: 10px 0; padding: 14px 18px; border-radius: 18px; border: 3px solid var(--k-border); background: var(--k-card); color: var(--k-ink); font-size: 1.1rem; cursor: pointer; font-family: inherit; }
+.k-quiz-op:hover:not([disabled]) { border-color: var(--k-azul); }
+.k-quiz-op.ok { background: #d8f5e1; border-color: #2e9e5b; color: #133d22; }
+.k-quiz-op.mal { background: #ffe1d9; border-color: #e76f51; color: #4a1a0c; }
+.k-progreso { height: 14px; background: var(--k-border); border-radius: 99px; overflow: hidden; margin: 10px 0 20px; }
+.k-progreso span { display: block; height: 100%; background: linear-gradient(90deg, #ffc93c, #2e9e5b); border-radius: 99px; transition: width .3s; }
+.k-estrellas { font-size: 2.6rem; letter-spacing: 4px; }
+.k-pista { background: #f1f7ff; color: #12324a; border-radius: 16px; padding: 12px 16px; margin: 8px 0; font-size: 1.1rem; animation: aparecer .3s ease; }
+@keyframes aparecer { from { opacity: 0; transform: translateY(6px); } }
+.k-opciones-fotos { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-top: 14px; }
+.k-opciones-fotos button { border: 3px solid var(--k-border); background: var(--k-card); border-radius: 18px; padding: 0; overflow: hidden; cursor: pointer; font-family: inherit; color: inherit; }
+.k-opciones-fotos button .k-foto { aspect-ratio: 1; background: #e9f5ee; display: grid; place-items: center; font-size: 3rem; position: relative; }
+.k-opciones-fotos button img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.k-opciones-fotos button span { display: block; padding: 8px; font-weight: 700; font-size: .95rem; }
+.k-opciones-fotos button.ok { border-color: #2e9e5b; }
+.k-opciones-fotos button.mal { border-color: #e76f51; opacity: .6; }
+
+/* Glosario */
+.k-letras { display: flex; flex-wrap: wrap; gap: 6px; margin: 12px 0 20px; }
+.k-letras button { width: 38px; height: 38px; border-radius: 12px; border: 2px solid var(--k-border); background: var(--k-card); color: var(--k-ink); font-weight: 800; cursor: pointer; font-family: inherit; }
+.k-letras button[aria-pressed="true"] { background: var(--k-sol); border-color: var(--k-sol); color: #3a2a00; }
+.k-glos { display: grid; gap: 12px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr)); }
+.k-glos div { background: var(--k-card); border: 3px solid var(--k-border); border-radius: 18px; padding: 14px 16px; }
+.k-glos b { font-family: "Baloo 2", system-ui; font-size: 1.25rem; color: var(--k-verde); display: block; }
+
+/* Promesa y certificado */
+.k-promesa { display: flex; gap: 12px; align-items: flex-start; padding: 12px 16px; border-radius: 18px; background: var(--k-card); border: 3px solid var(--k-border); margin-bottom: 10px; cursor: pointer; font-size: 1.1rem; }
+.k-promesa input { width: 26px; height: 26px; accent-color: var(--k-verde); flex-shrink: 0; margin-top: 2px; }
+.k-promesa:has(input:checked) { border-color: var(--k-verde); background: #e7f7ec; color: #17402a; }
+.k-cert { border: 10px double #2e9e5b; border-radius: 24px; padding: 34px; text-align: center; background: #fffdf5; color: #1f2a44; margin-top: 20px; }
+.k-cert h2 { color: #2e9e5b; font-size: 2.2rem; margin-bottom: 0; }
+.k-cert .k-cert-nombre { font-family: "Baloo 2", system-ui; font-size: 2.4rem; border-bottom: 3px dotted #2e9e5b; display: inline-block; min-width: 60%; margin: 10px 0; }
+.k-input { font-size: 1.15rem; padding: 12px 16px; border-radius: 16px; border: 3px solid var(--k-border); background: var(--k-card); color: var(--k-ink); width: 100%; max-width: 420px; font-family: inherit; }
+.k-nota-adultos { font-size: .9rem; color: var(--k-soft); border-top: 2px dashed var(--k-border); margin-top: 30px; padding-top: 16px; }
+
+@media print {
+  .ninos { background: #fff; }
+  .k-hero, .k-nav, .k-no-print, .site-header, .site-footer { display: none !important; }
+  .k-cert { margin: 0; }
+}
+.k-glos b::first-letter { text-transform: uppercase; }

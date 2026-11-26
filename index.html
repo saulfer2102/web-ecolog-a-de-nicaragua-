@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Atlas Vivo de Nicaragua · Flora, fauna y áreas protegidas</title>
+  <meta name="description" content="Explora la biodiversidad de Nicaragua: qué especies puedes observar en cualquier lugar del país, especies emblemáticas, áreas protegidas y una enciclopedia para niñas y niños. Datos de GBIF, iNaturalist, eBird y el Smithsonian.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700&family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/styles.css">
+  <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+</head>
+<body>
+  <main>
+    <section class="hero">
+      <svg class="hero-art" viewBox="0 0 600 360" aria-hidden="true">
+        <defs>
+          <linearGradient id="lagoG" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#2a8fb0"/><stop offset="1" stop-color="#145a73"/></linearGradient>
+          <linearGradient id="volG" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#2f6b52"/><stop offset="1" stop-color="#173f31"/></linearGradient>
+        </defs>
+        <circle cx="470" cy="80" r="42" fill="#f2b134" opacity=".9"/>
+        <path d="M60 270 L215 92 Q228 78 241 92 L330 200 L365 168 Q380 152 396 168 L540 270 Z" fill="url(#volG)"/>
+        <path d="M215 92 Q228 78 241 92 L256 110 Q228 122 200 110 Z" fill="#e8dcc0" opacity=".85"/>
+        <path d="M0 262 Q150 240 300 258 T600 252 L600 360 L0 360 Z" fill="url(#lagoG)"/>
+        <path d="M40 290 Q80 282 120 290 M180 304 Q230 296 280 304 M350 292 Q400 284 450 292 M470 318 Q520 310 570 318" stroke="#8fd0e4" stroke-width="2.5" fill="none" stroke-linecap="round" opacity=".7"/>
+        <g fill="#0f2a22">
+          <path d="M520 262 l14 -46 l14 46 z"/><path d="M548 262 l11 -36 l11 36 z"/><path d="M500 262 l9 -28 l9 28 z"/>
+        </g>
+        <g fill="none" stroke="#fdf1d6" stroke-width="3" stroke-linecap="round">
+          <path d="M120 120 q12 -10 24 0 q12 -10 24 0"/><path d="M160 150 q8 -7 16 0 q8 -7 16 0"/>
+        </g>
+      </svg>
+      <div class="container">
+        <span class="eyebrow" style="color:#f3d58e">Biodiversidad de Nicaragua</span>
+        <h1>Descubre la vida que nos rodea</h1>
+        <p class="lead">Elige cualquier lugar del país y conoce qué especies es probable observar, cuáles son emblemáticas de la zona y qué áreas protegidas la resguardan. Con datos abiertos de GBIF, iNaturalist, eBird y el Smithsonian.</p>
+        <form class="hero-search" action="explorar.html" role="search">
+          <label for="hq" class="visually-hidden">Buscar un lugar</label>
+          <input id="hq" name="q" type="search" placeholder="Escribe un lugar: Ometepe, Somoto, Bluefields…" autocomplete="off">
+          <button class="btn btn-primary" type="submit">Explorar</button>
+        </form>
+        <div class="hero-quick">
+          <span style="color:#b8cdc1">Prueba:</span>
+          <a href="explorar.html?lat=11.5110&lng=-85.6200&r=10">Isla de Ometepe</a>
+          <a href="explorar.html?lat=11.9150&lng=-86.0390&r=5">Laguna de Apoyo</a>
+          <a href="explorar.html?lat=13.4780&lng=-86.5830&r=10">Cañón de Somoto</a>
+          <a href="explorar.html?lat=12.1660&lng=-83.0450&r=10">Corn Island</a>
+          <a href="explorar.html?lat=11.0270&lng=-84.4030&r=25">Río San Juan</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="container">
+      <div class="stats" id="stats">
+        <div class="stat"><div class="stat-num" id="s-gbif">…</div><div class="stat-label">registros de biodiversidad de Nicaragua en GBIF</div><div class="stat-src">Fuente: GBIF.org, en vivo</div></div>
+        <div class="stat"><div class="stat-num" id="s-inat-sp">…</div><div class="stat-label">especies observadas en Nicaragua por la comunidad de iNaturalist</div><div class="stat-src">Fuente: iNaturalist, en vivo</div></div>
+        <div class="stat"><div class="stat-num" id="s-ebird">…</div><div class="stat-label">registros de aves de eBird para Nicaragua</div><div class="stat-src">Fuente: eBird vía GBIF, en vivo</div></div>
+        <div class="stat"><div class="stat-num" id="s-cat">…</div><div class="stat-label">fichas curadas de especies y áreas en este atlas</div><div class="stat-src">En verificación científica</div></div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="section-head">
+          <div><span class="eyebrow">Regiones</span><h2>Un país, muchos mundos</h2>
+          <p>Del bosque seco del Pacífico a los bosques nubosos del norte y la selva lluviosa del Caribe, pasando por los grandes lagos y dos océanos.</p></div>
+        </div>
+        <div class="grid grid-3" id="regiones"></div>
+      </div>
+    </section>
+
+    <section class="section" style="background:var(--bg-alt)">
+      <div class="container">
+        <div class="section-head">
+          <div><span class="eyebrow">Catálogo</span><h2>Especies para conocer</h2><p>Símbolos nacionales, endémicas y especies amenazadas, con fichas basadas en fuentes científicas.</p></div>
+          <a class="btn btn-secondary" href="especies.html">Ver todas las especies →</a>
+        </div>
+        <div class="grid grid-4" id="destacadas"></div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="section-head">
+          <div><span class="eyebrow">Conservación</span><h2>Lugares que protegen la vida</h2><p>Reservas de biosfera, humedales de importancia internacional y refugios donde la naturaleza sigue su curso.</p></div>
+          <a class="btn btn-secondary" href="areas.html">Ver todas las áreas →</a>
+        </div>
+        <div class="grid grid-3" id="areas"></div>
+      </div>
+    </section>
+
+    <section class="container">
+      <div class="kids-banner">
+        <div>
+          <span class="eyebrow" style="color:#8a5a00">Para niñas y niños</span>
+          <h2>Mi Primera Enciclopedia de la Naturaleza</h2>
+          <p>Temas sencillos, fichas de animales y plantas, juegos y adivinanzas para aprender por qué es tan importante cuidar nuestros recursos naturales.</p>
+          <a class="btn" href="ninos/index.html">Entrar a la enciclopedia →</a>
+        </div>
+        <div class="kids-emoji" aria-hidden="true">🐢🌳🦜</div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="section-head"><div><span class="eyebrow">Cómo funciona</span><h2>Ciencia abierta, explicada</h2></div></div>
+        <div class="grid grid-4">
+          <div class="card card-body"><h3>GBIF</h3><p class="small muted">La Infraestructura Mundial de Información en Biodiversidad reúne registros de museos, herbarios, inventarios y ciencia ciudadana. La usamos para medir cuántas veces se ha registrado cada especie en un lugar.</p></div>
+          <div class="card card-body"><h3>iNaturalist</h3><p class="small muted">Observaciones con fotografía identificadas por la comunidad. Usamos solo las de "grado de investigación" para estimar qué especies se observan con más frecuencia, y sus fotos con licencia abierta.</p></div>
+          <div class="card card-body"><h3>eBird</h3><p class="small muted">El programa de ciencia ciudadana de aves del Laboratorio de Ornitología de Cornell. Mostramos sus datos históricos (publicados en GBIF) y, con una clave gratuita, los reportes de los últimos 30 días.</p></div>
+          <div class="card card-body"><h3>Smithsonian (STRI)</h3><p class="small muted">Los sistemas de información de peces costeros del Gran Caribe y del Pacífico Oriental Tropical. Enlazamos cada pez marino a su ficha con fotos, mapas y biología.</p></div>
+        </div>
+        <div class="notice" style="margin-top:24px">
+          <strong>Validez científica</strong>
+          Los textos de este atlas se redactan a partir de fuentes citadas y pasan por una revisión experta. Cada ficha muestra su estado: <em>pendiente</em>, <em>en revisión</em> o <em>verificada</em>. Consulta el <a href="revision.html">panel de revisión</a> y la página de <a href="fuentes.html">fuentes y método</a>.
+        </div>
+      </div>
+    </section>
+  </main>
+  <script type="module" src="assets/js/inicio.js"></script>
+</body>
+</html>
