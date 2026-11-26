@@ -1,0 +1,2477 @@
+{
+  "meta": {
+    "version": "0.1.0",
+    "actualizado": "2026-11-26"
+  },
+  "areas": [
+    {
+      "id": "bosawas",
+      "nombre": "Reserva de Biosfera Bosawás",
+      "tipo": "area_protegida",
+      "categoria": "Reserva de Biosfera (incluye la Reserva Natural Bosawás y el Parque Nacional Cerro Saslaya como zonas núcleo)",
+      "designaciones": [
+        "Reserva de Biosfera (UNESCO, 1997)"
+      ],
+      "departamentos": [
+        "Jinotega",
+        "Costa Caribe Norte"
+      ],
+      "region": "caribe",
+      "coordenadas": [
+        14.2043,
+        -85.0045
+      ],
+      "area_ha": 2000000,
+      "nota_area": "Cifra redondeada. Las fuentes dan entre unos 2 y 2,2 millones de hectáreas para la reserva completa (núcleo más amortiguamiento), cerca del 15 % del territorio nacional; la zona núcleo suele citarse en torno a 750 000-800 000 ha.",
+      "anio_declaracion": 1991,
+      "ecosistemas": [
+        "bosque tropical húmedo de tierras bajas",
+        "bosque premontano y nuboso",
+        "bosque de galería",
+        "ríos y humedales"
+      ],
+      "descripcion": "Bosawás es el área protegida terrestre más grande de Nicaragua y uno de los bloques de bosque tropical continuo más extensos de Centroamérica. Su nombre une tres elementos del paisaje: el río Bocay, el cerro Saslaya y el río Waspuk. Se extiende por el norte de Jinotega y el oeste de la Costa Caribe Norte, desde tierras bajas surcadas por ríos hasta cerros cubiertos de bosque nuboso. En su interior viven pueblos indígenas mayangna y miskitu, cuyos territorios tradicionales coinciden con buena parte de la zona núcleo. Junto con la Biosfera del Río Plátano, en Honduras, forma el llamado Corazón del Corredor Biológico Mesoamericano, un enorme bosque compartido que conecta poblaciones de grandes mamíferos y aves a ambos lados de la frontera.",
+      "importancia": "Bosawás conserva poblaciones de especies que necesitan territorios muy grandes y bosque continuo, como el jaguar, la danta, el chancho de monte y el águila harpía, que han desaparecido de casi todo el Pacífico de Nicaragua. Sus bosques regulan el agua de cuencas importantes, como las de los ríos Bocay, Waspuk y otros afluentes del río Coco, y almacenan grandes cantidades de carbono. También es un territorio vivo de pueblos indígenas que dependen del bosque. Su principal amenaza es el avance de la frontera agrícola y ganadera, documentado por imágenes satelitales y por organizaciones de conservación, que ha transformado partes de la zona de amortiguamiento y penetra en la zona núcleo.",
+      "especies_emblematicas": [
+        "jaguar",
+        "danta",
+        "aguila-harpia",
+        "mono-arana",
+        "chancho-de-monte",
+        "lapa-roja"
+      ],
+      "otras_especies": [
+        "Puma concolor",
+        "Pecari tajacu",
+        "Cuniculus paca"
+      ],
+      "visitar": "El acceso es remoto y suele organizarse desde Siuna, Bonanza, Waslala o San José de Bocay, preferiblemente con guías locales y coordinando con las autoridades y los territorios indígenas.",
+      "fuentes": [
+        {
+          "cita": "UNESCO, Programa MAB: Reserva de Biosfera Bosawás.",
+          "url": "https://en.unesco.org/biosphere/lac/bosawas"
+        },
+        {
+          "cita": "Ley 407, Ley que declara y define la Reserva de la Biosfera de Bosawás. La Gaceta n.º 244, 24 de diciembre de 2001.",
+          "url": "https://nicaragua.justia.com/nacionales/leyes/ley-que-declara-y-define-la-reserva-de-bosawas-dec-24-2001/gdoc"
+        },
+        {
+          "cita": "BirdLife International. Important Bird Area factsheet: Bosawas (Nicaragua).",
+          "url": "https://datazone.birdlife.org/site/factsheet/bosawas-iba-nicaragua/details"
+        },
+        {
+          "cita": "Mongabay (2019). Indigenous communities, wildlife under threat as farms invade Nicaraguan reserve.",
+          "url": "https://news.mongabay.com/2019/09/indigenous-communities-wildlife-under-threat-as-farms-invade-nicaraguan-reserve/"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Año: 1991 corresponde a la primera declaratoria nacional (Reserva Nacional de Recursos Naturales Bosawás, Decreto 44-91; número de decreto no verificado en esta revisión). UNESCO la lista como reserva de biosfera desde 1997, pero el artículo 2 de la Ley 407 menciona una incorporación a la red MAB fechada en 1998: confirmar el año en el registro oficial de UNESCO. Superficie aproximada: las fuentes discrepan (2,0-2,2 millones de ha)."
+      }
+    },
+    {
+      "id": "indio-maiz",
+      "nombre": "Reserva Biológica Indio Maíz",
+      "tipo": "area_protegida",
+      "categoria": "Reserva Biológica",
+      "designaciones": [
+        "Parte de la Reserva de Biosfera Río San Juan (UNESCO, 2003)"
+      ],
+      "departamentos": [
+        "Río San Juan",
+        "Costa Caribe Sur"
+      ],
+      "region": "caribe",
+      "coordenadas": [
+        11.1204,
+        -84.0576
+      ],
+      "area_ha": 263980,
+      "nota_area": "El Decreto 66-99 fija 2 639,8 km² para la Reserva Biológica propiamente dicha. El Decreto 527 de 1990 daba unos 2 950 km² a la antigua Gran Reserva Biológica Río San Juan-Indio Maíz, que incluía áreas hoy separadas como la Reserva Natural Punta Gorda.",
+      "anio_declaracion": 1990,
+      "ecosistemas": [
+        "bosque tropical muy húmedo de tierras bajas",
+        "bosque inundable y yolillales",
+        "ríos y caños",
+        "humedales costeros"
+      ],
+      "descripcion": "Indio Maíz es una de las áreas protegidas terrestres más extensas de Nicaragua y una de las selvas mejor conservadas de Centroamérica. Ocupa el extremo sureste del país, entre el río San Juan, el río Punta Gorda y la costa del mar Caribe, en una de las zonas más lluviosas de Nicaragua. Su categoría de reserva biológica es la más estricta del sistema nacional: está pensada para la protección y la investigación, no para el uso extractivo. Parte de su territorio pertenece a los pueblos rama y kriol. Bosques de árboles gigantes como el almendro, ríos de aguas oscuras y pantanos de palma yolillo forman un mosaico donde todavía se escuchan monos aulladores, lapas y el paso de las dantas.",
+      "importancia": "La reserva es el corazón de la Reserva de Biosfera Río San Juan y uno de los últimos refugios de la lapa verde en Nicaragua. Esta guacamaya depende del almendro, árbol que le sirve de nido y alimento, por lo que la tala de almendros afecta directamente su reproducción. Indio Maíz conserva además poblaciones de jaguar, danta, mono araña y ranas venenosas, y conecta con los bosques de Costa Rica a través de la cuenca del San Juan. En abril de 2018 un gran incendio forestal afectó varios miles de hectáreas, y el avance de potreros desde el norte y el oeste es la amenaza más persistente, según monitoreos satelitales y reportajes de prensa.",
+      "especies_emblematicas": [
+        "lapa-verde",
+        "almendro",
+        "danta",
+        "jaguar",
+        "mono-arana",
+        "rana-venenosa-fresa"
+      ],
+      "otras_especies": [
+        "Choloepus hoffmanni",
+        "Pecari tajacu",
+        "Cuniculus paca"
+      ],
+      "visitar": "El acceso habitual es por el río San Juan, desde El Castillo o San Juan de Nicaragua, con guías autorizados. Algunas zonas están abiertas a visitas guiadas por los ríos Bartola e Indio.",
+      "fuentes": [
+        {
+          "cita": "Decreto 527, Creación de las Áreas Naturales Protegidas del Sureste de Nicaragua. La Gaceta n.º 78, 23 de abril de 1990 (derogado y sustituido por el Decreto 66-99).",
+          "url": "https://nicaragua.justia.com/nacionales/decretos-ejecutivos/creacion-de-las-areas-naturales-protegidas-del-sureste-de-nicaragua-apr-23-1990/gdoc"
+        },
+        {
+          "cita": "Decreto 66-99, Actualización y precisión de categorías y límites de las áreas protegidas ubicadas en el territorio del sureste de Nicaragua. La Gaceta n.º 116, 16 de junio de 1999.",
+          "url": "https://nicaragua.justia.com/nacionales/decretos-ejecutivos/actualizacion-y-precision-de-categorias-y-limites-de-las-areas-protegidas-ubicadas-en-el-territorio-del-sureste-de-nicaragua/gdoc"
+        },
+        {
+          "cita": "UNESCO, Programa El Hombre y la Biosfera (MAB): Reserva de Biosfera Río San Juan.",
+          "url": "https://www.unesco.org/en/mab/rio-san-juan"
+        },
+        {
+          "cita": "Mongabay (2021). Agricultural frontier advances in Nicaraguan biosphere reserve.",
+          "url": "https://news.mongabay.com/2021/12/agricultural-frontier-advances-in-nicaraguan-biosphere-reserve/"
+        },
+        {
+          "cita": "La Prensa (2015). A salvar Indio Maíz.",
+          "url": "https://www.laprensani.com/2015/06/03/nacionales/1843468-a-salvar-indio-maiz"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Año 1990: primera declaratoria como parte de la Gran Reserva Biológica Río San Juan-Indio Maíz (Decreto 527); la categoría y límites actuales vienen del Decreto 66-99 (1999). Confirmar la superficie afectada por el incendio de 2018 antes de citar una cifra."
+      }
+    },
+    {
+      "id": "refugio-rio-san-juan",
+      "nombre": "Refugio de Vida Silvestre Río San Juan",
+      "tipo": "area_protegida",
+      "categoria": "Refugio de Vida Silvestre",
+      "designaciones": [
+        "Sitio Ramsar (2001)",
+        "Parte de la Reserva de Biosfera Río San Juan (UNESCO, 2003)"
+      ],
+      "departamentos": [
+        "Río San Juan"
+      ],
+      "region": "caribe",
+      "coordenadas": [
+        10.9741,
+        -84.3407
+      ],
+      "area_ha": 43000,
+      "nota_area": "Superficie del sitio Ramsar n.º 1138 (43 000 ha). La cifra legal del refugio puede diferir según la delimitación del Decreto 66-99 y del plan de manejo.",
+      "anio_declaracion": 1990,
+      "ecosistemas": [
+        "río de gran caudal",
+        "bosque de galería",
+        "bosque tropical húmedo",
+        "humedales y lagunas de desembocadura"
+      ],
+      "descripcion": "El refugio protege el río San Juan y una franja de su ribera nicaragüense, desde la salida del Lago Cocibolca en San Carlos hasta la desembocadura en el mar Caribe, junto a San Juan de Nicaragua. El río recorre unos 190 kilómetros y es el desagüe natural del gran lago. En su curso hay raudales, como el de El Castillo, donde se levanta la fortaleza colonial de la Inmaculada Concepción, construida en el siglo XVII. A lo largo del cauce alternan selvas altas, potreros, pequeños poblados ribereños y, cerca del mar, un laberinto de lagunas y caños. El margen sur del río marca buena parte de la frontera con Costa Rica, aunque las aguas del San Juan pertenecen a Nicaragua.",
+      "importancia": "El río San Juan es un corredor biológico entre el Lago Cocibolca y el mar Caribe. Por él suben peces que viven tanto en agua salada como dulce, como el sábalo real y el tiburón toro, cuyo paso entre el mar y el lago quedó demostrado con estudios de marcaje publicados en 1971. Históricamente también lo usaba el pez sierra, hoy al borde de la extinción. Sus orillas albergan lapas verdes y rojas, monos, cocodrilos y cuajipales, y en las lagunas de la desembocadura se ha reportado el manatí. Fue designado sitio Ramsar en 2001 y forma parte de la zona núcleo de la Reserva de Biosfera Río San Juan, junto con Indio Maíz y otras seis áreas del sureste.",
+      "especies_emblematicas": [
+        "sabalo-real",
+        "tiburon-toro",
+        "manati",
+        "lapa-verde",
+        "cocodrilo",
+        "mono-arana"
+      ],
+      "otras_especies": [
+        "Ardea alba",
+        "Nannopterum brasilianum"
+      ],
+      "visitar": "Hay transporte fluvial regular desde San Carlos hacia El Castillo y otros poblados ribereños. Desde El Castillo se organizan recorridos guiados por el río y sus afluentes.",
+      "fuentes": [
+        {
+          "cita": "Ramsar Sites Information Service (RSIS), ficha del sitio n.º 1138: Refugio de Vida Silvestre Río San Juan (designado el 8 de noviembre de 2001, 43 000 ha).",
+          "url": "https://rsis.ramsar.org/ris/1138"
+        },
+        {
+          "cita": "MARENA. Plan de Manejo del Refugio de Vida Silvestre Río San Juan.",
+          "url": "https://www.marena.gob.ni/wp-content/uploads/2023/08/17-Plan-de-Manejo-Refugio-Vida-Silvestre-Rio-San-Juan.pdf"
+        },
+        {
+          "cita": "Decreto 66-99, Actualización y precisión de categorías y límites de las áreas protegidas ubicadas en el territorio del sureste de Nicaragua. La Gaceta n.º 116, 16 de junio de 1999.",
+          "url": "https://nicaragua.justia.com/nacionales/decretos-ejecutivos/actualizacion-y-precision-de-categorias-y-limites-de-las-areas-protegidas-ubicadas-en-el-territorio-del-sureste-de-nicaragua/gdoc"
+        },
+        {
+          "cita": "UNESCO, Programa El Hombre y la Biosfera (MAB): Reserva de Biosfera Río San Juan.",
+          "url": "https://www.unesco.org/en/mab/rio-san-juan"
+        },
+        {
+          "cita": "Thorson, T. B. (1971). Movement of bull sharks, Carcharhinus leucas, between Caribbean Sea and Lake Nicaragua demonstrated by tagging. Copeia 1971(2): 336-338."
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Año 1990 asumido como primera declaratoria (área incluida en la Gran Reserva del Decreto 527); confirmar en el texto del Decreto 527, porque la categoría de refugio aparece explícitamente en el Decreto 66-99 (1999). La longitud del río (unos 190 km) varía entre fuentes (190-200 km). La presencia actual del manatí en el bajo San Juan se basa en reportes; confirmar con literatura reciente."
+      }
+    },
+    {
+      "id": "los-guatuzos",
+      "nombre": "Refugio de Vida Silvestre Los Guatuzos",
+      "tipo": "area_protegida",
+      "categoria": "Refugio de Vida Silvestre",
+      "designaciones": [
+        "Sitio Ramsar (1997)",
+        "Parte de la Reserva de Biosfera Río San Juan (UNESCO, 2003)"
+      ],
+      "departamentos": [
+        "Río San Juan"
+      ],
+      "region": "lagos",
+      "coordenadas": [
+        11.0383,
+        -85.0415
+      ],
+      "area_ha": 43750,
+      "nota_area": "Superficie del sitio Ramsar n.º 915 (43 750 ha). La Base Mundial de Áreas Protegidas (WDPA) registra unos 44 248 ha.",
+      "anio_declaracion": 1990,
+      "ecosistemas": [
+        "humedales lacustres",
+        "bosque inundable",
+        "bosque tropical húmedo",
+        "ríos de llanura"
+      ],
+      "descripcion": "Los Guatuzos ocupa la costa sur del Lago Cocibolca, entre San Carlos y la frontera con Costa Rica. Es una llanura cruzada por ríos lentos, como el Papaturro, el Zapote y el Guacalito, que bajan desde Costa Rica y forman pantanos, bosques que se inundan en la época lluviosa y orillas cubiertas de vegetación flotante. Fue el primer sitio Ramsar de Nicaragua, designado en 1997. En sus comunidades ribereñas se combinan la pesca, la agricultura de pequeña escala y un turismo de naturaleza basado en recorridos en lancha al amanecer, cuando los ríos se llenan de garzas, martines pescadores y monos aulladores que vocalizan desde los árboles de la orilla.",
+      "importancia": "El refugio es uno de los humedales de agua dulce más ricos en aves de Nicaragua. Allí anidan o se alimentan el jabirú, la espátula rosada, la garza tigre, el pato aguja y numerosas garzas, y sirve de escala a aves migratorias. Sus ríos y lagunas albergan cuajipales, cocodrilos y peces como el gaspar, un pez prehistórico de hocico alargado. Los bosques inundables actúan como filtro natural del agua que entra al lago y como criadero de peces que sostienen la pesca local. Junto con Solentiname y el río San Juan, forma el conjunto de humedales del sur del lago que da sentido a la Reserva de Biosfera Río San Juan.",
+      "especies_emblematicas": [
+        "jabiru",
+        "garza-tigre",
+        "cuajipal",
+        "mono-congo",
+        "rana-ojos-rojos",
+        "gaspar"
+      ],
+      "otras_especies": [
+        "Ardea alba",
+        "Mycteria americana",
+        "Nannopterum brasilianum"
+      ],
+      "visitar": "Se llega en lancha desde San Carlos. Hay alojamientos comunitarios y una estación biológica en la zona del río Papaturro, desde donde se organizan recorridos guiados.",
+      "fuentes": [
+        {
+          "cita": "Ramsar Sites Information Service (RSIS), ficha del sitio n.º 915: Los Guatuzos (designado en 1997, 43 750 ha).",
+          "url": "https://rsis.ramsar.org/ris/915"
+        },
+        {
+          "cita": "Decreto 527, Creación de las Áreas Naturales Protegidas del Sureste de Nicaragua. La Gaceta n.º 78, 23 de abril de 1990 (derogado y sustituido por el Decreto 66-99).",
+          "url": "https://nicaragua.justia.com/nacionales/decretos-ejecutivos/creacion-de-las-areas-naturales-protegidas-del-sureste-de-nicaragua-apr-23-1990/gdoc"
+        },
+        {
+          "cita": "Decreto 66-99, Actualización y precisión de categorías y límites de las áreas protegidas ubicadas en el territorio del sureste de Nicaragua. La Gaceta n.º 116, 16 de junio de 1999.",
+          "url": "https://nicaragua.justia.com/nacionales/decretos-ejecutivos/actualizacion-y-precision-de-categorias-y-limites-de-las-areas-protegidas-ubicadas-en-el-territorio-del-sureste-de-nicaragua/gdoc"
+        },
+        {
+          "cita": "BirdLife International. Important Bird Area factsheet: Los Guatuzos (Nicaragua).",
+          "url": "https://datazone.birdlife.org/site/factsheet/los-guatuzos-iba-nicaragua/details"
+        },
+        {
+          "cita": "Protected Planet (WDPA): Los Guatuzos.",
+          "url": "https://www.protectedplanet.net/30630"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Fecha Ramsar: una fuente da 30 de julio de 1997 y otras 30 de agosto de 1997; el año (1997) coincide. Año de declaratoria nacional (1990, Decreto 527) a confirmar; la categoría de refugio quedó precisada en el Decreto 66-99. La mención de una estación biológica en el río Papaturro se basa en conocimiento general; confirmar nombre y operador."
+      }
+    },
+    {
+      "id": "solentiname",
+      "nombre": "Monumento Nacional Archipiélago de Solentiname",
+      "tipo": "area_protegida",
+      "categoria": "Monumento Nacional",
+      "designaciones": [
+        "Parte de la Reserva de Biosfera Río San Juan (UNESCO, 2003)"
+      ],
+      "departamentos": [
+        "Río San Juan"
+      ],
+      "region": "lagos",
+      "coordenadas": [
+        11.1819,
+        -85.0291
+      ],
+      "area_ha": null,
+      "nota_area": "No se encontró una cifra oficial fiable de superficie (islas más aguas protegidas). Consultar el plan de manejo del MARENA.",
+      "anio_declaracion": 1990,
+      "ecosistemas": [
+        "islas lacustres",
+        "bosque tropical húmedo y bosque secundario",
+        "humedales y orillas lacustres"
+      ],
+      "descripcion": "Solentiname es un archipiélago de alrededor de treinta y seis islas en el extremo sureste del Lago Cocibolca, frente a la desembocadura del río Papaturro y a pocas horas de San Carlos en lancha. Las islas mayores, como Mancarrón, San Fernando y La Venada, tienen pequeñas comunidades de pescadores y agricultores, mientras que muchos islotes están deshabitados y cubiertos de bosque. El archipiélago es famoso por su pintura primitivista, sus tallas de madera de balsa y la comunidad cultural impulsada por el poeta Ernesto Cardenal desde la década de 1960. El paisaje mezcla bosques, cuevas con petroglifos, playas lacustres y colonias de aves acuáticas en los islotes más pequeños.",
+      "importancia": "Los islotes de Solentiname sirven de sitio de anidación y descanso para aves acuáticas como garzas, cormoranes y patos aguja, que forman colonias ruidosas en la temporada reproductiva. Las islas conservan fragmentos de bosque húmedo con oropéndolas, monos y garrobos, y las aguas someras alrededor son zonas de reproducción de peces importantes para la pesca artesanal del lago. La categoría de monumento nacional busca proteger a la vez la naturaleza y el patrimonio cultural, incluidos sitios arqueológicos. Sus retos principales son la expansión de la ganadería en las islas mayores, la extracción de leña y la contaminación del lago.",
+      "especies_emblematicas": [
+        "pato-aguja",
+        "garza-tigre",
+        "oropendola-de-montezuma",
+        "garrobo"
+      ],
+      "otras_especies": [
+        "Nannopterum brasilianum",
+        "Ardea alba"
+      ],
+      "visitar": "Hay lanchas desde San Carlos hacia las islas Mancarrón y San Fernando, donde existen hospedajes sencillos, talleres de artesanía y un pequeño museo comunitario.",
+      "fuentes": [
+        {
+          "cita": "MARENA. Plan de Manejo del Monumento Nacional Archipiélago de Solentiname.",
+          "url": "https://www.marena.gob.ni/wp-content/uploads/2023/08/8-Plan-de-Manejo-Monumento-Nacional-Archipielago-Solentiname.pdf"
+        },
+        {
+          "cita": "Decreto 527, Creación de las Áreas Naturales Protegidas del Sureste de Nicaragua. La Gaceta n.º 78, 23 de abril de 1990 (derogado y sustituido por el Decreto 66-99).",
+          "url": "https://nicaragua.justia.com/nacionales/decretos-ejecutivos/creacion-de-las-areas-naturales-protegidas-del-sureste-de-nicaragua-apr-23-1990/gdoc"
+        },
+        {
+          "cita": "Decreto 66-99, Actualización y precisión de categorías y límites de las áreas protegidas ubicadas en el territorio del sureste de Nicaragua. La Gaceta n.º 116, 16 de junio de 1999.",
+          "url": "https://nicaragua.justia.com/nacionales/decretos-ejecutivos/actualizacion-y-precision-de-categorias-y-limites-de-las-areas-protegidas-ubicadas-en-el-territorio-del-sureste-de-nicaragua/gdoc"
+        },
+        {
+          "cita": "UNESCO, Programa El Hombre y la Biosfera (MAB): Reserva de Biosfera Río San Juan.",
+          "url": "https://www.unesco.org/en/mab/rio-san-juan"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Número de islas (alrededor de 36) según fuentes generales; confirmar en el plan de manejo. Superficie sin cifra oficial localizada (null). Año 1990: creación por el Decreto 527; la categoría de monumento nacional quedó precisada en el Decreto 66-99. La mención de cuevas con petroglifos se basa en fuentes turísticas generales."
+      }
+    },
+    {
+      "id": "ometepe",
+      "nombre": "Reserva de Biosfera Isla de Ometepe",
+      "tipo": "area_protegida",
+      "categoria": "Reserva de Biosfera (incluye las Reservas Naturales Volcán Concepción y Volcán Maderas)",
+      "designaciones": [
+        "Reserva de Biosfera (UNESCO, 2010)"
+      ],
+      "departamentos": [
+        "Rivas"
+      ],
+      "region": "lagos",
+      "coordenadas": [
+        11.4984,
+        -85.6255
+      ],
+      "area_ha": null,
+      "nota_area": "La isla mide unos 276 km². La Base Mundial de Áreas Protegidas registra unos 521 km² para la reserva de biosfera, cifra que probablemente incluye una franja del lago. No se localizó la zonificación oficial en hectáreas.",
+      "anio_declaracion": 1983,
+      "ecosistemas": [
+        "bosque seco tropical",
+        "bosque húmedo y nuboso de altura",
+        "humedales y playas lacustres",
+        "agroecosistemas tradicionales"
+      ],
+      "descripcion": "Ometepe es una isla del Lago Cocibolca formada por dos volcanes unidos por un istmo bajo: el Concepción, un cono casi perfecto y activo de unos 1 610 metros, y el Maderas, más antiguo y apagado, cubierto de bosque nuboso y con una laguna en su cráter. Sus habitantes conviven con un patrimonio arqueológico notable, con cientos de petroglifos y estatuas precolombinas. En 2010 la UNESCO la incorporó a la Red Mundial de Reservas de Biosfera, y una ley de 2013 definió sus límites. Las cimas de ambos volcanes, por encima de los 850 metros, están protegidas como reservas naturales desde 1983, mientras que las partes bajas combinan pueblos, cultivos, playas y humedales costeros.",
+      "importancia": "La isla reúne en poco espacio una gradiente que va del bosque seco del Pacífico al bosque nuboso de altura, algo poco común en Nicaragua. El Maderas guarda bosques de neblina con abundantes epífitas, y en toda la isla son frecuentes los monos congo y cara blanca, la urraca copetona, el chocoyo del Pacífico y el loro nuca amarilla, una especie en peligro. Sus orillas y humedales, como los del istmo de Istián, reciben aves acuáticas. El reconocimiento como reserva de biosfera busca compatibilizar la conservación con la agricultura, la pesca y el turismo, que han crecido mucho y aumentan la presión sobre el agua, los bosques y la basura.",
+      "especies_emblematicas": [
+        "mono-congo",
+        "mono-cara-blanca",
+        "urraca-copetona",
+        "chocoyo-del-pacifico",
+        "loro-nuca-amarilla",
+        "garrobo"
+      ],
+      "visitar": "Se llega en ferry o lancha desde San Jorge (Rivas) a Moyogalpa, o desde Granada y San Carlos. Los ascensos a los volcanes se hacen con guías locales.",
+      "fuentes": [
+        {
+          "cita": "UNESCO, Programa MAB: Ometepe Island Biosphere Reserve.",
+          "url": "https://www.unesco.org/en/mab/ometepe-island"
+        },
+        {
+          "cita": "Ley que declara y define los límites de la Reserva de Biosfera de la Isla de Ometepe (2013).",
+          "url": "https://nicaragua.justia.com/nacionales/leyes/ley-que-declara-y-define-los-limites-de-la-reserva-de-biosfera-de-la-isla-de-ometepe-mar-8-2013/gdoc/"
+        },
+        {
+          "cita": "Decreto-Ley 1320 (JGRN), Creación de Reservas Naturales en el Pacífico de Nicaragua. La Gaceta n.º 213, 19 de septiembre de 1983.",
+          "url": "https://nicaragua.justia.com/nacionales/decretos-ley/creacion-de-reservas-naturales-en-el-pacifico-de-nicaragua-sep-19-1983/gdoc"
+        },
+        {
+          "cita": "Protected Planet (WDPA): Reserva de Biosfera Isla de Ometepe.",
+          "url": "https://protectedplanet.net/555547572"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Año 1983: reservas naturales de los volcanes Concepción y Maderas por el Decreto 1320 (cota de 850 m); la reserva de biosfera es de 2010 (resolución UNESCO del 2 de junio de 2010) y la ley nacional de límites de 2013 (número de ley no confirmado). Superficie de la reserva de biosfera sin cifra oficial confirmada. Altitudes de los volcanes según fuentes generales (Concepción unos 1 610 m; Maderas unos 1 394 m, este último no citado en el texto)."
+      }
+    },
+    {
+      "id": "volcan-masaya",
+      "nombre": "Parque Nacional Volcán Masaya",
+      "tipo": "area_protegida",
+      "categoria": "Parque Nacional",
+      "designaciones": [],
+      "departamentos": [
+        "Masaya"
+      ],
+      "region": "pacifico",
+      "coordenadas": [
+        11.9849,
+        -86.1541
+      ],
+      "area_ha": 5469,
+      "nota_area": "El plan de manejo del MARENA indica unas 5 469 ha; otras fuentes redondean a 54 km².",
+      "anio_declaracion": 1979,
+      "ecosistemas": [
+        "campos de lava en sucesión",
+        "bosque seco tropical",
+        "matorral y sabana volcánica",
+        "cráteres y cuevas"
+      ],
+      "descripcion": "Fue el primer parque nacional de Nicaragua, creado en 1979. Protege una gran caldera donde se levantan los volcanes Masaya y Nindirí, con varios cráteres, entre ellos el Santiago, que emite gases de forma casi permanente y en el que desde 2015 se ha podido observar un lago de lava. Los cronistas españoles lo llamaron la boca del infierno y colocaron en su borde una cruz para exorcizarlo. El paisaje es una sucesión de coladas de lava de distintas edades: las más recientes siguen casi desnudas, y las antiguas están cubiertas de pastos, arbustos y bosque seco. Hay además túneles de lava, como la cueva de Tzinancanostoc, habitada por murciélagos.",
+      "importancia": "El parque es un laboratorio natural para estudiar cómo la vida coloniza la roca volcánica: líquenes, helechos, el sacuanjoche y otras plantas pioneras van formando suelo sobre la lava. Su fauna más famosa es el chocoyo del Pacífico, que anida en las paredes del cráter Santiago pese a los gases sulfurosos. También viven allí garrobos, iguanas, urracas copetonas, guardabarrancos y venados. Por su cercanía a Managua y Masaya, es uno de los espacios naturales más visitados del país y un lugar clave para la educación ambiental y la vigilancia volcánica.",
+      "especies_emblematicas": [
+        "chocoyo-del-pacifico",
+        "guardabarranco",
+        "urraca-copetona",
+        "garrobo",
+        "sacuanjoche"
+      ],
+      "visitar": "Está junto a la carretera Managua-Masaya. Tiene centro de visitantes y miradores; el acceso al cráter puede cerrarse según la actividad volcánica.",
+      "fuentes": [
+        {
+          "cita": "Ley Creadora del Parque Nacional Volcán Masaya. La Gaceta n.º 114, 24 de mayo de 1979.",
+          "url": "https://nicaragua.justia.com/nacionales/decretos-ley/ley-creadora-del-parque-nacional-volcan-masaya-may-24-1979/gdoc"
+        },
+        {
+          "cita": "MARENA. Plan de Manejo del Parque Nacional Volcán Masaya.",
+          "url": "https://www.marena.gob.ni/wp-content/uploads/2023/08/14-Plan-de-Manejo-Parque-Nacional-Volcan-Masaya.pdf"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Algunas fuentes ubican parte del parque en el departamento de Managua (Ticuantepe); OpenStreetMap lo sitúa en Nindirí y Masaya. Fecha de publicación de la ley: 24 de mayo de 1979 según el texto legal (una fuente cita otra Gaceta de abril de 1979). La reaparición del lago de lava desde 2015 se basa en conocimiento general; confirmar con INETER."
+      }
+    },
+    {
+      "id": "mombacho",
+      "nombre": "Reserva Natural Volcán Mombacho",
+      "tipo": "area_protegida",
+      "categoria": "Reserva Natural",
+      "designaciones": [],
+      "departamentos": [
+        "Granada"
+      ],
+      "region": "pacifico",
+      "coordenadas": [
+        11.8273,
+        -85.9599
+      ],
+      "area_ha": null,
+      "nota_area": "El Decreto 1320 delimita la reserva por la curva de nivel de 850 m, no por una cifra en hectáreas. La WDPA registra unos 567 ha; otras fuentes dan cifras mayores. Consultar el plan de manejo vigente.",
+      "anio_declaracion": 1983,
+      "ecosistemas": [
+        "bosque nuboso",
+        "bosque húmedo premontano",
+        "fumarolas y vegetación enana de cumbre",
+        "cafetales con sombra"
+      ],
+      "descripcion": "El Mombacho es un volcán de unos 1 340 metros que se alza junto a la ciudad de Granada y la orilla del Lago Cocibolca. Su cima, casi siempre envuelta en nubes, guarda uno de los bosques nubosos más accesibles del Pacífico de Nicaragua, con árboles cubiertos de musgos, bromelias y orquídeas. Desde 1983 la parte alta, por encima de los 850 metros, es reserva natural, y desde 1996 la Fundación Cocibolca colabora en su manejo. En un pasado geológico remoto, el colapso de uno de sus flancos lanzó al lago una avalancha de rocas que dio origen a las Isletas de Granada. Aún tiene fumarolas activas en el cráter y senderos que recorren sus bordes.",
+      "importancia": "El Mombacho funciona como una isla de bosque húmedo rodeada por el paisaje seco del Pacífico, por lo que alberga especies que no existen en ningún otro lugar. La más conocida es la salamandra del Mombacho, endémica del volcán. Sus bosques conservan monos congo, ranas de ojos rojos y una gran diversidad de orquídeas y mariposas. Además, la montaña capta agua de las nubes que alimenta manantiales usados por comunidades vecinas. Sus faldas están ocupadas por fincas de café y otros cultivos, de modo que la conservación de la parte alta depende de que ese cinturón agrícola mantenga árboles y conectividad.",
+      "especies_emblematicas": [
+        "salamandra-mombacho",
+        "mono-congo",
+        "rana-ojos-rojos",
+        "guardabarranco"
+      ],
+      "visitar": "Desde la carretera Granada-Nandaime sale el camino de acceso a la cima, que se sube en vehículos autorizados. Arriba hay senderos señalizados alrededor de los cráteres.",
+      "fuentes": [
+        {
+          "cita": "Decreto-Ley 1320 (JGRN), Creación de Reservas Naturales en el Pacífico de Nicaragua. La Gaceta n.º 213, 19 de septiembre de 1983.",
+          "url": "https://nicaragua.justia.com/nacionales/decretos-ley/creacion-de-reservas-naturales-en-el-pacifico-de-nicaragua-sep-19-1983/gdoc"
+        },
+        {
+          "cita": "MARENA. Plan de Manejo de la Reserva Natural Volcán Mombacho.",
+          "url": "https://www.marena.gob.ni/wp-content/uploads/2023/08/42-Plan-de-Manejo-Reserva-Natural-Volcan-Mombacho.pdf"
+        },
+        {
+          "cita": "Protected Planet (WDPA): Volcán Mombacho.",
+          "url": "https://protectedplanet.net/12683"
+        },
+        {
+          "cita": "Köhler, G. (2001). Anfibios y reptiles de Nicaragua. Herpeton, Offenbach."
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Superficie sin cifra oficial confirmada (null). Altitud del volcán (unos 1 340 m) según fuentes generales. La relación entre el colapso del Mombacho y el origen de las Isletas es aceptada en la literatura geológica, pero conviene citar un estudio específico."
+      }
+    },
+    {
+      "id": "laguna-de-apoyo",
+      "nombre": "Reserva Natural Laguna de Apoyo",
+      "tipo": "area_protegida",
+      "categoria": "Reserva Natural",
+      "designaciones": [],
+      "departamentos": [
+        "Masaya",
+        "Granada"
+      ],
+      "region": "lagos",
+      "coordenadas": [
+        11.9132,
+        -86.0359
+      ],
+      "area_ha": 3500,
+      "nota_area": "Cifra más citada (unos 35 km²). La WDPA registra 41,7 km² y otras fuentes 19,4 km²; la diferencia depende de si se incluye todo el borde del cráter.",
+      "anio_declaracion": 1991,
+      "ecosistemas": [
+        "laguna cratérica profunda",
+        "bosque seco tropical",
+        "bosque semideciduo en las laderas del cráter"
+      ],
+      "descripcion": "La Laguna de Apoyo ocupa una caldera volcánica entre Masaya y Granada. Sus paredes, de más de 200 metros de alto, encierran un lago de agua tibia, ligeramente salobre y muy transparente, que supera los 170 metros de profundidad. El cráter se formó por una gran erupción hace más de veinte mil años, y con el tiempo se llenó de agua de lluvia y de fuentes subterráneas. Las laderas conservan bosque seco y semideciduo, mientras que en la orilla hay pequeñas comunidades, casas de veraneo y centros de investigación. La reserva natural fue declarada en 1991 y su plan de manejo, aprobado en 2010, regula la construcción y el uso de la orilla.",
+      "importancia": "Apoyo es famosa en la biología evolutiva por sus mojarras del género Amphilophus. En sus aguas viven varias especies endémicas que surgieron dentro de la misma laguna, como la mojarra flecha, un caso estudiado de especiación sin barreras geográficas que fue publicado en la revista Nature en 2006. Esa riqueza la hace muy vulnerable a especies introducidas como la tilapia, que compite con las mojarras nativas. En las laderas viven monos congo, oropéndolas, guardabarrancos y urracas copetonas. La reserva también protege un paisaje de gran valor para la recreación, siempre que el crecimiento urbano no siga ocupando las laderas.",
+      "especies_emblematicas": [
+        "mojarra-flecha",
+        "mono-congo",
+        "guardabarranco",
+        "oropendola-de-montezuma",
+        "urraca-copetona"
+      ],
+      "otras_especies": [
+        "Amphilophus astorquii",
+        "Amphilophus chancho",
+        "Amphilophus flaveolus",
+        "Amphilophus globosus",
+        "Amphilophus supercilius"
+      ],
+      "visitar": "Se accede por carreteras que bajan desde Masaya, Catarina y Diriá. En la orilla hay hospedajes y sitios para nadar; evita dejar residuos y no liberes peces.",
+      "fuentes": [
+        {
+          "cita": "Decreto 42-91, Declaración de áreas protegidas en varios cerros macizos montañosos, volcanes y lagunas del país. La Gaceta n.º 207, 4 de noviembre de 1991.",
+          "url": "https://nicaragua.justia.com/nacionales/decretos-ejecutivos/declaracion-de-areas-protegidas-en-varios-cerros-macizos-montanosos-volcanes-y-lagunas-del-pais-nov-4-1991/gdoc"
+        },
+        {
+          "cita": "Protected Planet (WDPA): Laguna de Apoyo.",
+          "url": "https://protectedplanet.net/34671"
+        },
+        {
+          "cita": "Barluenga, M., Stölting, K. N., Salzburger, W., Muschick, M. & Meyer, A. (2006). Sympatric speciation in Nicaraguan crater lake cichlid fish. Nature 439: 719-723."
+        },
+        {
+          "cita": "Wikipedia. Apoyo Lagoon Natural Reserve (consultado para año de declaratoria y plan de manejo de 2010).",
+          "url": "https://en.wikipedia.org/wiki/Apoyo_Lagoon_Natural_Reserve"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Año: 1991 (Decreto 42-91) según Wikipedia; un artículo académico menciona que el Decreto 1320 de 1983 ya incluía la laguna. Confirmar en ambos textos. Profundidad máxima (más de 170 m; algunas fuentes hablan de unos 200 m) y edad de la caldera según fuentes generales."
+      }
+    },
+    {
+      "id": "chocoyero",
+      "nombre": "Reserva Natural Chocoyero-El Brujo",
+      "tipo": "area_protegida",
+      "categoria": "Reserva Natural",
+      "designaciones": [],
+      "departamentos": [
+        "Managua",
+        "Masaya"
+      ],
+      "region": "pacifico",
+      "coordenadas": [
+        11.9813,
+        -86.2631
+      ],
+      "area_ha": 184,
+      "nota_area": "Cifra más citada (unos 184 ha, 1,8 km²). No se confirmó en el decreto de creación.",
+      "anio_declaracion": 1993,
+      "ecosistemas": [
+        "bosque subcaducifolio",
+        "bosque de galería",
+        "cascadas y quebradas",
+        "cafetales con sombra en los alrededores"
+      ],
+      "descripcion": "Chocoyero-El Brujo es una de las áreas protegidas más pequeñas de Nicaragua, a menos de una hora de Managua. Protege un cañón boscoso con dos cascadas: El Chocoyero, cuyas paredes de roca están perforadas por cientos de nidos de chocoyos, y El Brujo, una caída de agua rodeada de leyendas locales. Fue declarada en 1993 como área protegida de recursos naturales e hídricos, porque sus quebradas y el bosque que las rodea contribuyen a recargar el acuífero que abastece a parte de la capital. Sus senderos, cortos y sombreados, atraviesan bosque semideciduo con árboles altos, lianas y pequeñas pozas.",
+      "importancia": "La reserva es famosa por la colonia de chocoyos del Pacífico que anida en las paredes del cañón y regresa al atardecer en bandadas ruidosas, un espectáculo que da nombre al lugar. También protege uno de los últimos remanentes de bosque en la meseta entre Managua y Masaya, con monos congo y cara blanca, guatusas y guardabarrancos. Su valor para el agua es tan importante como su fauna: el bosque favorece la infiltración de la lluvia en una zona donde la expansión urbana y agrícola avanza rápido. Por su tamaño reducido, es muy sensible a la cacería, los incendios y el cambio de uso del suelo en sus bordes.",
+      "especies_emblematicas": [
+        "chocoyo-del-pacifico",
+        "guardabarranco",
+        "mono-congo",
+        "mono-cara-blanca",
+        "guatusa"
+      ],
+      "visitar": "Se llega desde la carretera de Ticuantepe a La Concepción, por un camino rural señalizado. Hay senderos guiados hacia las dos cascadas; la mejor hora para ver chocoyos es al amanecer o al atardecer.",
+      "fuentes": [
+        {
+          "cita": "Decreto 35-93, Declaración de área natural protegida El Chocoyero-El Brujo (25 de junio de 1993).",
+          "url": "https://nicaragua.justia.com/nacionales/decretos-ejecutivos/declaracion-de-area-natural-protegida-el-chocoyero-el-brujo-jun-29-1993/gdoc"
+        },
+        {
+          "cita": "Wikipedia. Chocoyero-El Brujo Natural Reserve.",
+          "url": "https://en.wikipedia.org/wiki/Chocoyero-El_Brujo_Natural_Reserve"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Departamentos: el Decreto 35-93 la sitúa en el municipio de Ticuantepe (Managua), mientras que OpenStreetMap la ubica en La Concepción (Masaya); probablemente abarca el límite entre ambos. Superficie (184 ha) según fuentes secundarias."
+      }
+    },
+    {
+      "id": "la-flor",
+      "nombre": "Refugio de Vida Silvestre La Flor",
+      "tipo": "area_protegida",
+      "categoria": "Refugio de Vida Silvestre",
+      "designaciones": [],
+      "departamentos": [
+        "Rivas"
+      ],
+      "region": "marino-pacifico",
+      "coordenadas": [
+        11.1304,
+        -85.79
+      ],
+      "area_ha": null,
+      "nota_area": "El refugio incluye zona terrestre y marina; no se localizó la cifra total oficial. Según el plan de manejo aprobado en 2016, la zona de amortiguamiento suma unas 17 300 ha (4 223 terrestres y 13 077 marinas).",
+      "anio_declaracion": 1996,
+      "ecosistemas": [
+        "playa arenosa de anidación",
+        "estuario y manglar",
+        "bosque seco tropical",
+        "aguas costeras"
+      ],
+      "descripcion": "La Flor es una playa del municipio de San Juan del Sur, en Rivas, protegida para resguardar uno de los fenómenos naturales más impresionantes de Nicaragua: las arribadas de la tortuga paslama. En esas noches, miles de hembras salen del mar casi al mismo tiempo para cavar sus nidos en la arena. El refugio abarca la playa, la desembocadura del río La Flor con su pequeño manglar, una franja de bosque seco y aguas costeras. Guardaparques, soldados y voluntarios vigilan las playas durante la temporada de anidación, que se concentra en la segunda mitad del año, y protegen los nidos frente al saqueo de huevos.",
+      "importancia": "La Flor es, junto con Chacocente, la principal playa de arribadas de la tortuga paslama en Nicaragua. En octubre de 2026 el MARENA reportó la llegada de casi 33 000 hembras en una sola arribada. También anidan ocasionalmente la tortuga baula y otras especies marinas, todas amenazadas por la extracción de huevos, la pesca incidental y la pérdida de playas. El bosque seco que rodea la playa alberga monos congo, urracas copetonas y garrobos. Su protección es un ejemplo de cómo la vigilancia comunitaria y estatal permite que una especie amenazada mantenga sitios de reproducción masiva.",
+      "especies_emblematicas": [
+        "tortuga-paslama",
+        "tortuga-baula",
+        "mono-congo",
+        "urraca-copetona"
+      ],
+      "visitar": "Está al sur de San Juan del Sur por el camino costero. Las visitas nocturnas para observar tortugas deben hacerse con guardaparques, sin luces blancas ni flash.",
+      "fuentes": [
+        {
+          "cita": "Ley 217, Ley General del Medio Ambiente y los Recursos Naturales (1996), art. 163, según el plan de protección y manejo del refugio.",
+          "url": "https://faolex.fao.org/docs/pdf/nic174162.pdf"
+        },
+        {
+          "cita": "Resolución n.º 114.12.2016: Plan de protección y manejo del Refugio de Vida Silvestre La Flor (FAOLEX/LEAP).",
+          "url": "https://leap.unep.org/en/countries/ni/national-legislation/resolucion-no-114122016-plan-de-proteccion-y-manejo-del-area"
+        },
+        {
+          "cita": "La Prensa (2026). Arribada de tortugas paslama en San Juan del Sur.",
+          "url": "https://www.laprensani.com/2026/10/13/nacionales/3798710-tortugas-paslama-san-juan-sur"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Año de declaratoria (1996) inferido de la Ley 217; confirmar la fecha exacta de creación del refugio. Superficie total sin cifra confirmada. La cifra de unas 33 000 hembras (octubre de 2026) proviene de un reporte de prensa con datos del MARENA."
+      }
+    },
+    {
+      "id": "chacocente",
+      "nombre": "Refugio de Vida Silvestre Río Escalante-Chacocente",
+      "tipo": "area_protegida",
+      "categoria": "Refugio de Vida Silvestre",
+      "designaciones": [],
+      "departamentos": [
+        "Carazo",
+        "Rivas"
+      ],
+      "region": "marino-pacifico",
+      "coordenadas": [
+        11.5566,
+        -86.1845
+      ],
+      "area_ha": 4645,
+      "nota_area": "Superficie aproximada según el plan de manejo (Resolución Ministerial 48-2002). El decreto de 1983 define los límites por una poligonal sin dar superficie total.",
+      "anio_declaracion": 1983,
+      "ecosistemas": [
+        "bosque seco tropical",
+        "playa arenosa de anidación",
+        "estuario y manglar",
+        "bosque de galería"
+      ],
+      "descripcion": "Chacocente protege la desembocadura del río Escalante y varios kilómetros de playa en el litoral del Pacífico, principalmente en el municipio de Santa Teresa (Carazo), con una porción en Tola (Rivas). Fue declarado refugio en 1983. Durante la estación seca el bosque pierde casi todas sus hojas y el paisaje se vuelve gris y abierto; con las primeras lluvias reverdece en pocos días. Entre julio y enero llegan a sus playas las tortugas marinas, y la paslama protagoniza arribadas masivas. El estuario del Escalante, con su pequeño manglar, completa un mosaico de hábitats costeros poco alterados en esta parte del país.",
+      "importancia": "Chacocente es una de las dos playas de arribadas de tortuga paslama en Nicaragua y un sitio de anidación de la tortuga baula, una especie en estado crítico en el Pacífico oriental. Además, conserva uno de los remanentes de bosque seco tropical mejor representados de la costa pacífica, un ecosistema que ha perdido la mayor parte de su extensión original en Centroamérica. En ese bosque viven monos congo, garrobos, urracas copetonas y osos hormigueros. La extracción ilegal de huevos, los incendios y la ganadería en los alrededores son sus principales amenazas.",
+      "especies_emblematicas": [
+        "tortuga-paslama",
+        "tortuga-baula",
+        "mono-congo",
+        "garrobo",
+        "urraca-copetona"
+      ],
+      "visitar": "Se accede por caminos de tierra desde Santa Teresa o desde la costa de Tola. Las visitas nocturnas a la playa de anidación deben hacerse con guardaparques.",
+      "fuentes": [
+        {
+          "cita": "Decreto 1294, Creación del Refugio de Vida Silvestre Río Escalante-Chacocente. La Gaceta, 17 de agosto de 1983.",
+          "url": "https://nicaragua.justia.com/nacionales/decretos-ley/creacion-de-refugio-de-vida-silvestre-rio-escalante-chacocente-aug-17-1983/gdoc"
+        },
+        {
+          "cita": "MARENA. Plan de Manejo del Refugio de Vida Silvestre Río Escalante-Chacocente.",
+          "url": "https://www.marena.gob.ni/wp-content/uploads/2023/08/16-Plan-de-Manejo-Refugio-Vida-Silvestre-Rio-Escalante.pdf"
+        },
+        {
+          "cita": "BirdLife International. Important Bird Area factsheet: Escalante River-Chococente-Tecomapa (Nicaragua).",
+          "url": "https://datazone.birdlife.org/site/factsheet/escalante-river-chococente-tecomapa-iba-nicaragua/details"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Municipios: un resumen del plan de manejo menciona Santa Teresa y Jinotepe (Carazo) y Tola (Rivas); confirmar la lista completa en el documento. La temporada de anidación (julio-enero) es la citada habitualmente para la paslama en el Pacífico nicaragüense."
+      }
+    },
+    {
+      "id": "juan-venado",
+      "nombre": "Reserva Natural Isla Juan Venado",
+      "tipo": "area_protegida",
+      "categoria": "Reserva Natural",
+      "designaciones": [],
+      "departamentos": [
+        "León"
+      ],
+      "region": "marino-pacifico",
+      "coordenadas": [
+        12.309,
+        -86.9476
+      ],
+      "area_ha": 4600,
+      "nota_area": "Cifra publicada por La Prensa (2015). Otras fuentes dan valores distintos; no se confirmó en el decreto ni en el plan de manejo.",
+      "anio_declaracion": 1983,
+      "ecosistemas": [
+        "manglar",
+        "estero",
+        "isla de barrera con playa arenosa",
+        "bosque seco costero"
+      ],
+      "descripcion": "Juan Venado es una isla de barrera larga y estrecha, de unos 22 kilómetros, paralela a la costa de León, entre Las Peñitas y Salinas Grandes. Por un lado la bate el oleaje del Pacífico; por el otro la separa del continente un estero tranquilo bordeado de manglares. Fue declarada reserva natural en 1983 y su plan de manejo, aprobado en 2003, se refiere a ella como Isla y Estero de Juan Venado. Los recorridos en lancha por el estero permiten ver garzas, pelícanos, iguanas tomando el sol en las ramas y, con suerte, cocodrilos y cuajipales. La playa exterior es sitio de anidación de tortugas marinas en la temporada lluviosa.",
+      "importancia": "Los manglares de Juan Venado funcionan como guardería de peces, camarones, conchas y cangrejos que sostienen la pesca artesanal de las comunidades vecinas, y protegen la costa de la erosión y del oleaje de tormentas. La isla ofrece a la tortuga paslama una playa de anidación y alberga cocodrilos, iguanas verdes, garrobos y numerosas aves acuáticas, entre ellas la garza tigre y el pelícano pardo. Sus amenazas incluyen la tala de mangle rojo para leña y construcción, la extracción de huevos de tortuga, la contaminación y la presión turística sin control en los extremos de la isla.",
+      "especies_emblematicas": [
+        "mangle-rojo",
+        "cocodrilo",
+        "tortuga-paslama",
+        "iguana-verde",
+        "garza-tigre",
+        "pelicano-pardo"
+      ],
+      "otras_especies": [
+        "Avicennia germinans",
+        "Laguncularia racemosa"
+      ],
+      "visitar": "Las lanchas salen desde Las Peñitas, a unos 20 km de León. Los recorridos por el estero son más tranquilos con marea alta y en las primeras horas del día.",
+      "fuentes": [
+        {
+          "cita": "Decreto-Ley 1320 (JGRN), Creación de Reservas Naturales en el Pacífico de Nicaragua. La Gaceta n.º 213, 19 de septiembre de 1983.",
+          "url": "https://nicaragua.justia.com/nacionales/decretos-ley/creacion-de-reservas-naturales-en-el-pacifico-de-nicaragua-sep-19-1983/gdoc"
+        },
+        {
+          "cita": "Resolución ministerial que aprueba el Plan de Manejo de la Reserva Natural Isla y Estero de Juan Venado (2003).",
+          "url": "https://nicaragua.justia.com/nacionales/resoluciones/aprobar-el-plan-de-manejo-de-la-reserva-natural-isla-y-estero-de-juan-venado-feb-5-2003/gdoc"
+        },
+        {
+          "cita": "La Prensa (2015). Peligra reserva Juan Venado.",
+          "url": "https://www.laprensani.com/2015/05/08/boletin/1828333-ppeligra-reserva-juan-venado"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Superficie (4 600 ha) tomada de prensa; verificar en el plan de manejo. Longitud de la isla (unos 22 km) según fuentes secundarias."
+      }
+    },
+    {
+      "id": "estero-real",
+      "nombre": "Reserva Natural Delta del Estero Real",
+      "tipo": "area_protegida",
+      "categoria": "Reserva Natural",
+      "designaciones": [
+        "Sitio Ramsar 'Deltas del Estero Real y Llanos de Apacunca' (2001)"
+      ],
+      "departamentos": [
+        "Chinandega"
+      ],
+      "region": "marino-pacifico",
+      "coordenadas": [
+        12.8831,
+        -87.2094
+      ],
+      "area_ha": 64570,
+      "nota_area": "Superficie de la reserva según la actualización del plan de manejo (Resolución Ministerial 234-2021). El sitio Ramsar n.º 1136, que incluye también los Llanos de Apacunca, mide 81 700 ha. Las zonas del plan suman una cifra distinta (unas 71 000 ha), por lo que conviene revisarla.",
+      "anio_declaracion": 1983,
+      "ecosistemas": [
+        "manglar",
+        "estuario y canales de marea",
+        "salinas y playones",
+        "bosque seco",
+        "llanos inundables"
+      ],
+      "descripcion": "El Estero Real es el gran sistema estuarino del noroeste de Nicaragua: un río que, antes de llegar al Golfo de Fonseca, se ramifica en decenas de canales rodeados de manglares. La reserva natural, declarada en 1983, ocupa buena parte del delta en el departamento de Chinandega, cerca de Puerto Morazán y otras comunidades pesqueras. El paisaje alterna bosques de mangle de varios metros de altura, playones salinos, camaroneras y, tierra adentro, llanos que se inundan en la época de lluvias. El sitio Ramsar, designado en 2001, une el delta con los Llanos de Apacunca y forma uno de los humedales costeros más extensos del Pacífico centroamericano.",
+      "importancia": "Los manglares del Estero Real son de los más extensos del Pacífico de Nicaragua y sostienen la pesca de conchas negras, camarones, cangrejos y peces de los que viven miles de familias. Sirven de refugio y alimentación para aves acuáticas residentes y migratorias, como la espátula rosada, la garza tigre y el pelícano pardo, y para cocodrilos. También amortiguan la entrada del mar y retienen sedimentos. Su principal presión ha sido la conversión de manglar y salitrales en estanques de camarón, junto con la tala para leña, la sobreexplotación de la concha negra y la contaminación agrícola que llega por el río.",
+      "especies_emblematicas": [
+        "mangle-rojo",
+        "concha-negra",
+        "espatula-rosada",
+        "pelicano-pardo",
+        "garza-tigre",
+        "cocodrilo"
+      ],
+      "otras_especies": [
+        "Avicennia germinans",
+        "Laguncularia racemosa"
+      ],
+      "fuentes": [
+        {
+          "cita": "Ramsar Sites Information Service (RSIS), ficha del sitio n.º 1136: Deltas del Estero Real y Llanos de Apacunca (designado el 8 de noviembre de 2001, 81 700 ha).",
+          "url": "https://rsis.ramsar.org/ris/1136"
+        },
+        {
+          "cita": "MARENA. Plan de Manejo de la Reserva Natural Delta del Estero Real (actualización 2021, Resolución Ministerial 234-2021).",
+          "url": "https://www.marena.gob.ni/wp-content/uploads/2023/08/29-Plan-de-Manejo-Reserva-Natural-Delta-del-Estero-Real.pdf"
+        },
+        {
+          "cita": "Decreto-Ley 1320 (JGRN), Creación de Reservas Naturales en el Pacífico de Nicaragua. La Gaceta n.º 213, 19 de septiembre de 1983.",
+          "url": "https://nicaragua.justia.com/nacionales/decretos-ley/creacion-de-reservas-naturales-en-el-pacifico-de-nicaragua-sep-19-1983/gdoc"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "La superficie total del plan (64 570 ha) no cuadra con la suma de sus zonas (unas 71 000 ha). Confirmar que la declaratoria de 1983 se hizo por el Decreto 1320 o por un decreto propio publicado en la misma Gaceta n.º 213."
+      }
+    },
+    {
+      "id": "cosiguina",
+      "nombre": "Reserva Natural Volcán Cosigüina",
+      "tipo": "area_protegida",
+      "categoria": "Reserva Natural",
+      "designaciones": [],
+      "departamentos": [
+        "Chinandega"
+      ],
+      "region": "pacifico",
+      "coordenadas": [
+        12.971,
+        -87.5765
+      ],
+      "area_ha": null,
+      "nota_area": "No se localizó la cifra oficial de la zona núcleo. BirdLife cita unos 4 100 ha para la reserva; la Resolución Ministerial 102-2021 menciona zonas de amortiguamiento de unos 17 561 ha terrestres y 16 953 ha marinas.",
+      "anio_declaracion": 1983,
+      "ecosistemas": [
+        "bosque seco tropical",
+        "bosque semideciduo de ladera",
+        "laguna cratérica",
+        "acantilados y costa"
+      ],
+      "descripcion": "El Cosigüina es el volcán que ocupa el extremo noroeste de Nicaragua, en una península que se adentra en el Golfo de Fonseca. Aunque hoy mide menos de 900 metros, en enero de 1835 protagonizó una de las mayores erupciones registradas en América en tiempos históricos, que lanzó cenizas a cientos de kilómetros. Su enorme cráter alberga una laguna verde rodeada de paredes casi verticales. Desde el borde se ven las islas del golfo y las costas de El Salvador y Honduras. Las laderas están cubiertas de bosque seco que pierde las hojas en verano, con cañadas más húmedas donde se refugia la fauna.",
+      "importancia": "La reserva conserva uno de los bloques de bosque seco más grandes del occidente de Nicaragua y uno de los pocos lugares del Pacífico donde sobrevive la lapa roja, desaparecida de casi toda la vertiente pacífica por la caza y el comercio de mascotas. Sus bosques albergan también chocoyos, urracas copetonas, garrobos y venados, y sus costas reciben aves marinas como fragatas y pelícanos. La península funciona como un corredor entre el bosque seco y los manglares del Estero Real y Padre Ramos. Sus amenazas son los incendios, la ganadería, la cacería y la extracción de pichones de loros y lapas.",
+      "especies_emblematicas": [
+        "lapa-roja",
+        "chocoyo-del-pacifico",
+        "urraca-copetona",
+        "garrobo"
+      ],
+      "visitar": "Se accede desde Potosí o desde El Viejo por caminos rurales. El ascenso al borde del cráter se hace mejor de madrugada y con guía local.",
+      "fuentes": [
+        {
+          "cita": "Decreto-Ley 1320 (JGRN), Creación de Reservas Naturales en el Pacífico de Nicaragua. La Gaceta n.º 213, 19 de septiembre de 1983.",
+          "url": "https://nicaragua.justia.com/nacionales/decretos-ley/creacion-de-reservas-naturales-en-el-pacifico-de-nicaragua-sep-19-1983/gdoc"
+        },
+        {
+          "cita": "Resolución Ministerial 102-2021, actualización del Plan de Manejo de la Reserva Natural Volcán Cosigüina (La Gaceta, 19 de agosto de 2021).",
+          "url": "https://www.leybook.com/doc/26781/pdf"
+        },
+        {
+          "cita": "BirdLife International. Important Bird Area factsheet: Cosigüina Volcano (Nicaragua).",
+          "url": "https://datazone.birdlife.org/site/factsheet/cosiguina-volcano-iba-nicaragua/details"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Wikipedia en inglés afirma que un Refugio de Vida Silvestre Península de Cosigüina se creó en 1958 y fue la primera área protegida del país; si se confirma, el año de primera declaratoria sería 1958 en lugar de 1983. Superficie de la zona núcleo sin cifra oficial (null). Fecha y magnitud de la erupción de 1835 según literatura vulcanológica general."
+      }
+    },
+    {
+      "id": "miraflor",
+      "nombre": "Paisaje Terrestre Protegido Miraflor-Moropotente",
+      "tipo": "area_protegida",
+      "categoria": "Paisaje Terrestre Protegido",
+      "designaciones": [],
+      "departamentos": [
+        "Estelí",
+        "Jinotega"
+      ],
+      "region": "centro-norte",
+      "coordenadas": [
+        13.217,
+        -86.2709
+      ],
+      "area_ha": null,
+      "nota_area": "Se cita con frecuencia unos 206 km² para Miraflor; la superficie del paisaje unificado Miraflor-Moropotente no se confirmó en fuentes oficiales.",
+      "anio_declaracion": 1990,
+      "ecosistemas": [
+        "bosque nuboso",
+        "bosque de pino y roble",
+        "sabanas y pastizales de altura",
+        "lagunas y humedales de montaña"
+      ],
+      "descripcion": "Miraflor y Moropotente son dos mesetas al noreste de la ciudad de Estelí que hoy forman una sola área protegida en la categoría de paisaje terrestre protegido, que reconoce la convivencia entre naturaleza y comunidades campesinas. El territorio abarca partes de Estelí, Condega, Yalí y La Concordia, y sube desde zonas secas hasta bosques nubosos. Hay pinares, robledales, potreros con árboles dispersos, pequeñas lagunas de montaña y cafetales. Sus comunidades se han organizado en cooperativas que ofrecen turismo rural, con caminatas, observación de aves y hospedaje en casas de familia, una experiencia que se ha vuelto referente del turismo comunitario en Nicaragua.",
+      "importancia": "Miraflor-Moropotente protege una gran variedad de ambientes en poca distancia, desde sabanas secas hasta bosque nuboso, y por eso reúne una avifauna muy diversa, con especies como el guardabarranco, la oropéndola de Moctezuma, el pájaro campana y registros de quetzal. Sus bosques de pino y roble, con abundantes orquídeas y bromelias, cuidan las nacientes de agua que abastecen a comunidades de Estelí. La zona es también ejemplo de producción agroecológica en un paisaje protegido. La ampliación de potreros y cultivos, los incendios y la extracción de leña siguen siendo los principales retos.",
+      "especies_emblematicas": [
+        "guardabarranco",
+        "oropendola-de-montezuma",
+        "pino-ocote",
+        "pajaro-campana",
+        "quetzal"
+      ],
+      "visitar": "Se llega desde Estelí por caminos rurales hacia Yalí o La Pita. Las cooperativas locales organizan guías, hospedaje y comidas.",
+      "fuentes": [
+        {
+          "cita": "Resolución ministerial que aprueba el Plan de Manejo del Paisaje Terrestre Protegido Miraflor-Moropotente (2004).",
+          "url": "https://nicaragua.justia.com/nacionales/resoluciones/aprobar-el-plan-de-manejo-del-paisaje-terrestre-protegido-de-miraflor-moropotente-sep-13-2004/gdoc"
+        },
+        {
+          "cita": "Wikipedia. Miraflor Natural Reserve.",
+          "url": "https://en.wikipedia.org/wiki/Miraflor_Natural_Reserve"
+        },
+        {
+          "cita": "Decreto 42-91, Declaración de áreas protegidas en varios cerros macizos montañosos, volcanes y lagunas del país. La Gaceta n.º 207, 4 de noviembre de 1991.",
+          "url": "https://nicaragua.justia.com/nacionales/decretos-ejecutivos/declaracion-de-areas-protegidas-en-varios-cerros-macizos-montanosos-volcanes-y-lagunas-del-pais-nov-4-1991/gdoc"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Año: 1990 según Wikipedia para Miraflor; Moropotente aparece como reserva natural desde 1991 (Decreto 42-91), y el plan de manejo de 2004 unificó ambas bajo la categoría de paisaje terrestre protegido. Confirmar el instrumento de 1990. El quetzal y el pájaro campana se incluyen por registros escasos (oscurecidos) en iNaturalist; confirmar con listas de aves locales."
+      }
+    },
+    {
+      "id": "canon-somoto",
+      "nombre": "Monumento Nacional Cañón de Somoto",
+      "tipo": "area_protegida",
+      "categoria": "Monumento Nacional",
+      "designaciones": [
+        "Parte del Geoparque Mundial de la UNESCO Río Coco (2020)"
+      ],
+      "departamentos": [
+        "Madriz"
+      ],
+      "region": "centro-norte",
+      "coordenadas": [
+        13.4552,
+        -86.7038
+      ],
+      "area_ha": 170,
+      "nota_area": "La Ley 605 fija 170,31 ha en total, de las cuales 125,17 ha corresponden al cañón.",
+      "anio_declaracion": 2006,
+      "ecosistemas": [
+        "cañón fluvial",
+        "bosque seco y matorral",
+        "río de montaña"
+      ],
+      "descripcion": "El Cañón de Somoto es una garganta estrecha y profunda por la que corren las primeras aguas del río Coco, cerca de la frontera con Honduras, en el departamento de Madriz. Sus paredes de roca volcánica se elevan a pico sobre un río de pozas verdes, rápidos y tramos tan angostos que obligan a nadar. Fue dado a conocer a la ciencia en 2004 por un equipo de geólogos checos y nicaragüenses, y en 2006 la Ley 605 lo declaró monumento nacional. Desde 2020 es el principal atractivo del Geoparque Mundial de la UNESCO Río Coco, el primero de Centroamérica, que abarca varios municipios de Madriz.",
+      "importancia": "El valor principal del cañón es geológico y paisajístico: muestra la acción erosiva del agua sobre rocas volcánicas antiguas y es un aula abierta para entender la historia del territorio. Su protección también cuida la calidad del agua en el nacimiento del río más largo de Centroamérica. El entorno seco del corredor norte alberga garrobos, iguanas, garzas y otras especies de bosque seco. El turismo de aventura ha generado empleo local, pero requiere ordenar el flujo de visitantes, la basura y la seguridad en el río, sobre todo en la época lluviosa, cuando el caudal crece de forma repentina.",
+      "especies_emblematicas": [
+        "garrobo",
+        "iguana-verde",
+        "garza-tigre"
+      ],
+      "visitar": "Está junto a la carretera Panamericana Norte, cerca de Somoto. Los recorridos se hacen con guías locales autorizados; en temporada lluviosa pueden suspenderse por crecidas.",
+      "fuentes": [
+        {
+          "cita": "Ley 605, Ley que declara área protegida en la categoría de Monumento Nacional al Cañón de Somoto. La Gaceta n.º 240, 12 de diciembre de 2006.",
+          "url": "https://nicaragua.justia.com/nacionales/leyes/ley-que-declara-area-protegida-en-la-categoria-de-monumento-nacional-al-canon-de-somoto-dec-12-2006/gdoc"
+        },
+        {
+          "cita": "MARENA. Plan de Manejo del Monumento Nacional Cañón de Somoto.",
+          "url": "https://www.marena.gob.ni/wp-content/uploads/2023/08/9-Plan-de-Manejo-Monumento-Nacional-Canon-de-Somoto.pdf"
+        },
+        {
+          "cita": "Servicio Geológico Checo (2020). The first UNESCO Global Geopark in Central America was established.",
+          "url": "https://cgs.gov.cz/en/about-us/current-events/the-first-unesco-global-geopark-in-central-america-was-established-thanks"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Especies emblemáticas basadas en muy pocos registros de iNaturalist; conviene sustituirlas por especies de un inventario del área. Fecha de designación del geoparque: julio de 2020 (Consejo Ejecutivo de la UNESCO); algunas fuentes dan el 7 y otras el 10 de julio."
+      }
+    },
+    {
+      "id": "datanli-el-diablo",
+      "nombre": "Reserva Natural Cerro Datanlí-El Diablo",
+      "tipo": "area_protegida",
+      "categoria": "Reserva Natural",
+      "designaciones": [],
+      "departamentos": [
+        "Jinotega"
+      ],
+      "region": "centro-norte",
+      "coordenadas": [
+        13.1246,
+        -85.8711
+      ],
+      "area_ha": 4565,
+      "nota_area": "Cifra citada en un plan de manejo regional (4 565 ha); otras fuentes dan valores cercanos a 5 800 ha.",
+      "anio_declaracion": 1991,
+      "ecosistemas": [
+        "bosque nuboso",
+        "bosque latifoliado de altura",
+        "cafetales con sombra",
+        "nacientes y quebradas"
+      ],
+      "descripcion": "Datanlí-El Diablo es un macizo montañoso al este de la ciudad de Jinotega, con cerros que superan los 1 600 metros y laderas cubiertas de bosque nuboso y fincas de café de sombra. Fue declarada área protegida en 1991, junto con otros cerros del norte, y su primer plan de manejo se aprobó en 2002. Buena parte de la reserva es propiedad privada, por lo que su conservación depende en gran medida de los productores cafetaleros y de las comunidades que viven en sus valles. La neblina, la lluvia frecuente y las temperaturas frescas crean un ambiente de musgos, helechos arborescentes y árboles cargados de epífitas.",
+      "importancia": "La reserva protege nacientes que alimentan quebradas y ríos que abastecen a comunidades de Jinotega y a la cuenca del lago de Apanás. Sus bosques nubosos son hábitat de aves de montaña, como el pájaro campana y el tucán pico iris, y en invierno reciben aves migratorias norteamericanas, entre ellas la reinita alidorada, una especie casi amenazada que pasa la temporada no reproductiva en estas montañas. También alberga ranas de vidrio y ranas de ojos rojos en sus quebradas. La expansión de cultivos sin sombra y de potreros es la principal amenaza para su continuidad.",
+      "especies_emblematicas": [
+        "reinita-alidorada",
+        "pajaro-campana",
+        "rana-de-vidrio",
+        "tucan-pico-iris",
+        "oropendola-de-montezuma"
+      ],
+      "fuentes": [
+        {
+          "cita": "Decreto 42-91, Declaración de áreas protegidas en varios cerros macizos montañosos, volcanes y lagunas del país. La Gaceta n.º 207, 4 de noviembre de 1991.",
+          "url": "https://nicaragua.justia.com/nacionales/decretos-ejecutivos/declaracion-de-areas-protegidas-en-varios-cerros-macizos-montanosos-volcanes-y-lagunas-del-pais-nov-4-1991/gdoc"
+        },
+        {
+          "cita": "Resolución ministerial que aprueba el Plan de Manejo de la Reserva Natural Datanlí-El Diablo (2002).",
+          "url": "https://nicaragua.justia.com/nacionales/resoluciones/aprobar-el-plan-de-manejo-de-la-reserva-natural-datanli-el-diablo-aug-5-2002/gdoc"
+        },
+        {
+          "cita": "Fundación Enrique Bolaños. Reserva Natural Cerro Datanlí-El Diablo (ficha informativa).",
+          "url": "https://www.enriquebolanos.org/media/informe/Reserva%20Natural%20Cerro%20Datanl%C3%AC-El%20Diablo.pdf"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Superficie: las fuentes discrepan (4 565 ha frente a unas 5 800 ha). Departamentos: puede abarcar también parte de Matagalpa; confirmar. Altitud máxima (más de 1 600 m) por confirmar. Especies basadas en registros de iNaturalist en el entorno."
+      }
+    },
+    {
+      "id": "cerro-arenal",
+      "nombre": "Reserva Natural Cerro El Arenal",
+      "tipo": "area_protegida",
+      "categoria": "Reserva Natural",
+      "designaciones": [],
+      "departamentos": [
+        "Matagalpa"
+      ],
+      "region": "centro-norte",
+      "coordenadas": [
+        13.0113,
+        -85.9045
+      ],
+      "area_ha": 1415,
+      "nota_area": "La Resolución Ministerial 134-10-2018 indica 1 415,20 ha de área protegida y 1 407,40 ha de zona de amortiguamiento. Otras fuentes citan unos 1 428 ha.",
+      "anio_declaracion": 1991,
+      "ecosistemas": [
+        "bosque nuboso",
+        "bosque latifoliado de altura",
+        "cafetales con sombra"
+      ],
+      "descripcion": "El Cerro El Arenal es una pequeña reserva de bosque nuboso en el municipio de Matagalpa, junto a la carretera que va hacia Jinotega. A pesar de su tamaño reducido, sus cumbres conservan un bosque alto y húmedo, siempre cubierto de neblina, con árboles gigantes, musgos y bromelias. Fue declarada en 1991 como área protegida de interés nacional y su plan de manejo se aprobó en 2018. Gran parte del territorio pertenece a decenas de propietarios privados, muchos de ellos cafetaleros, y algunas fincas vecinas se han convertido en destinos de ecoturismo conocidos por sus senderos de bosque y la observación de aves.",
+      "importancia": "Pese a su pequeño tamaño, El Arenal es uno de los mejores lugares de Nicaragua para observar aves de bosque nuboso. Es conocido por el pájaro campana, cuyo canto metálico se oye a gran distancia en la época reproductiva, y por registros de quetzal. También abundan el mono congo, la guatusa, la oropéndola de Moctezuma y aves migratorias como la reinita alidorada. Sus bosques captan agua de la neblina y protegen nacientes que abastecen a comunidades cercanas. Su conservación depende de mantener la sombra en los cafetales y los corredores con otras reservas como Datanlí-El Diablo.",
+      "especies_emblematicas": [
+        "pajaro-campana",
+        "quetzal",
+        "mono-congo",
+        "reinita-alidorada",
+        "guatusa"
+      ],
+      "visitar": "Está junto a la carretera Matagalpa-Jinotega. Varias fincas privadas de la zona ofrecen senderos y guías para observar aves.",
+      "fuentes": [
+        {
+          "cita": "Decreto 42-91, Declaración de áreas protegidas en varios cerros macizos montañosos, volcanes y lagunas del país. La Gaceta n.º 207, 4 de noviembre de 1991.",
+          "url": "https://nicaragua.justia.com/nacionales/decretos-ejecutivos/declaracion-de-areas-protegidas-en-varios-cerros-macizos-montanosos-volcanes-y-lagunas-del-pais-nov-4-1991/gdoc"
+        },
+        {
+          "cita": "Resolución Ministerial 134-10-2018, Plan de Manejo del Área Protegida Reserva Natural Cerro Arenal (La Gaceta n.º 223, 16 de noviembre de 2018).",
+          "url": "https://www.leybook.com/doc/22350/pdf"
+        },
+        {
+          "cita": "Fundación Enrique Bolaños. Reserva Natural Cerro El Arenal (ficha informativa).",
+          "url": "https://www.enriquebolanos.org/media/informe/Reserva%20Natural%20Cerro%20El%20Arenal.pdf"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Nombre: la resolución de 2018 usa 'Reserva Natural Cerro Arenal'; el catálogo y OpenStreetMap usan 'Cerro El Arenal'. No confundir con la Reserva Natural El Arenal, otra área de Matagalpa. El quetzal se incluye por registros oscurecidos de iNaturalist en las montañas de Matagalpa; confirmar."
+      }
+    },
+    {
+      "id": "kilambe",
+      "nombre": "Reserva Natural Cerro Kilambé",
+      "tipo": "area_protegida",
+      "categoria": "Reserva Natural",
+      "designaciones": [
+        "Parte de la Reserva de Biosfera Bosawás (UNESCO, 1997)"
+      ],
+      "departamentos": [
+        "Jinotega"
+      ],
+      "region": "centro-norte",
+      "coordenadas": [
+        13.5851,
+        -85.705
+      ],
+      "area_ha": 66570,
+      "nota_area": "La Resolución Ministerial 295-2021 da 66 569,65 ha (incluye amortiguamiento). El plan de 2014 distinguía 12 575 ha de zona núcleo y unos 53 943 ha de amortiguamiento.",
+      "anio_declaracion": 1991,
+      "ecosistemas": [
+        "bosque nuboso",
+        "bosque latifoliado montano",
+        "bosque de pino",
+        "cafetales y cultivos"
+      ],
+      "descripcion": "El Cerro Kilambé es una de las montañas más altas de Nicaragua, con una cumbre que supera los 1 700 metros, en el norte del departamento de Jinotega, entre los municipios de Wiwilí, El Cuá y San José de Bocay. Su cima conserva bosque nuboso, mientras que las laderas bajas han sido ocupadas por cafetales, granos básicos y potreros. Fue declarada área protegida en 1991 y forma parte de la Reserva de Biosfera Bosawás, de la que constituye uno de los extremos montañosos occidentales. En días despejados, desde sus alturas se distinguen los valles del río Coco y las serranías que se extienden hacia la frontera con Honduras.",
+      "importancia": "El Kilambé es una torre de agua para el norte de Jinotega: de sus laderas nacen quebradas que alimentan afluentes del río Coco y abastecen a comunidades rurales. Su bosque nuboso, uno de los más altos del país, alberga aves de montaña como el quetzal, que tiene en estas serranías algunas de sus pocas poblaciones nicaragüenses, junto con tucanes y oropéndolas. Al estar ligado a Bosawás, contribuye a la conectividad entre los bosques del centro-norte y el gran bloque forestal del Caribe. La expansión agrícola y ganadera hacia las partes altas es su principal amenaza.",
+      "especies_emblematicas": [
+        "quetzal",
+        "tucan-pico-iris",
+        "oropendola-de-montezuma"
+      ],
+      "fuentes": [
+        {
+          "cita": "Decreto 42-91, Declaración de áreas protegidas en varios cerros macizos montañosos, volcanes y lagunas del país. La Gaceta n.º 207, 4 de noviembre de 1991.",
+          "url": "https://nicaragua.justia.com/nacionales/decretos-ejecutivos/declaracion-de-areas-protegidas-en-varios-cerros-macizos-montanosos-volcanes-y-lagunas-del-pais-nov-4-1991/gdoc"
+        },
+        {
+          "cita": "Resolución Ministerial 295-2021, actualización del Plan de Manejo de la Reserva Natural Cerro Kilambé.",
+          "url": "https://leybook.com/doc/27757/pdf"
+        },
+        {
+          "cita": "Wikipedia. Cerro Kilambé Natural Reserve.",
+          "url": "https://en.wikipedia.org/wiki/Cerro_Kilamb%C3%A9_Natural_Reserve"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Altitud de la cumbre (más de 1 700 m) según fuentes generales. Confirmar que el documento leybook n.º 27757 corresponde a la Resolución 295-2021. Especies emblemáticas basadas en pocos registros de iNaturalist (quetzal con coordenadas oscurecidas)."
+      }
+    },
+    {
+      "id": "musun",
+      "nombre": "Reserva Natural Cerro Musún",
+      "tipo": "area_protegida",
+      "categoria": "Reserva Natural",
+      "designaciones": [],
+      "departamentos": [
+        "Matagalpa"
+      ],
+      "region": "centro-norte",
+      "coordenadas": [
+        12.9915,
+        -85.2397
+      ],
+      "area_ha": null,
+      "nota_area": "No se encontró una cifra fiable de superficie; consultar el plan de manejo del MARENA (2003).",
+      "anio_declaracion": 1991,
+      "ecosistemas": [
+        "bosque húmedo premontano",
+        "bosque nuboso",
+        "ríos y cascadas"
+      ],
+      "descripcion": "El Cerro Musún se levanta junto al pueblo de Río Blanco, en el extremo oriental de Matagalpa, donde las montañas del centro del país empiezan a descender hacia las llanuras del Caribe. Su silueta abrupta, casi siempre cubierta de nubes, domina el paisaje de la zona. Fue declarado área protegida de interés nacional en 1991 y su plan de manejo se aprobó en 2003. Las laderas conservan bosque húmedo y, en las partes altas, bosque nuboso con abundantes epífitas, cruzado por quebradas y cascadas. En sus alrededores predominan la ganadería y los cultivos, lo que convierte al cerro en una isla de bosque en un paisaje agrícola.",
+      "importancia": "El Musún es la principal fuente de agua para Río Blanco y comunidades vecinas, y su bosque es un punto de encuentro entre especies de las montañas del centro y de las tierras bajas del Caribe. Hay registros de monos congo y araña, oropéndolas, guardabarrancos y ranas venenosas de vertiente caribeña. Por su posición, funciona como escalón en la conectividad entre los bosques del centro-norte y los del Caribe. Las amenazas principales son el avance de potreros hacia las partes altas, la cacería y la extracción de madera.",
+      "especies_emblematicas": [
+        "mono-congo",
+        "mono-arana",
+        "oropendola-de-montezuma",
+        "rana-venenosa-fresa"
+      ],
+      "fuentes": [
+        {
+          "cita": "Decreto 42-91, Declaración de áreas protegidas en varios cerros macizos montañosos, volcanes y lagunas del país. La Gaceta n.º 207, 4 de noviembre de 1991.",
+          "url": "https://nicaragua.justia.com/nacionales/decretos-ejecutivos/declaracion-de-areas-protegidas-en-varios-cerros-macizos-montanosos-volcanes-y-lagunas-del-pais-nov-4-1991/gdoc"
+        },
+        {
+          "cita": "MARENA. Plan de Manejo de la Reserva Natural Cerro Musún.",
+          "url": "https://www.marena.gob.ni/wp-content/uploads/2023/08/24-Plan-de-Manejo-Reserva-Natural-Cerro-Musun.pdf"
+        },
+        {
+          "cita": "BirdLife International. Important Bird Area factsheet: Musun Hill (Nicaragua).",
+          "url": "https://datazone.birdlife.org/site/factsheet/musun-hill-iba-nicaragua/details"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Superficie desconocida (null). Especies emblemáticas basadas en pocos registros de iNaturalist en un radio de 15 km; la presencia de rana venenosa fresa (Oophaga pumilio) en el Musún debe confirmarse con literatura herpetológica (Sunyer y Köhler)."
+      }
+    },
+    {
+      "id": "tisey",
+      "nombre": "Reserva Natural Tisey-Estanzuela",
+      "tipo": "area_protegida",
+      "categoria": "Reserva Natural",
+      "designaciones": [],
+      "departamentos": [
+        "Estelí"
+      ],
+      "region": "centro-norte",
+      "coordenadas": [
+        12.9883,
+        -86.3872
+      ],
+      "area_ha": 9754,
+      "nota_area": "Superficie registrada en la WDPA (97,5 km²); no se confirmó con el plan de manejo de 2021.",
+      "anio_declaracion": 1991,
+      "ecosistemas": [
+        "bosque de pino y roble",
+        "bosque latifoliado de altura",
+        "cascadas y quebradas",
+        "pastizales de montaña"
+      ],
+      "descripcion": "Tisey-Estanzuela es una reserva de montaña al sur de la ciudad de Estelí. En sus partes altas, que superan los 1 500 metros, predominan los bosques de pino y roble, mientras que las quebradas conservan franjas de bosque latifoliado. Uno de sus lugares más visitados es la cascada de La Estanzuela, que cae sobre una poza rodeada de vegetación. Fue declarada en 1991 y su plan de manejo se actualizó en 2021. En la reserva viven familias campesinas que combinan agricultura, ganadería y turismo rural; en sus caminos hay miradores con vistas a los valles de Estelí y a la cordillera, y esculturas talladas en roca por un artista local.",
+      "importancia": "La reserva protege la principal zona de recarga de agua para la ciudad de Estelí y sus comunidades rurales, en una región donde la estación seca es larga. Sus pinares de pino ocote y robledales, típicos de las montañas del norte, albergan guardabarrancos y otras aves de bosque abierto, y las quebradas conservan anfibios y plantas de ambientes húmedos. Los incendios forestales, las plagas del pino, la extracción de leña y el crecimiento de la frontera agrícola son las amenazas más importantes, agravadas por sequías cada vez más frecuentes.",
+      "especies_emblematicas": [
+        "pino-ocote",
+        "guardabarranco",
+        "roble-macuelizo"
+      ],
+      "visitar": "Se accede desde Estelí por la carretera hacia San Nicolás. Hay senderos, miradores y hospedajes rurales; la cascada se visita mejor en la estación lluviosa.",
+      "fuentes": [
+        {
+          "cita": "Decreto 42-91, Declaración de áreas protegidas en varios cerros macizos montañosos, volcanes y lagunas del país. La Gaceta n.º 207, 4 de noviembre de 1991.",
+          "url": "https://nicaragua.justia.com/nacionales/decretos-ejecutivos/declaracion-de-areas-protegidas-en-varios-cerros-macizos-montanosos-volcanes-y-lagunas-del-pais-nov-4-1991/gdoc"
+        },
+        {
+          "cita": "Resolución Ministerial 313-2021, actualización del Plan de Manejo de la Reserva Natural Tisey-Estanzuela (La Gaceta n.º 50, 15 de marzo de 2022).",
+          "url": "https://leybook.com/doc/27780/pdf"
+        },
+        {
+          "cita": "Protected Planet (WDPA): Cerro Tisey-Estanzuela.",
+          "url": "https://www.protectedplanet.net/12680"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Altitud de las partes altas (más de 1 500 m) según fuentes generales. El roble macuelizo (Tabebuia rosea) se incluye por un registro de iNaturalist; los 'robles' de los robledales de montaña son especies de Quercus, no T. rosea. Considerar sustituirlo. Confirmar que el documento leybook n.º 27780 corresponde a la Resolución 313-2021."
+      }
+    },
+    {
+      "id": "dipilto-jalapa",
+      "nombre": "Reserva Natural Cordillera Dipilto y Jalapa",
+      "tipo": "area_protegida",
+      "categoria": "Reserva Natural",
+      "designaciones": [],
+      "departamentos": [
+        "Nueva Segovia"
+      ],
+      "region": "centro-norte",
+      "coordenadas": [
+        13.7436,
+        -86.4094
+      ],
+      "area_ha": 32587,
+      "nota_area": "Zona de conservación según la Resolución Ministerial 242-2021 (32 586,95 ha), más 20 067,76 ha de amortiguamiento. El plan de 2018 daba 32 555,76 ha y Wikipedia 31 315 ha.",
+      "anio_declaracion": 1991,
+      "ecosistemas": [
+        "bosque de pino",
+        "bosque de pino y roble",
+        "bosque nuboso",
+        "cafetales con sombra"
+      ],
+      "descripcion": "Esta reserva sigue la cordillera fronteriza con Honduras en Nueva Segovia, desde Dipilto hasta Jalapa, pasando por Mozonte y San Fernando. Allí se encuentra el Mogotón, el punto más alto de Nicaragua, con algo más de 2 000 metros. Las laderas están cubiertas de pinares, robledales y, en las partes más húmedas, bosque nuboso, aunque cerca de dos tercios del territorio se dedica al café. Fue declarada en 1991 y su plan de manejo se actualizó en 2021. El clima fresco, los pinos y el aroma a resina hacen de estas montañas un paisaje muy distinto del resto del país.",
+      "importancia": "La cordillera es la fuente de agua de cinco municipios de Nueva Segovia: Dipilto, Ocotal, Mozonte, San Fernando y Jalapa. Sus pinares de pino ocote fueron devastados a inicios de la década de 2000 por una plaga del gorgojo descortezador, y su recuperación es un tema central del manejo. Los bosques mixtos y nubosos albergan guardabarrancos, oropéndolas, zopilotes rey y aves migratorias. La reserva muestra el reto de conservar montañas productivas: mantener la sombra en los cafetales, prevenir incendios y plagas, y frenar el avance de cultivos en las partes altas.",
+      "especies_emblematicas": [
+        "pino-ocote",
+        "guardabarranco",
+        "oropendola-de-montezuma",
+        "zopilote-rey"
+      ],
+      "fuentes": [
+        {
+          "cita": "Decreto 42-91, Declaración de áreas protegidas en varios cerros macizos montañosos, volcanes y lagunas del país. La Gaceta n.º 207, 4 de noviembre de 1991.",
+          "url": "https://nicaragua.justia.com/nacionales/decretos-ejecutivos/declaracion-de-areas-protegidas-en-varios-cerros-macizos-montanosos-volcanes-y-lagunas-del-pais-nov-4-1991/gdoc"
+        },
+        {
+          "cita": "Resolución Ministerial 242-2021, actualización del Plan de Manejo de la Reserva Natural Cordillera Dipilto y Jalapa."
+        },
+        {
+          "cita": "Wikipedia. Cordillera Dipilto and Jalapa Natural Reserve.",
+          "url": "https://en.wikipedia.org/wiki/Cordillera_Dipilto_and_Jalapa_Natural_Reserve"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Altitud del Mogotón: las fuentes dan 2 085 m o 2 107 m. Las fechas del brote de gorgojo descortezador (aprox. 1999-2002) deben confirmarse con fuentes del INAFOR. Coordenadas tomadas de un punto (El Mogotón, Mozonte) dentro de la reserva."
+      }
+    },
+    {
+      "id": "cayos-miskitos",
+      "nombre": "Reserva Biológica Cayos Miskitos y Franja Costera Inmediata",
+      "tipo": "area_protegida",
+      "categoria": "Reserva Biológica (marina)",
+      "designaciones": [
+        "Sitio Ramsar (2001)"
+      ],
+      "departamentos": [
+        "Costa Caribe Norte"
+      ],
+      "region": "marino-caribe",
+      "coordenadas": [
+        14.3777,
+        -82.773
+      ],
+      "area_ha": null,
+      "nota_area": "Cifras muy distintas según la fuente: el sitio Ramsar n.º 1135 mide 85 000 ha, mientras que la WDPA registra unos 856 700 ha, coherente con la delimitación del decreto (un círculo de 40 km de radio alrededor de los cayos más una franja costera de 20 km de ancho).",
+      "anio_declaracion": 1991,
+      "ecosistemas": [
+        "praderas de pastos marinos",
+        "arrecifes de coral",
+        "cayos con manglar",
+        "lagunas costeras",
+        "aguas marinas someras"
+      ],
+      "descripcion": "Los Cayos Miskitos son un archipiélago de pequeñas islas, bancos de arena y manglares situado a unos 50 kilómetros de la costa de la Costa Caribe Norte, frente a las comunidades miskitu del litoral. La reserva biológica, creada en 1991, abarca los cayos, las aguas que los rodean y una franja costera de unos 20 kilómetros de ancho con lagunas y desembocaduras de ríos. En los cayos más grandes hay palafitos usados por pescadores durante las temporadas de pesca. Las aguas someras y cálidas del banco miskito forman una de las plataformas continentales más amplias del Caribe occidental, cubiertas de extensas praderas de pastos marinos, parches de coral y fondos arenosos.",
+      "importancia": "La reserva protege una de las zonas de alimentación de tortuga verde más importantes del Caribe: las praderas de pastos marinos del banco miskito sostienen a miles de tortugas que llegan desde playas de anidación de toda la región. También es hábitat de tortuga carey, manatí, langosta del Caribe y cambute, especies esenciales para la economía y la alimentación de las comunidades miskitu. Sus manglares y lagunas costeras sirven de criadero para peces y crustáceos. La sobrepesca, la pesca de langosta por buceo, la captura de tortugas por encima de niveles sostenibles y los huracanes son las mayores presiones sobre este ecosistema.",
+      "especies_emblematicas": [
+        "tortuga-verde",
+        "tortuga-carey",
+        "langosta-del-caribe",
+        "cambute",
+        "manati",
+        "mangle-rojo"
+      ],
+      "otras_especies": [
+        "Thalassia testudinum"
+      ],
+      "visitar": "El acceso es en lancha desde Bilwi (Puerto Cabezas) y requiere coordinación con las comunidades y autoridades locales; no hay infraestructura turística formal.",
+      "fuentes": [
+        {
+          "cita": "Decreto 43-91, Declaración de la Reserva Biológica Marina Cayos Miskitos y Franja Costera Inmediata. La Gaceta n.º 207, 4 de noviembre de 1991.",
+          "url": "https://nicaragua.justia.com/nacionales/decretos-ejecutivos/declaracion-de-la-reserva-biologica-marina-cayos-miskitos-y-franja-costera-inmediata-nov-4-1991/gdoc"
+        },
+        {
+          "cita": "Ramsar Sites Information Service (RSIS), ficha del sitio n.º 1135: Cayos Miskitos y Franja Costera Inmediata (designado el 8 de noviembre de 2001, 85 000 ha).",
+          "url": "https://rsis.ramsar.org/ris/1135"
+        },
+        {
+          "cita": "Protected Planet (WDPA): Cayos Miskitos y Franja Costera Inmediata.",
+          "url": "https://protectedplanet.net/12667"
+        },
+        {
+          "cita": "BirdLife International. Important Bird Area factsheet: Miskito Keys and terrestrial landscape (Nicaragua).",
+          "url": "https://datazone.birdlife.org/site/factsheet/miskito-keys-and-terrestrial-landscape-iba-nicaragua/details"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "El decreto la llama 'Reserva Biológica Marina'; el catálogo omite 'Marina'. Superficie: discrepancia de un orden de magnitud entre Ramsar y WDPA (null). Distancia a la costa (unos 50 km) según fuentes generales. La importancia del banco miskito para la tortuga verde está documentada en estudios de Lagueux, Campbell y colaboradores; añadir cita concreta."
+      }
+    },
+    {
+      "id": "wawashang",
+      "nombre": "Reserva Natural Wawashang",
+      "tipo": "area_protegida",
+      "categoria": "Reserva Natural",
+      "designaciones": [],
+      "departamentos": [
+        "Costa Caribe Sur"
+      ],
+      "region": "caribe",
+      "coordenadas": [
+        12.6615,
+        -83.8976
+      ],
+      "area_ha": null,
+      "nota_area": "No se encontró una cifra fiable: fuentes turísticas hablan de unas 350 000 ha y otras de unos 3 500 (sin unidad clara). Revisar con el MARENA.",
+      "anio_declaracion": null,
+      "ecosistemas": [
+        "bosque tropical húmedo",
+        "bosque inundable y pantanos",
+        "ríos y caños",
+        "sabanas de pino"
+      ],
+      "descripcion": "La Reserva Natural Wawashang se extiende al norte y al oeste de la Laguna de Perlas, en la Costa Caribe Sur, y toma su nombre del río Wawashang, uno de los que desembocan en esa laguna. Abarca partes de los municipios de Laguna de Perlas, Kukra Hill y El Tortuguero. Su paisaje combina bosques húmedos de tierras bajas, pantanos, bosques que se inundan con las crecidas, pequeñas sabanas y una red de ríos navegables que comunican el interior con la costa. En sus bordes viven comunidades miskitu, creoles y mestizas que dependen de la pesca, la agricultura y los productos del bosque.",
+      "importancia": "Wawashang protege bosques y humedales que regulan el agua que entra a la Laguna de Perlas, uno de los sistemas costeros más productivos del Caribe nicaragüense. Hay registros de monos congo, araña y cara blanca, danta, cuajipales, cocodrilos y numerosas aves acuáticas como el pato aguja y la garza tigre. Al estar entre las grandes reservas del norte y del sur del Caribe, contribuye a la conectividad del corredor biológico de la costa. Sus amenazas son el avance de la frontera agrícola desde el oeste, la tala y la cacería.",
+      "especies_emblematicas": [
+        "mono-congo",
+        "mono-arana",
+        "danta",
+        "pato-aguja"
+      ],
+      "fuentes": [
+        {
+          "cita": "BirdLife International. Important Bird Area factsheet: Wawashan (Nicaragua).",
+          "url": "https://datazone.birdlife.org/site/factsheet/wawashan-iba-nicaragua/details"
+        },
+        {
+          "cita": "Wikipedia. Cerro Wawashang Natural Reserve.",
+          "url": "https://en.wikipedia.org/wiki/Cerro_Wawashang_Natural_Reserve"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Año de declaratoria desconocido: International Parks indica 1991 y BirdLife 1992 (null hasta confirmar). Superficie desconocida (null). Nombre: algunas fuentes la llaman 'Reserva Natural Cerro Wawashang'. Especies basadas en registros dispersos de iNaturalist (radio de 40 km); confirmar con inventarios."
+      }
+    },
+    {
+      "id": "cerro-silva",
+      "nombre": "Reserva Natural Cerro Silva",
+      "tipo": "area_protegida",
+      "categoria": "Reserva Natural",
+      "designaciones": [
+        "Parte de la Reserva de Biosfera Río San Juan (UNESCO, 2003)"
+      ],
+      "departamentos": [
+        "Costa Caribe Sur"
+      ],
+      "region": "caribe",
+      "coordenadas": [
+        11.8127,
+        -83.9962
+      ],
+      "area_ha": 339400,
+      "nota_area": "La resolución que aprueba su plan de manejo indica 3 394 km² (zona núcleo más amortiguamiento). La WDPA registra unos 292 450 ha.",
+      "anio_declaracion": 1990,
+      "ecosistemas": [
+        "bosque tropical muy húmedo",
+        "bosque inundable",
+        "humedales",
+        "ríos y caños"
+      ],
+      "descripcion": "Cerro Silva ocupa un amplio territorio de colinas y llanuras entre Bluefields, Nueva Guinea y El Rama, en la Costa Caribe Sur, limitado por ríos como el Escondido y el Mahogany. Su nombre viene de uno de los cerros que sobresalen en este paisaje de selvas bajas y lluviosas. En 1999 el Decreto 66-99 la recategorizó como reserva natural dentro del conjunto de áreas protegidas del sureste. Parte de la reserva se superpone con territorios indígenas y afrodescendientes rama y kriol, mientras que su borde occidental limita con zonas de colonización agrícola reciente. Su plan de manejo fue aprobado en 2011.",
+      "importancia": "Cerro Silva funciona como puente biológico entre los humedales de Mahogany, la Reserva Natural Punta Gorda y la Reserva Biológica Indio Maíz, de modo que su conservación es clave para que las especies de la gran selva del sureste puedan desplazarse. Alberga ranas venenosas, serpientes como la terciopelo, cuajipales y una gran diversidad de árboles maderables y aves de bosque húmedo. Es, sin embargo, una de las áreas más afectadas por el avance de la frontera agrícola y ganadera en el Caribe sur, lo que ha reducido y fragmentado su cobertura boscosa.",
+      "especies_emblematicas": [
+        "rana-venenosa-fresa",
+        "rana-venenosa-verdinegra",
+        "terciopelo",
+        "cuajipal"
+      ],
+      "fuentes": [
+        {
+          "cita": "Resolución ministerial que aprueba el Plan de Manejo de la Reserva Natural Cerro Silva (2011, publicada en 2012).",
+          "url": "https://nicaragua.justia.com/nacionales/resoluciones/aprobar-el-plan-de-manejo-de-la-reserva-natural-cerro-silva-feb-10-2012/gdoc"
+        },
+        {
+          "cita": "Decreto 66-99, Actualización y precisión de categorías y límites de las áreas protegidas ubicadas en el territorio del sureste de Nicaragua. La Gaceta n.º 116, 16 de junio de 1999.",
+          "url": "https://nicaragua.justia.com/nacionales/decretos-ejecutivos/actualizacion-y-precision-de-categorias-y-limites-de-las-areas-protegidas-ubicadas-en-el-territorio-del-sureste-de-nicaragua/gdoc"
+        },
+        {
+          "cita": "Protected Planet (WDPA): Cerro Silva.",
+          "url": "https://www.protectedplanet.net/61075"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Año 1990 asumido (posible inclusión como reserva forestal en el Decreto 527); la categoría de reserva natural es del Decreto 66-99. Confirmar que Cerro Silva figura entre las siete áreas de la Reserva de Biosfera Río San Juan según el expediente UNESCO."
+      }
+    },
+    {
+      "id": "punta-gorda",
+      "nombre": "Reserva Natural Punta Gorda",
+      "tipo": "area_protegida",
+      "categoria": "Reserva Natural",
+      "designaciones": [
+        "Parte de la Reserva de Biosfera Río San Juan (UNESCO, 2003)"
+      ],
+      "departamentos": [
+        "Costa Caribe Sur"
+      ],
+      "region": "caribe",
+      "coordenadas": [
+        11.4454,
+        -84.0537
+      ],
+      "area_ha": null,
+      "nota_area": "No se localizó la superficie oficial; consultar el Decreto 66-99 o el plan de manejo de 2011.",
+      "anio_declaracion": 1990,
+      "ecosistemas": [
+        "bosque tropical muy húmedo",
+        "humedales y yolillales",
+        "costa y playas del Caribe",
+        "ríos"
+      ],
+      "descripcion": "Punta Gorda se ubica en la Costa Caribe Sur, entre la bahía de Bluefields y el río Punta Gorda, que la separa de la Reserva Biológica Indio Maíz. Toma su nombre de un saliente de la costa caribeña. Originalmente formó parte de la Gran Reserva Biológica Río San Juan-Indio Maíz, y en 1999 el Decreto 66-99 la definió como reserva natural, una categoría que admite usos tradicionales sostenibles. Su territorio combina selvas lluviosas, pantanos de palma yolillo, ríos y una franja de costa. Coincide en buena parte con territorios del pueblo rama y de comunidades kriol, cuyo plan de manejo de 2011 reconoce zonas núcleo de bosque y de humedales.",
+      "importancia": "Junto con Indio Maíz y Cerro Silva forma un bloque continuo de bosque tropical que es esencial para especies de grandes territorios y para la lapa verde, que encuentra aquí almendros y otros árboles para anidar. Hay registros de tucanes, osos hormigueros, ranas venenosas y del murciélago blanco, que fabrica tiendas cortando hojas de heliconias. Sus humedales y costas añaden hábitats para peces y aves acuáticas. La colonización agrícola desde el oeste y la tala ilegal son sus amenazas más serias.",
+      "especies_emblematicas": [
+        "lapa-verde",
+        "tucan-pico-iris",
+        "rana-venenosa-verdinegra",
+        "murcielago-blanco",
+        "oso-hormiguero"
+      ],
+      "fuentes": [
+        {
+          "cita": "Resolución ministerial que aprueba el Plan de Manejo de la Reserva Natural Punta Gorda (2011, publicada en 2012).",
+          "url": "https://nicaragua.justia.com/nacionales/resoluciones/aprobar-el-plan-de-manejo-de-la-reserva-natural-punta-gorda-feb-10-2012/gdoc"
+        },
+        {
+          "cita": "Decreto 66-99, Actualización y precisión de categorías y límites de las áreas protegidas ubicadas en el territorio del sureste de Nicaragua. La Gaceta n.º 116, 16 de junio de 1999.",
+          "url": "https://nicaragua.justia.com/nacionales/decretos-ejecutivos/actualizacion-y-precision-de-categorias-y-limites-de-las-areas-protegidas-ubicadas-en-el-territorio-del-sureste-de-nicaragua/gdoc"
+        },
+        {
+          "cita": "UNESCO, Programa El Hombre y la Biosfera (MAB): Reserva de Biosfera Río San Juan.",
+          "url": "https://www.unesco.org/en/mab/rio-san-juan"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Superficie desconocida (null). Año 1990: inclusión en la Gran Reserva del Decreto 527; categoría actual por el Decreto 66-99. Especies basadas en pocos registros de iNaturalist; la presencia de lapa verde está documentada en el sureste, pero conviene confirmar nidos dentro de Punta Gorda."
+      }
+    },
+    {
+      "id": "bahia-bluefields",
+      "nombre": "Sistema de Humedales de la Bahía de Bluefields",
+      "tipo": "area_protegida",
+      "categoria": "Humedal de Importancia Internacional (Sitio Ramsar)",
+      "designaciones": [
+        "Sitio Ramsar (2001)"
+      ],
+      "departamentos": [
+        "Costa Caribe Sur"
+      ],
+      "region": "marino-caribe",
+      "coordenadas": [
+        11.9331,
+        -83.7803
+      ],
+      "area_ha": 86501,
+      "nota_area": "Superficie del sitio Ramsar n.º 1139.",
+      "anio_declaracion": 2001,
+      "ecosistemas": [
+        "laguna costera salobre",
+        "manglar",
+        "praderas de pastos marinos",
+        "desembocaduras de ríos",
+        "humedales herbáceos"
+      ],
+      "descripcion": "La bahía de Bluefields es una laguna costera separada del mar Caribe por una barra de arena y cayos, en cuya orilla se encuentra la ciudad de Bluefields, cabecera de la Costa Caribe Sur. En ella desembocan el río Escondido, que trae agua dulce desde el interior, y otros ríos como el Kukra, lo que crea una mezcla de aguas dulces y saladas muy productiva. En la isla de Rama Cay, dentro de la bahía, vive la principal comunidad del pueblo indígena rama. El sitio Ramsar, designado en 2001, incluye la bahía, sus manglares, humedales y las zonas costeras adyacentes, y se superpone en parte con la Reserva Natural Cerro Silva.",
+      "importancia": "Los manglares y pastos marinos de la bahía son criaderos de camarones, peces y cangrejos que sostienen la pesca artesanal de Bluefields y de las comunidades rama, creoles y mestizas. La bahía alberga manatíes, róbalos, sábalos y aves acuáticas como el pelícano pardo, y sus manglares protegen la costa frente a tormentas. Al mismo tiempo, recibe sedimentos de la deforestación en la cuenca del río Escondido, aguas residuales urbanas y presiones por pesca intensa, lo que hace necesario un manejo integrado de toda la cuenca.",
+      "especies_emblematicas": [
+        "manati",
+        "mangle-rojo",
+        "robalo",
+        "pelicano-pardo"
+      ],
+      "fuentes": [
+        {
+          "cita": "Ramsar Sites Information Service (RSIS), ficha del sitio n.º 1139: Sistema de Humedales de la Bahía de Bluefields (designado el 8 de noviembre de 2001, 86 501 ha).",
+          "url": "https://rsis.ramsar.org/ris/1139"
+        },
+        {
+          "cita": "MARENA (2023). Ficha informativa de humedales de Nicaragua (febrero 2023): nueve sitios Ramsar, 406 852 ha.",
+          "url": "https://www.marena.gob.ni/wp-content/uploads/2023/02/Ficha-Humedal-Febrero-2023.pdf"
+        },
+        {
+          "cita": "Convención de Ramsar (2002). Nicaragua announces 7 new Ramsar sites on World Wetlands Day.",
+          "url": "https://www.ramsar.org/fr/node/8941"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "El sitio figura entre los nueve humedales Ramsar de Nicaragua, pero no se confirmó si tiene además una categoría de manejo nacional en el SINAP; se clasifica como área protegida siguiendo el catálogo del proyecto. La ficha Ramsar menciona como inscripción legal nacional la antigua Reserva Forestal Cerro Silva. Confirmar con estudios la presencia actual de manatíes en la bahía."
+      }
+    },
+    {
+      "id": "tisma",
+      "nombre": "Sistema Lagunar de Tisma",
+      "tipo": "area_protegida",
+      "categoria": "Reserva Natural (Laguna de Tisma) y Sitio Ramsar",
+      "designaciones": [
+        "Sitio Ramsar (2001)"
+      ],
+      "departamentos": [
+        "Masaya"
+      ],
+      "region": "lagos",
+      "coordenadas": [
+        12.1031,
+        -85.9762
+      ],
+      "area_ha": 16850,
+      "nota_area": "Superficie del sitio Ramsar n.º 1141; la reserva natural nacional de la Laguna de Tisma podría tener otra extensión.",
+      "anio_declaracion": 1983,
+      "ecosistemas": [
+        "lagunas someras",
+        "humedales herbáceos y pantanos estacionales",
+        "bosque de galería",
+        "llanuras inundables"
+      ],
+      "descripcion": "El Sistema Lagunar de Tisma es un conjunto de lagunas poco profundas, pantanos y llanuras que se inundan en la época de lluvias, situado en el municipio de Tisma, en Masaya, en la zona de transición entre los dos grandes lagos. Su pieza principal es la Laguna de Tisma, protegida como reserva natural, y el sistema completo fue designado sitio Ramsar en 2001. El paisaje cambia mucho a lo largo del año: en la estación lluviosa las aguas se expanden y cubren potreros y bajíos, y en la seca se reducen a espejos rodeados de vegetación acuática. Las comunidades vecinas viven de la ganadería, la agricultura y la pesca artesanal.",
+      "importancia": "Tisma es uno de los humedales de agua dulce más importantes del Pacífico para las aves acuáticas. Allí se concentran espátulas rosadas, garzas tigre, patos silbadores, cigüeñones y numerosas especies migratorias que llegan de Norteamérica durante el invierno boreal. BirdLife la reconoce como Área Importante para las Aves. Las lagunas regulan inundaciones y recargan acuíferos en una región agrícola, y mantienen peces que sostienen la pesca local. Sus amenazas son el drenaje para ampliar potreros y cultivos, la contaminación por agroquímicos y la sedimentación.",
+      "especies_emblematicas": [
+        "espatula-rosada",
+        "garza-tigre",
+        "jabiru",
+        "guardabarranco"
+      ],
+      "otras_especies": [
+        "Dendrocygna autumnalis",
+        "Mycteria americana"
+      ],
+      "fuentes": [
+        {
+          "cita": "Ramsar Sites Information Service (RSIS), ficha del sitio n.º 1141: Sistema Lagunar de Tisma (designado el 8 de noviembre de 2001, 16 850 ha; designación nacional: reserva natural).",
+          "url": "https://rsis.ramsar.org/ris/1141"
+        },
+        {
+          "cita": "BirdLife International. Important Bird Area factsheet: Tisma Lagoon (Nicaragua).",
+          "url": "https://datazone.birdlife.org/site/factsheet/tisma-lagoon-iba-nicaragua/details"
+        },
+        {
+          "cita": "MARENA (2023). Ficha informativa de humedales de Nicaragua (febrero 2023): nueve sitios Ramsar, 406 852 ha.",
+          "url": "https://www.marena.gob.ni/wp-content/uploads/2023/02/Ficha-Humedal-Febrero-2023.pdf"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Año 1983 tomado de un listado no oficial que atribuye la Reserva Natural Laguna de Tisma al Decreto 1320; confirmar. Departamentos: el sistema podría extenderse a Granada o Managua; confirmar en la ficha Ramsar. El jabirú se incluye por pocos registros de iNaturalist."
+      }
+    },
+    {
+      "id": "apanas",
+      "nombre": "Lago de Apanás-Asturias",
+      "tipo": "area_protegida",
+      "categoria": "Humedal de Importancia Internacional (Sitio Ramsar); embalse artificial",
+      "designaciones": [
+        "Sitio Ramsar (2001)"
+      ],
+      "departamentos": [
+        "Jinotega"
+      ],
+      "region": "lagos",
+      "coordenadas": [
+        13.1982,
+        -85.9807
+      ],
+      "area_ha": 5415,
+      "nota_area": "Superficie del sitio Ramsar n.º 1137.",
+      "anio_declaracion": 2001,
+      "ecosistemas": [
+        "embalse de agua dulce",
+        "humedales de orilla",
+        "bosque de pino y latifoliado en la cuenca",
+        "cultivos y potreros"
+      ],
+      "descripcion": "El Lago de Apanás es un embalse artificial al norte de la ciudad de Jinotega, formado en la década de 1960 al represar el río Tuma para producir electricidad; el embalse vecino de Asturias completa el sistema. Con el tiempo, sus orillas se cubrieron de vegetación acuática y el lago se convirtió en un humedal de montaña, rodeado de colinas con pinares, cafetales y potreros. En 2001 fue designado sitio Ramsar por su papel en la regulación hidrológica de la cuenca, y en 2018 se aprobó su plan de manejo. Las comunidades ribereñas pescan en sus aguas y aprovechan sus orillas para la agricultura y la ganadería.",
+      "importancia": "Apanás alimenta centrales hidroeléctricas que aportan una parte de la electricidad del país, y sus orillas son hábitat de aves acuáticas residentes y migratorias, como la espátula rosada, en una región montañosa donde los humedales son escasos. La pesca de guapotes, tilapias y otras especies es una fuente de alimento e ingresos para las familias locales. La salud del lago depende de los bosques de la cuenca alta, como los de Datanlí-El Diablo: la erosión de laderas deforestadas, los agroquímicos de los cultivos y las aguas residuales amenazan con azolvar y contaminar el embalse.",
+      "especies_emblematicas": [
+        "espatula-rosada",
+        "guapote-tigre",
+        "oropendola-de-montezuma"
+      ],
+      "fuentes": [
+        {
+          "cita": "Ramsar Sites Information Service (RSIS), ficha del sitio n.º 1137: Lago de Apanás-Asturias (designado el 8 de noviembre de 2001, 5 415 ha).",
+          "url": "https://rsis.ramsar.org/ris/1137"
+        },
+        {
+          "cita": "Resolución Ministerial 94.07.2018, aprobación del plan de manejo del humedal Lago de Apanás-Asturias (FAOLEX/LEAP).",
+          "url": "https://leap.unep.org/en/countries/ni/national-legislation/resolucion-ministerial-ndeg-94072018-aprobar-el-plan-de-manejo"
+        },
+        {
+          "cita": "MARENA (2023). Ficha informativa de humedales de Nicaragua (febrero 2023): nueve sitios Ramsar, 406 852 ha.",
+          "url": "https://www.marena.gob.ni/wp-content/uploads/2023/02/Ficha-Humedal-Febrero-2023.pdf"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "El sitio figura entre los nueve humedales Ramsar de Nicaragua, pero no se confirmó si tiene además una categoría de manejo nacional en el SINAP; se clasifica como área protegida siguiendo el catálogo del proyecto. Año de construcción del embalse (década de 1960) y río represado (Tuma) según conocimiento general; confirmar con ENEL. El guapote tigre se incluye por su importancia en la pesca de embalses del norte, sin registro concreto en iNaturalist para Apanás; la oropéndola de Moctezuma por registros en los bosques del entorno (radio de 12 km). Confirmar con la ficha Ramsar."
+      }
+    },
+    {
+      "id": "san-miguelito",
+      "nombre": "Sistema de Humedales de San Miguelito",
+      "tipo": "area_protegida",
+      "categoria": "Humedal de Importancia Internacional (Sitio Ramsar)",
+      "designaciones": [
+        "Sitio Ramsar (2001)"
+      ],
+      "departamentos": [
+        "Río San Juan"
+      ],
+      "region": "lagos",
+      "coordenadas": [
+        11.4028,
+        -84.9004
+      ],
+      "area_ha": 43475,
+      "nota_area": "Superficie del sitio Ramsar n.º 1140.",
+      "anio_declaracion": 2001,
+      "ecosistemas": [
+        "humedales lacustres",
+        "pantanos herbáceos",
+        "bosque inundable",
+        "desembocaduras de ríos"
+      ],
+      "descripcion": "Los humedales de San Miguelito se extienden por la orilla oriental del Lago Cocibolca, alrededor del pueblo del mismo nombre, en el departamento de Río San Juan. Es un paisaje plano de pantanos, pastizales inundables, bosques ribereños y desembocaduras de ríos que bajan desde las serranías de Chontales. Durante la estación lluviosa el lago y los ríos crecen e inundan grandes extensiones, y en la seca quedan lagunetas y bajíos donde se concentran peces y aves. El sitio fue designado humedal de importancia internacional en 2001, junto con otros seis humedales del país. Sus habitantes combinan pesca, ganadería y agricultura.",
+      "importancia": "San Miguelito es un área de reproducción y crianza de peces del Cocibolca, por lo que su estado influye en la pesca de todo el lago. Sus pantanos y orillas atraen espátulas rosadas, garzas tigre, jabirúes y muchas otras aves acuáticas, y albergan cuajipales e iguanas. Los humedales también filtran sedimentos y nutrientes antes de que lleguen al lago. La conversión de pantanos en potreros, las quemas y el uso de agroquímicos en las fincas vecinas son las principales amenazas a este sistema.",
+      "especies_emblematicas": [
+        "espatula-rosada",
+        "garza-tigre",
+        "cuajipal",
+        "iguana-verde"
+      ],
+      "fuentes": [
+        {
+          "cita": "Ramsar Sites Information Service (RSIS), ficha del sitio n.º 1140: Sistema de Humedales de San Miguelito (designado el 8 de noviembre de 2001, 43 475 ha).",
+          "url": "https://rsis.ramsar.org/ris/1140"
+        },
+        {
+          "cita": "MARENA (2023). Ficha informativa de humedales de Nicaragua (febrero 2023): nueve sitios Ramsar, 406 852 ha.",
+          "url": "https://www.marena.gob.ni/wp-content/uploads/2023/02/Ficha-Humedal-Febrero-2023.pdf"
+        },
+        {
+          "cita": "Convención de Ramsar (2002). Nicaragua announces 7 new Ramsar sites on World Wetlands Day.",
+          "url": "https://www.ramsar.org/fr/node/8941"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "El sitio figura entre los nueve humedales Ramsar de Nicaragua, pero no se confirmó si tiene además una categoría de manejo nacional en el SINAP; se clasifica como área protegida siguiendo el catálogo del proyecto. Coordenadas tomadas del pueblo de San Miguelito, junto al humedal; ajustar con el polígono Ramsar."
+      }
+    },
+    {
+      "id": "playitas-moyua-tecomapa",
+      "nombre": "Sistema Lacustre Playitas-Moyuá-Tecomapa",
+      "tipo": "area_protegida",
+      "categoria": "Humedal de Importancia Internacional (Sitio Ramsar)",
+      "designaciones": [
+        "Sitio Ramsar (2011)"
+      ],
+      "departamentos": [
+        "Matagalpa"
+      ],
+      "region": "lagos",
+      "coordenadas": [
+        12.5961,
+        -86.065
+      ],
+      "area_ha": 1161,
+      "nota_area": "Superficie del sitio Ramsar n.º 1980.",
+      "anio_declaracion": 2011,
+      "ecosistemas": [
+        "laguna permanente",
+        "lagunas estacionales",
+        "pantanos y tierras agrícolas inundables",
+        "bosque seco"
+      ],
+      "descripcion": "Este sistema reúne tres lagunas del municipio de Ciudad Darío, en Matagalpa, junto a la carretera Panamericana: Moyuá, la única permanente, y Playitas y Tecomapa, que se llenan en la época lluviosa y se reducen o secan en verano. Se encuentra en el corredor seco del país, donde el agua superficial es escasa, lo que hace de estas lagunas un oasis para la fauna y las comunidades. En 2011 se convirtió en el noveno sitio Ramsar de Nicaragua. La laguna de Tecomapa ha sufrido desecación artificial por drenajes, lo que muestra lo frágiles que son estos humedales estacionales.",
+      "importancia": "Las lagunas son un punto de descanso y alimentación para aves acuáticas residentes y migratorias en una región seca, y sostienen la pesca artesanal de las comunidades cercanas, que dependen de ella como fuente de proteína. Los humedales estacionales también recargan acuíferos y amortiguan las crecidas. Por su pequeño tamaño y su dependencia de las lluvias, son muy vulnerables a la sequía, al drenaje para la agricultura, a la contaminación y a la sedimentación. Su designación Ramsar buscó apoyar un manejo comunitario y la adaptación al cambio climático.",
+      "especies_emblematicas": [
+        "guardabarranco",
+        "zanate",
+        "jicaro"
+      ],
+      "fuentes": [
+        {
+          "cita": "Ramsar Sites Information Service (RSIS), ficha del sitio n.º 1980: Sistema Lacustre Playitas-Moyúa-Tecomapa (designado el 29 de junio de 2011, 1 161 ha).",
+          "url": "https://rsis.ramsar.org/ris/1980"
+        },
+        {
+          "cita": "IISD SDG Knowledge Hub (2011). Nicaragua designa su noveno sitio Ramsar.",
+          "url": "https://sdg.iisd.org/?p=96504"
+        },
+        {
+          "cita": "MARENA (2023). Ficha informativa de humedales de Nicaragua (febrero 2023): nueve sitios Ramsar, 406 852 ha.",
+          "url": "https://www.marena.gob.ni/wp-content/uploads/2023/02/Ficha-Humedal-Febrero-2023.pdf"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "El sitio figura entre los nueve humedales Ramsar de Nicaragua, pero no se confirmó si tiene además una categoría de manejo nacional en el SINAP; se clasifica como área protegida siguiendo el catálogo del proyecto. Especies emblemáticas pobremente documentadas: iNaturalist solo muestra guardabarranco, zanate y jícaro en el entorno, ninguna acuática. Sustituir por aves acuáticas y peces citados en la ficha Ramsar."
+      }
+    },
+    {
+      "id": "pilas-el-hoyo",
+      "nombre": "Reserva Natural Complejo Volcánico Pilas-El Hoyo",
+      "tipo": "area_protegida",
+      "categoria": "Reserva Natural",
+      "designaciones": [],
+      "departamentos": [
+        "León"
+      ],
+      "region": "pacifico",
+      "coordenadas": [
+        12.495,
+        -86.675
+      ],
+      "area_ha": 20584,
+      "nota_area": "Cifra de una nota del MARENA para el área 'Complejo Volcánico Cerro Negro, Las Pilas, El Hoyo y Asososca', que incluye el Cerro Negro y la laguna de Asososca de León; el área histórica Pilas-El Hoyo podría ser menor.",
+      "anio_declaracion": 1983,
+      "ecosistemas": [
+        "bosque seco tropical",
+        "campos de arena y lava volcánica",
+        "laguna cratérica",
+        "vegetación pionera"
+      ],
+      "descripcion": "Este complejo volcánico, en el departamento de León, forma parte de la Cordillera de los Maribios. Reúne varios conos y cráteres sobre una base común: el Pilas, de algo más de mil metros; El Hoyo, famoso por el gran agujero que da nombre a su cumbre; la laguna cratérica El Tigre, y el Cerro Negro, el volcán más joven del país, nacido en 1850 y todavía muy activo. El plan de manejo aprobado en 2024 trata el conjunto como un área llamada Complejo Volcánico Cerro Negro, Las Pilas, El Hoyo y Asososca. Las laderas mezclan arena negra, coladas recientes y bosque seco.",
+      "importancia": "El área permite observar en pocos kilómetros todas las etapas de colonización vegetal de un terreno volcánico, desde la arena desnuda del Cerro Negro hasta el bosque seco maduro de las laderas antiguas. Ese bosque alberga urracas copetonas, guardabarrancos, garrobos y sacuanjoches. Además, el complejo es una zona de recarga de agua subterránea para las llanuras agrícolas de León. Su popularidad turística, con caminatas y descensos en tabla por la arena del Cerro Negro, genera ingresos locales pero exige manejar senderos, basura e incendios.",
+      "especies_emblematicas": [
+        "urraca-copetona",
+        "guardabarranco",
+        "garrobo",
+        "sacuanjoche"
+      ],
+      "visitar": "Los tours salen desde León. El Cerro Negro tiene una caseta de control y senderos marcados; lleva agua, calzado firme y protección solar.",
+      "fuentes": [
+        {
+          "cita": "Decreto-Ley 1320 (JGRN), Creación de Reservas Naturales en el Pacífico de Nicaragua. La Gaceta n.º 213, 19 de septiembre de 1983.",
+          "url": "https://nicaragua.justia.com/nacionales/decretos-ley/creacion-de-reservas-naturales-en-el-pacifico-de-nicaragua-sep-19-1983/gdoc"
+        },
+        {
+          "cita": "Resolución Ministerial 023-2024: Plan de Manejo del área protegida Complejo Volcánico Cerro Negro, Las Pilas, El Hoyo y Asososca (La Gaceta n.º 66, abril de 2024).",
+          "url": "https://leybook.com/doc/32738/pdf"
+        },
+        {
+          "cita": "Wikipedia. Volcán Pilas El Hoyo Natural Reserve.",
+          "url": "https://en.wikipedia.org/wiki/Volc%C3%A1n_Pilas_El_Hoyo_Natural_Reserve"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Nombre oficial: el plan de manejo de 2024 usa 'Complejo Volcánico Cerro Negro, Las Pilas, El Hoyo y Asososca'; se mantiene el nombre del catálogo hasta confirmar la denominación legal vigente. Superficie (20 584 ha) de nota de prensa del MARENA."
+      }
+    },
+    {
+      "id": "asososca",
+      "nombre": "Reserva Natural Laguna de Asososca",
+      "tipo": "area_protegida",
+      "categoria": "Reserva Natural",
+      "designaciones": [],
+      "departamentos": [
+        "Managua"
+      ],
+      "region": "lagos",
+      "coordenadas": [
+        12.1372,
+        -86.3161
+      ],
+      "area_ha": null,
+      "nota_area": "No se localizó una cifra oficial de superficie para la reserva (laguna y borde del cráter).",
+      "anio_declaracion": 1983,
+      "ecosistemas": [
+        "laguna cratérica",
+        "bosque seco en laderas del cráter"
+      ],
+      "descripcion": "La Laguna de Asososca es un pequeño lago de cráter dentro de la ciudad de Managua, al oeste del centro. Sus paredes empinadas y cubiertas de bosque seco la aíslan del ruido urbano, y sus aguas profundas son una de las fuentes de agua potable de la capital, que la empresa de acueductos aprovecha desde la década de 1930. Por ese motivo el acceso al público está restringido y la reserva funciona más como un área de protección del agua que como parque recreativo. Desde el borde se aprecia el contraste entre el espejo verde azulado de la laguna y la mancha urbana que la rodea por todos lados.",
+      "importancia": "Asososca abastece de agua potable a una parte de Managua, por lo que su protección es un asunto de salud pública. El bosque del cráter reduce la erosión y la entrada de contaminantes, y ofrece refugio a guardabarrancos, garrobos, zanates y otras especies que encuentran pocos espacios verdes en la ciudad. Los cambios de color y olor observados en la laguna en distintos años han sido motivo de estudios y alertas, y recuerdan su fragilidad frente a la contaminación y a la sobreexplotación del acuífero. Conservarla implica controlar el crecimiento urbano en los bordes y las aguas residuales.",
+      "especies_emblematicas": [
+        "guardabarranco",
+        "garrobo",
+        "guayacan"
+      ],
+      "fuentes": [
+        {
+          "cita": "Decreto-Ley 1320 (JGRN), Creación de Reservas Naturales en el Pacífico de Nicaragua. La Gaceta n.º 213, 19 de septiembre de 1983.",
+          "url": "https://nicaragua.justia.com/nacionales/decretos-ley/creacion-de-reservas-naturales-en-el-pacifico-de-nicaragua-sep-19-1983/gdoc"
+        },
+        {
+          "cita": "Wikipedia. Asososca Lagoon Natural Reserve.",
+          "url": "https://en.wikipedia.org/wiki/Asososca_Lagoon_Natural_Reserve"
+        },
+        {
+          "cita": "La Prensa (2016). Fenómeno en laguna de Asososca amenaza suministro de agua en Managua.",
+          "url": "https://www.laprensani.com/2016/12/29/nacionales/2157396-fenomeno-en-laguna-de-asososca-amenaza-suministro-de-agua-en-managua"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Año de declaratoria (1983, Decreto 1320) supuesto por analogía con las demás lagunas de Managua; confirmar en el decreto. No confundir con la laguna de Asososca de León, incluida en el complejo Pilas-El Hoyo. Especies emblemáticas basadas en pocos registros de iNaturalist en el entorno del cráter; el guayacán debe confirmarse en un inventario florístico."
+      }
+    },
+    {
+      "id": "chiltepe",
+      "nombre": "Reserva Natural Península de Chiltepe",
+      "tipo": "area_protegida",
+      "categoria": "Reserva Natural",
+      "designaciones": [],
+      "departamentos": [
+        "Managua"
+      ],
+      "region": "pacifico",
+      "coordenadas": [
+        12.2493,
+        -86.3509
+      ],
+      "area_ha": 2553,
+      "nota_area": "Superficie registrada en la WDPA (25,5 km²). Otras fuentes citan unos 1 800 ha; no se confirmó con documentos del MARENA.",
+      "anio_declaracion": 1983,
+      "ecosistemas": [
+        "lagunas cratéricas",
+        "bosque seco tropical",
+        "orillas lacustres"
+      ],
+      "descripcion": "La Península de Chiltepe se adentra en el Lago Xolotlán al noroeste de Managua y es en realidad un complejo volcánico. Contiene dos lagunas de cráter muy distintas: Apoyeque, encerrada en una caldera de paredes altas y de difícil acceso, y Xiloá, más abierta y conocida como balneario. La reserva comprende las lagunas y las lomas de la península por encima de cierta cota, cubiertas de bosque seco. Desde los bordes de Apoyeque se observa el lago, el volcán Momotombo y la ciudad. Es uno de los espacios naturales más cercanos a la capital y a la vez uno de los menos conocidos por sus habitantes.",
+      "importancia": "Las lagunas de Chiltepe son, como Apoyo, laboratorios de evolución: en Xiloá y Apoyeque viven mojarras del género Amphilophus que solo existen allí, como Amphilophus xiloaensis, Amphilophus amarillo y Amphilophus sagittae. El bosque seco de la península alberga guardabarrancos, urracas copetonas y garrobos, y actúa como zona de recarga de acuíferos. Las mayores amenazas son la urbanización, la extracción de material volcánico, los incendios y la introducción de peces exóticos en las lagunas, que puede alterar comunidades de peces únicas en el mundo.",
+      "especies_emblematicas": [
+        "guardabarranco",
+        "urraca-copetona",
+        "garrobo"
+      ],
+      "otras_especies": [
+        "Amphilophus xiloaensis",
+        "Amphilophus amarillo",
+        "Amphilophus sagittae"
+      ],
+      "visitar": "La laguna de Xiloá tiene un balneario con acceso por carretera desde Managua. El borde de Apoyeque solo se recorre por senderos rústicos, mejor con guía.",
+      "fuentes": [
+        {
+          "cita": "Decreto-Ley 1320 (JGRN), Creación de Reservas Naturales en el Pacífico de Nicaragua. La Gaceta n.º 213, 19 de septiembre de 1983.",
+          "url": "https://nicaragua.justia.com/nacionales/decretos-ley/creacion-de-reservas-naturales-en-el-pacifico-de-nicaragua-sep-19-1983/gdoc"
+        },
+        {
+          "cita": "Protected Planet (WDPA): Península de Chiltepe.",
+          "url": "https://www.protectedplanet.net/12655"
+        },
+        {
+          "cita": "Wikipedia. Chiltepe Peninsula Natural Reserve.",
+          "url": "https://en.wikipedia.org/wiki/Chiltepe_Peninsula_Natural_Reserve"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Año de declaratoria (1983, Decreto 1320) por confirmar en el texto del decreto. Superficie según WDPA; las fuentes discrepan. La asignación de cada especie de Amphilophus a Xiloá o Apoyeque debe revisarse con la literatura taxonómica (Stauffer y colaboradores)."
+      }
+    },
+    {
+      "id": "cayos-perlas",
+      "nombre": "Refugio de Vida Silvestre Cayos Perlas",
+      "tipo": "area_protegida",
+      "categoria": "Refugio de Vida Silvestre",
+      "designaciones": [],
+      "departamentos": [
+        "Costa Caribe Sur"
+      ],
+      "region": "marino-caribe",
+      "coordenadas": [
+        12.4848,
+        -83.355
+      ],
+      "area_ha": 456008,
+      "nota_area": "La Ley 738 (2010) declaró unas 32 000 ha marino-insulares; la Ley 1039 (2020) amplió el refugio a unas 456 007,77 ha al incluir humedales y el sistema lagunar.",
+      "anio_declaracion": 2010,
+      "ecosistemas": [
+        "cayos arenosos",
+        "arrecifes de coral",
+        "praderas de pastos marinos",
+        "manglar",
+        "lagunas costeras"
+      ],
+      "descripcion": "Los Cayos Perlas son un grupo de pequeñas islas de arena blanca, cocoteros y arrecifes situado frente a la Laguna de Perlas, en la Costa Caribe Sur. En 2010 la Ley 738 los declaró refugio de vida silvestre para proteger sus playas de anidación de tortugas y sus ecosistemas marinos. En 2020 una reforma amplió mucho la superficie protegida al incorporar humedales y el sistema lagunar vecino. Los cayos son usados desde hace generaciones por pescadores miskitu y creoles de las comunidades de la laguna, que pescan langosta, peces y cambute en los arrecifes y praderas marinas que los rodean.",
+      "importancia": "Los Cayos Perlas son una de las principales zonas de anidación de la tortuga carey en el Caribe de Nicaragua, una especie en peligro crítico cuyo caparazón fue muy codiciado. La ley de creación destaca precisamente sus playas de anidación. Sus arrecifes y pastos marinos alimentan a tortugas verdes y sostienen poblaciones de langosta del Caribe, cambute y peces de arrecife como el pez ángel reina. La protección de los cayos ha enfrentado retos como la venta y ocupación privada de algunos islotes, la extracción de huevos y la erosión de las playas.",
+      "especies_emblematicas": [
+        "tortuga-carey",
+        "tortuga-verde",
+        "langosta-del-caribe",
+        "cambute",
+        "mangle-rojo"
+      ],
+      "otras_especies": [
+        "Thalassia testudinum"
+      ],
+      "fuentes": [
+        {
+          "cita": "Ley 738, Ley que declara y define el Sistema de los Cayos Perlas como Refugio de Vida Silvestre. La Gaceta n.º 229, 30 de noviembre de 2010.",
+          "url": "https://nicaragua.justia.com/nacionales/leyes/ley-que-declara-y-define-el-sistema-de-los-cayos-perlas-como-refugio-de-vida-silvestre-nov-30-2010/gdoc"
+        },
+        {
+          "cita": "Ley 1039, de reforma a la Ley 738 (La Gaceta n.º 184, 7 de octubre de 2020), según el texto consolidado de la Ley 738.",
+          "url": "https://www.leybook.com/doc/30989/pdf"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Nombre legal: la ley habla del 'Sistema de los Cayos Perlas'. Superficie actual tras la reforma de 2020 (456 008 ha) por confirmar en La Gaceta; incluye un sistema lagunar que podría abarcar parte de la Laguna de Perlas. La mención de ventas de cayos a particulares se basa en reportes de prensa no citados aquí. Coordenada: centroide de OpenStreetMap del refugio."
+      }
+    },
+    {
+      "id": "lago-cocibolca",
+      "nombre": "Lago Cocibolca (Lago de Nicaragua)",
+      "tipo": "sitio_ecologico",
+      "categoria": "Lago",
+      "designaciones": [
+        "Reserva natural de agua potable (Ley 620, 2007)"
+      ],
+      "departamentos": [
+        "Granada",
+        "Rivas",
+        "Río San Juan",
+        "Chontales"
+      ],
+      "region": "lagos",
+      "coordenadas": [
+        11.5739,
+        -85.3126
+      ],
+      "area_ha": 813810,
+      "nota_area": "8 138,10 km² según la tabla del INIDE (2002). Otras fuentes dan entre unos 8 000 y 8 264 km², según el nivel del agua y el método de medición.",
+      "anio_declaracion": null,
+      "ecosistemas": [
+        "lago tropical de agua dulce",
+        "islas y archipiélagos lacustres",
+        "humedales costeros",
+        "desembocaduras de ríos"
+      ],
+      "descripcion": "El Cocibolca es el lago más grande de Centroamérica y uno de los mayores de América Latina. De origen tectónico, ocupa la gran depresión que atraviesa Nicaragua de noroeste a sureste, y desagua hacia el mar Caribe por el río San Juan. Dentro de él hay cientos de islas, desde las Isletas de Granada hasta los archipiélagos de Zapatera y Solentiname y la isla de Ometepe con sus dos volcanes. Sus orillas combinan ciudades como Granada y San Carlos, playas, potreros y grandes humedales como Los Guatuzos y San Miguelito. Sus aguas, poco profundas en relación con su tamaño, son agitadas por el viento alisio que sopla desde el Caribe.",
+      "importancia": "El Cocibolca es famoso porque en él viven animales marinos adaptados al agua dulce, como el tiburón toro y el pez sierra, que suben desde el Caribe por el río San Juan; el pez sierra está hoy en peligro crítico. También alberga peces nativos como el gaspar, la mojarra, el guapote y varias especies de cíclidos únicas de los lagos nicaragüenses, y sostiene una pesca artesanal de la que dependen miles de familias. La Ley 620 lo declaró reserva natural de agua potable, de interés supremo para el país. Sus amenazas son la sedimentación, la contaminación agrícola y urbana, la introducción de especies exóticas como la tilapia y la eutrofización.",
+      "especies_emblematicas": [
+        "tiburon-toro",
+        "pez-sierra",
+        "gaspar",
+        "mojarra-midas",
+        "guapote-tigre",
+        "sabalo-real"
+      ],
+      "otras_especies": [
+        "Amphilophus labiatus",
+        "Parachromis dovii",
+        "Dorosoma chavesi"
+      ],
+      "visitar": "Granada, San Jorge (Rivas) y San Carlos son los principales puertos. Desde ellos salen lanchas y ferris hacia las islas.",
+      "fuentes": [
+        {
+          "cita": "Wikipedia. List of lakes of Nicaragua (tabla basada en datos del INIDE/INEC, 2002).",
+          "url": "https://en.wikipedia.org/wiki/List_of_lakes_of_Nicaragua"
+        },
+        {
+          "cita": "Ley 620, Ley General de Aguas Nacionales (2007), art. 97 sobre el Lago Cocibolca como reserva natural de agua potable.",
+          "url": "https://nicaragua.justia.com/nacionales/leyes/ley-general-de-aguas-nacionales-sep-4-2007/gdoc"
+        },
+        {
+          "cita": "Thorson, T. B. (1971). Movement of bull sharks, Carcharhinus leucas, between Caribbean Sea and Lake Nicaragua demonstrated by tagging. Copeia 1971(2): 336-338."
+        },
+        {
+          "cita": "Villa, J. (1982). Peces nicaragüenses de agua dulce. Colección Cultural Banco de América, Managua."
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "No es un área protegida del SINAP; la Ley 620 lo declara reserva natural de agua potable (no confundir con una categoría de manejo). Departamentos ribereños: confirmar si Boaco tiene costa en el lago. La presencia actual de sábalo real en el lago está menos documentada que en el río San Juan."
+      }
+    },
+    {
+      "id": "lago-xolotlan",
+      "nombre": "Lago Xolotlán (Lago de Managua)",
+      "tipo": "sitio_ecologico",
+      "categoria": "Lago",
+      "designaciones": [],
+      "departamentos": [
+        "Managua",
+        "León"
+      ],
+      "region": "lagos",
+      "coordenadas": [
+        12.3312,
+        -86.4036
+      ],
+      "area_ha": 105290,
+      "nota_area": "1 052,90 km² según la tabla del INIDE (2002); otras fuentes dan unos 1 024 km².",
+      "anio_declaracion": null,
+      "ecosistemas": [
+        "lago tropical de agua dulce",
+        "humedales de orilla",
+        "desembocaduras de ríos"
+      ],
+      "descripcion": "El Xolotlán es el segundo lago más grande de Nicaragua y se extiende frente a la ciudad de Managua, entre la península de Chiltepe, el volcán Momotombo y las llanuras de Tipitapa y San Francisco Libre. Es un lago relativamente poco profundo que se conecta con el Cocibolca a través del río Tipitapa, aunque esa conexión solo funciona cuando el nivel del agua es muy alto. Durante décadas recibió aguas residuales de la capital y desechos industriales, y se convirtió en símbolo de la contaminación urbana en Centroamérica. Aun así, sus orillas rurales conservan humedales, playas y comunidades de pescadores, y sus aguas mantienen una fauna de peces nativos.",
+      "importancia": "El lago alberga peces nativos como la mojarra, el guapote y el gaspar, y sus orillas son lugar de alimentación de aves acuáticas, entre ellas la espátula rosada. Funciona como regulador del clima local de Managua y como receptor final de las cuencas del sur y el oeste de la ciudad. Su recuperación es uno de los grandes retos ambientales del país: la construcción de una planta de tratamiento de aguas residuales en Managua redujo parte de la carga contaminante, pero los sedimentos, la basura arrastrada por los cauces y la contaminación histórica por mercurio siguen siendo problemas serios.",
+      "especies_emblematicas": [
+        "mojarra-midas",
+        "guapote-tigre",
+        "gaspar",
+        "espatula-rosada"
+      ],
+      "otras_especies": [
+        "Amphilophus labiatus",
+        "Dorosoma chavesi"
+      ],
+      "visitar": "El malecón de Managua y el puerto Salvador Allende ofrecen vistas del lago; las orillas rurales se recorren desde Mateare o San Francisco Libre.",
+      "fuentes": [
+        {
+          "cita": "Wikipedia. List of lakes of Nicaragua (tabla basada en datos del INIDE/INEC, 2002).",
+          "url": "https://en.wikipedia.org/wiki/List_of_lakes_of_Nicaragua"
+        },
+        {
+          "cita": "Villa, J. (1982). Peces nicaragüenses de agua dulce. Colección Cultural Banco de América, Managua."
+        },
+        {
+          "cita": "Wikipedia. Lake Managua.",
+          "url": "https://en.wikipedia.org/wiki/Lake_Managua"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "La contaminación histórica por mercurio (vertidos industriales de décadas pasadas) y la planta de tratamiento de Managua se citan por conocimiento general; añadir referencias específicas. Confirmar si la orilla nororiental pertenece a algún otro departamento además de Managua y León."
+      }
+    },
+    {
+      "id": "golfo-fonseca",
+      "nombre": "Golfo de Fonseca",
+      "tipo": "sitio_ecologico",
+      "categoria": "Golfo marino",
+      "designaciones": [],
+      "departamentos": [
+        "Chinandega"
+      ],
+      "region": "marino-pacifico",
+      "coordenadas": [
+        13.1126,
+        -87.5939
+      ],
+      "area_ha": null,
+      "nota_area": "El golfo completo, compartido por El Salvador, Honduras y Nicaragua, suele citarse con unos 3 200 km²; no se localizó la cifra de la porción nicaragüense.",
+      "anio_declaracion": null,
+      "ecosistemas": [
+        "manglar",
+        "estuarios",
+        "islas volcánicas",
+        "playones y salinas",
+        "aguas marinas someras"
+      ],
+      "descripcion": "El Golfo de Fonseca es una gran bahía del océano Pacífico compartida por El Salvador, Honduras y Nicaragua. La costa nicaragüense ocupa su lado sureste, desde la península de Cosigüina hasta el delta del Estero Real, en el departamento de Chinandega. En 1992 la Corte Internacional de Justicia se pronunció sobre la situación jurídica de sus aguas, compartidas por los tres países. El golfo está salpicado de islas volcánicas y sus costas están bordeadas por extensos manglares, esteros y salinas. Pequeños puertos y comunidades pesqueras como Potosí y Puerto Morazán viven de la pesca, la recolección de conchas y la producción de sal y camarón.",
+      "importancia": "El golfo es uno de los sistemas de manglar más grandes de la costa pacífica de Centroamérica y una zona de cría para peces, camarones, conchas negras y cangrejos que sostienen la pesca de tres países. Sus aguas y playones reciben grandes concentraciones de pelícanos, fragatas, espátulas y aves migratorias, y sus costas son visitadas por tortugas marinas. La deforestación del manglar para estanques camaroneros, la sobrepesca, la contaminación por agroquímicos que traen los ríos y la sedimentación son sus principales amenazas, y su manejo requiere cooperación entre los países ribereños.",
+      "especies_emblematicas": [
+        "pelicano-pardo",
+        "fragata",
+        "mangle-rojo",
+        "concha-negra",
+        "tortuga-paslama",
+        "espatula-rosada"
+      ],
+      "otras_especies": [
+        "Avicennia germinans",
+        "Laguncularia racemosa"
+      ],
+      "fuentes": [
+        {
+          "cita": "Corte Internacional de Justicia (1992). Controversia sobre fronteras terrestres, insulares y marítimas (El Salvador/Honduras: intervención de Nicaragua), sentencia del 11 de septiembre de 1992."
+        },
+        {
+          "cita": "Ramsar Sites Information Service (RSIS), ficha del sitio n.º 1136: Deltas del Estero Real y Llanos de Apacunca (humedal nicaragüense del golfo).",
+          "url": "https://rsis.ramsar.org/ris/1136"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Superficie total del golfo (unos 3 200 km²) según fuentes generales; no se usa en area_ha. Coordenada dentro de aguas del golfo frente a la costa de El Viejo (Chinandega); ajustar si se requiere un punto claramente dentro de la zona marítima nicaragüense."
+      }
+    },
+    {
+      "id": "rio-coco",
+      "nombre": "Río Coco (Wangki)",
+      "tipo": "sitio_ecologico",
+      "categoria": "Río",
+      "designaciones": [],
+      "departamentos": [
+        "Madriz",
+        "Nueva Segovia",
+        "Jinotega",
+        "Costa Caribe Norte"
+      ],
+      "region": "lagos",
+      "coordenadas": [
+        13.6232,
+        -85.8211
+      ],
+      "area_ha": null,
+      "nota_area": "No aplica una superficie. Su longitud suele citarse en unos 680 km, aunque algunas fuentes dan valores mayores.",
+      "anio_declaracion": null,
+      "ecosistemas": [
+        "río de montaña y cañones",
+        "bosque de galería",
+        "llanuras aluviales",
+        "humedales y delta costero"
+      ],
+      "descripcion": "El río Coco, llamado Wangki por el pueblo miskitu y también conocido como río Segovia, es el río más largo de Centroamérica. Se forma en las montañas del norte de Nicaragua, cerca de Somoto, donde excava el cañón que hoy es monumento nacional, y fluye hacia el este hasta desembocar en el mar Caribe junto al cabo Gracias a Dios. En buena parte de su recorrido marca la frontera con Honduras. En su curso alto atraviesa valles secos y pinares de Nueva Segovia y Jinotega; en el medio, la selva de Bosawás, y en el bajo, las llanuras y sabanas de la Mosquitia, donde se asientan decenas de comunidades miskitu como Waspam.",
+      "importancia": "El Coco es la columna vertebral de una cuenca enorme que conecta ecosistemas muy distintos, desde el bosque seco del norte hasta la selva húmeda y las sabanas de pino del Caribe. Para las comunidades miskitu y mayangna es vía de transporte, fuente de pesca y centro de su vida cultural. Sus orillas albergan cuajipales, iguanas, nutrias y aves acuáticas, y su delta conecta con humedales costeros. La deforestación de la cuenca, la minería, la sedimentación y las crecidas extremas asociadas a huracanes son sus principales amenazas.",
+      "especies_emblematicas": [
+        "cuajipal",
+        "iguana-verde",
+        "nutria"
+      ],
+      "fuentes": [
+        {
+          "cita": "Ley 605, Ley que declara área protegida en la categoría de Monumento Nacional al Cañón de Somoto (2006), sobre el nacimiento del río Coco.",
+          "url": "https://nicaragua.justia.com/nacionales/leyes/ley-que-declara-area-protegida-en-la-categoria-de-monumento-nacional-al-canon-de-somoto-dec-12-2006/gdoc"
+        },
+        {
+          "cita": "Servicio Geológico Checo (2020). The first UNESCO Global Geopark in Central America was established.",
+          "url": "https://cgs.gov.cz/en/about-us/current-events/the-first-unesco-global-geopark-in-central-america-was-established-thanks"
+        },
+        {
+          "cita": "Ley 407, Ley que declara y define la Reserva de la Biosfera de Bosawás (2001).",
+          "url": "https://nicaragua.justia.com/nacionales/leyes/ley-que-declara-y-define-la-reserva-de-bosawas-dec-24-2001/gdoc"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "Longitud (unos 680 km; otras fuentes 750-780 km) sin fuente oficial localizada. Especies emblemáticas (cuajipal, iguana verde, nutria) elegidas por su distribución general en ríos del Caribe; iNaturalist tiene muy pocos registros a lo largo del río. Coordenada sobre el cauce en Wiwilí, tramo totalmente nicaragüense."
+      }
+    },
+    {
+      "id": "laguna-de-perlas",
+      "nombre": "Laguna de Perlas",
+      "tipo": "sitio_ecologico",
+      "categoria": "Laguna costera",
+      "designaciones": [],
+      "departamentos": [
+        "Costa Caribe Sur"
+      ],
+      "region": "marino-caribe",
+      "coordenadas": [
+        12.5454,
+        -83.6977
+      ],
+      "area_ha": 50564,
+      "nota_area": "505,64 km² según la tabla del INIDE (2002). Otras fuentes dan entre unos 500 y 550 km², según si se incluyen lagunas anexas como Top Lock.",
+      "anio_declaracion": null,
+      "ecosistemas": [
+        "laguna costera salobre",
+        "manglar",
+        "pastos acuáticos",
+        "desembocaduras de ríos",
+        "bosques y sabanas ribereñas"
+      ],
+      "descripcion": "La Laguna de Perlas es la mayor laguna costera de Nicaragua, situada en la Costa Caribe Sur, al norte de Bluefields. Está separada del mar por una barra de tierra y se comunica con él por una boca, de modo que sus aguas son salobres y cambian de salinidad según la estación. En ella desembocan ríos como el Wawashang, el Kurinwas y otros que bajan del interior. En sus orillas viven comunidades creoles, miskitu y garífunas, como Pearl Lagoon, Haulover y Orinoco, este último centro de la cultura garífuna en Nicaragua. La pesca de camarón, jaiba y peces es la base de su economía.",
+      "importancia": "La laguna es uno de los sistemas estuarinos más productivos del Caribe nicaragüense: sus manglares y aguas someras son criadero de camarones, jaibas, róbalos y sábalos que sostienen la pesca local y la de los cayos cercanos. Es además hábitat del manatí, una especie vulnerable que encuentra aquí pastos acuáticos y aguas tranquilas. Patos aguja, garzas y otras aves acuáticas se alimentan en sus orillas. Sus amenazas incluyen la sobrepesca, la sedimentación causada por la deforestación en la cuenca, la expansión de la palma africana y la contaminación.",
+      "especies_emblematicas": [
+        "manati",
+        "mangle-rojo",
+        "robalo",
+        "sabalo-real",
+        "pato-aguja"
+      ],
+      "otras_especies": [
+        "Callinectes sapidus"
+      ],
+      "visitar": "Se llega en panga desde Bluefields o por carretera desde El Rama y Kukra Hill. Desde el pueblo de Laguna de Perlas salen lanchas hacia Orinoco y los Cayos Perlas.",
+      "fuentes": [
+        {
+          "cita": "Wikipedia. List of lakes of Nicaragua (tabla basada en datos del INIDE/INEC, 2002).",
+          "url": "https://en.wikipedia.org/wiki/List_of_lakes_of_Nicaragua"
+        },
+        {
+          "cita": "URACCAN, Observatorio. Laguna de Perlas (ficha municipal).",
+          "url": "https://observatorio.uraccan.edu.ni/sites/default/files/2021-11/laguna_de_perlas.pdf"
+        },
+        {
+          "cita": "Ley 738 y su reforma por la Ley 1039 (2020), que amplía el Refugio de Vida Silvestre Cayos Perlas a humedales y al sistema lagunar.",
+          "url": "https://nicaragua.justia.com/nacionales/leyes/ley-que-declara-y-define-el-sistema-de-los-cayos-perlas-como-refugio-de-vida-silvestre-nov-30-2010/gdoc"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "La reforma de 2020 (Ley 1039) amplió el Refugio de Vida Silvestre Cayos Perlas para incluir 'el sistema lagunar'; confirmar si eso convierte parte de la laguna en área protegida. La expansión de la palma africana como amenaza se basa en conocimiento general; añadir referencia. Presencia de manatí: mencionada en fichas municipales; añadir estudio específico."
+      }
+    },
+    {
+      "id": "corn-islands",
+      "nombre": "Paisaje Terrestre y Marino Protegido Corn Island, Little Corn Island y Blowing Rock",
+      "tipo": "area_protegida",
+      "categoria": "Paisaje Terrestre y Marino Protegido",
+      "designaciones": [],
+      "departamentos": [
+        "Costa Caribe Sur"
+      ],
+      "region": "marino-caribe",
+      "coordenadas": [
+        12.17,
+        -83.045
+      ],
+      "area_ha": 43057,
+      "nota_area": "Zona núcleo según la Ley 1085 (unos 43 056,55 ha, mayormente marina), con una zona de amortiguamiento de unos 641 696 ha. Superficies terrestres: Corn Island unos 950 ha y Little Corn Island unos 288 ha.",
+      "anio_declaracion": 2021,
+      "ecosistemas": [
+        "arrecifes de coral",
+        "praderas de pastos marinos",
+        "playas arenosas",
+        "manglar y humedales",
+        "bosque costero"
+      ],
+      "descripcion": "Las Islas del Maíz, Corn Island y Little Corn Island, se encuentran en el mar Caribe a unos 70 kilómetros de la costa de Bluefields. Son islas pequeñas, de colinas bajas, playas de arena blanca y aguas transparentes, habitadas por una población mayoritariamente creole de habla inglesa, junto con comunidades mestizas y miskitu. Sus arrecifes de coral, praderas de pastos marinos y bancos de arena se extienden alrededor de ambas islas, y más al norte se alza el islote rocoso de Blowing Rock, conocido por los buceadores. En 2021 la Ley 1085 declaró las dos islas y Blowing Rock como área protegida en la categoría de paisaje terrestre y marino protegido.",
+      "importancia": "Los arrecifes que rodean las islas están entre los más desarrollados de la plataforma caribeña nicaragüense, con corales cuerno de alce, peces loro, peces ángel y una gran diversidad de invertebrados. Sostienen la pesca de langosta del Caribe y de cambute, base de la economía isleña, y atraen un turismo de buceo y esnórquel en crecimiento. Sus playas reciben tortugas marinas. Las amenazas principales son la sobrepesca, el blanqueamiento de corales por el calentamiento del mar, la contaminación por aguas residuales y basura, la erosión costera y el desarrollo turístico desordenado.",
+      "especies_emblematicas": [
+        "coral-cuerno-de-alce",
+        "langosta-del-caribe",
+        "cambute",
+        "pez-angel-reina",
+        "garrobo"
+      ],
+      "visitar": "Hay vuelos desde Managua y barcos desde Bluefields y El Rama hacia Corn Island; a Little Corn se llega en panga desde Corn Island.",
+      "fuentes": [
+        {
+          "cita": "Ley 1085, Ley que declara y define Corn Island, Little Corn Island y Blowing Rock como área protegida de Paisaje Terrestre y Marino Protegidos (aprobada el 13 de octubre de 2021).",
+          "url": "https://leybook.com/doc/26871/pdf"
+        },
+        {
+          "cita": "Ley que declara Patrimonio Turístico Nacional al municipio de Corn Island (2013).",
+          "url": "https://nicaragua.justia.com/nacionales/leyes/ley-que-declara-patrimonio-turistico-nacional-al-municipio-de-corn-island-oct-31-2013/gdoc/"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "El catálogo lista este id como 'sitio de importancia ecológica' (Islas del Maíz), pero desde la Ley 1085 de 2021 es un área protegida: se cambia el tipo a area_protegida y se usa el nombre legal. Fecha de publicación de la Ley 1085 en La Gaceta por confirmar. Distancia a la costa (unos 70 km) según fuentes generales."
+      }
+    },
+    {
+      "id": "isletas-granada",
+      "nombre": "Isletas de Granada",
+      "tipo": "sitio_ecologico",
+      "categoria": "Archipiélago lacustre",
+      "designaciones": [],
+      "departamentos": [
+        "Granada"
+      ],
+      "region": "lagos",
+      "coordenadas": [
+        11.8723,
+        -85.8995
+      ],
+      "area_ha": null,
+      "nota_area": "No se localizó una superficie fiable del archipiélago.",
+      "anio_declaracion": null,
+      "ecosistemas": [
+        "islotes volcánicos lacustres",
+        "orillas rocosas y humedales",
+        "bosque seco y huertos"
+      ],
+      "descripcion": "Las Isletas de Granada son un archipiélago de alrededor de 365 islotes en el Lago Cocibolca, frente a la península de Asese, al sureste de la ciudad de Granada. Se formaron cuando una gran avalancha de rocas, producida por el colapso de un flanco del volcán Mombacho en tiempos prehistóricos, cayó al lago. Muchas isletas están cubiertas de árboles y palmeras; algunas tienen casas de recreo, pequeñas comunidades de pescadores, restaurantes o restos históricos, como el fortín de San Pablo, construido en la época colonial para defender Granada de los piratas. Los canales entre islotes son tranquilos y poco profundos.",
+      "importancia": "Las isletas ofrecen un mosaico de orillas, árboles y aguas someras que atrae a muchas aves acuáticas y de bosque: garzas tigre, cormoranes, martines pescadores, águilas pescadoras, oropéndolas y urracas copetonas. Las aguas entre los islotes son zona de pesca de mojarras y guapotes. Su cercanía a Granada las convierte en un lugar ideal para la educación ambiental, pero el aumento de construcciones, la basura y las aguas residuales, junto con la introducción de animales en algunos islotes para el turismo, como los monos de la llamada isla de los Monos, requieren mejores normas de manejo.",
+      "especies_emblematicas": [
+        "garza-tigre",
+        "oropendola-de-montezuma",
+        "urraca-copetona",
+        "mojarra-midas",
+        "guapote-tigre"
+      ],
+      "visitar": "Los paseos en lancha salen de Puerto Asese y del malecón de Granada. Prefiere operadores que no alimenten a los animales.",
+      "fuentes": [
+        {
+          "cita": "MARENA. Plan de Manejo de la Reserva Natural Volcán Mombacho (contexto geológico del volcán).",
+          "url": "https://www.marena.gob.ni/wp-content/uploads/2023/08/42-Plan-de-Manejo-Reserva-Natural-Volcan-Mombacho.pdf"
+        },
+        {
+          "cita": "Villa, J. (1982). Peces nicaragüenses de agua dulce. Colección Cultural Banco de América, Managua."
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "El número de isletas (365) es una cifra tradicional que varía según el criterio de conteo. El origen por avalancha del Mombacho debe citarse con un estudio geológico específico. Las fuentes aportadas son indirectas; añadir una fuente específica del archipiélago."
+      }
+    },
+    {
+      "id": "sabanas-pino-caribe",
+      "nombre": "Sabanas de pino del Caribe norte (Llanos de la Mosquitia)",
+      "tipo": "sitio_ecologico",
+      "categoria": "Ecosistema (sabana de pino)",
+      "designaciones": [],
+      "departamentos": [
+        "Costa Caribe Norte"
+      ],
+      "region": "caribe",
+      "coordenadas": [
+        14.15,
+        -83.6
+      ],
+      "area_ha": null,
+      "nota_area": "No es un área delimitada; su extensión varía según la fuente y la definición de sabana de pino.",
+      "anio_declaracion": null,
+      "ecosistemas": [
+        "sabana de pino caribe",
+        "pastizales inundables",
+        "bosques de galería",
+        "lagunas y pantanos"
+      ],
+      "descripcion": "En el noreste de Nicaragua, alrededor de Bilwi (Puerto Cabezas) y hacia el río Coco, se extiende un paisaje sorprendente para quien espera selva: llanuras abiertas de pastos con pinos dispersos, llamadas llanos o sabanas de pino, que continúan en la Mosquitia hondureña. Crecen sobre suelos arenosos y pobres, y se mantienen gracias al fuego natural o provocado, que limita la entrada de árboles de hoja ancha. El pino dominante es el pino caribe. Los llanos están cruzados por ríos con bosques de galería y salpicados de lagunas y pantanos. Las comunidades miskitu los usan para pastoreo, caza, recolección y aprovechamiento de madera.",
+      "importancia": "Las sabanas de pino del Caribe son un ecosistema único en Centroamérica, con especies adaptadas al fuego y a la inundación estacional. Albergan venados cola blanca, aves de pastizal y una subespecie del loro nuca amarilla propia de estas sabanas, y sus humedales reciben jabirúes y otras aves acuáticas. El pino caribe es también una fuente importante de madera para la región. Las quemas demasiado frecuentes, la extracción forestal sin control y los huracanes, como el Félix en 2007, que derribó grandes extensiones de pinar, han alterado este paisaje. Solo pequeñas porciones están dentro de áreas protegidas.",
+      "especies_emblematicas": [
+        "pino-caribe",
+        "loro-nuca-amarilla",
+        "venado-cola-blanca",
+        "jabiru"
+      ],
+      "otras_especies": [
+        "Byrsonima crassifolia",
+        "Curatella americana"
+      ],
+      "fuentes": [
+        {
+          "cita": "Stevens, W. D., Ulloa Ulloa, C., Pool, A. & Montiel, O. M. (eds.) (2001). Flora de Nicaragua. Monographs in Systematic Botany from the Missouri Botanical Garden 85."
+        },
+        {
+          "cita": "BirdLife International. Important Bird Area factsheet: Miskito Keys and terrestrial landscape (Nicaragua).",
+          "url": "https://datazone.birdlife.org/site/factsheet/miskito-keys-and-terrestrial-landscape-iba-nicaragua/details"
+        }
+      ],
+      "verificacion": {
+        "estado": "revisar",
+        "revisor": "",
+        "fecha": "",
+        "notas": "La subespecie del loro nuca amarilla de las sabanas de la Mosquitia (Amazona auropalliata parvipes) y el impacto del huracán Félix (2007) sobre los pinares se citan por conocimiento general; añadir referencias específicas. Coordenada representativa en los llanos al oeste de Bilwi."
+      }
+    }
+  ]
+}

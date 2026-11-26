@@ -81,7 +81,7 @@ const normDepto = (d) => { const n = norm(d); return ALIAS_DEPTO[n] || n; };
 /* ================================================================== */
 async function main() {
   const especiesDoc = await leer('data/especies.json');
-  const areasDoc = await leer('data/areas.json');
+  const areasDoc = await leer('data/areas.json').catch(() => ({ areas: [] }));
   const regionesDoc = await leer('data/regiones.json').catch(() => ({ regiones: [], lugares: [] }));
   const ninos = await leer('data/ninos.json').catch(() => ({}));
   const stri = await leer('data/stri-peces.json');

@@ -1,0 +1,2627 @@
+{
+ "fecha": "2026-11-26",
+ "especies": {
+  "chocoyo-del-pacifico": {
+   "alertas": [
+    "GBIF lo trata como sinónimo de Aratinga strenua"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "SYNONYM",
+    "rank": "SPECIES",
+    "key": 8069661,
+    "aceptado": 2479112,
+    "familia": "Psittacidae",
+    "nombre": "Psittacara strenuus",
+    "nombreAceptado": "Aratinga strenua"
+   },
+   "registrosNI": {
+    "gbif": 3113,
+    "inat": 123
+   },
+   "inat": {
+    "id": 367568,
+    "nombre": "Psittacara strenuus",
+    "rank": "species",
+    "iucn": null
+   }
+  },
+  "espatula-rosada": {
+   "alertas": [],
+   "vinculos": [
+    "juan-venado",
+    "playitas-moyua-tecomapa",
+    "los-guatuzos"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2480803,
+    "aceptado": 2480803,
+    "familia": "Threskiornithidae",
+    "nombre": "Platalea ajaja"
+   },
+   "registrosNI": {
+    "gbif": 2020,
+    "inat": 154
+   },
+   "inat": {
+    "id": 62529,
+    "nombre": "Platalea ajaja",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "garza-tigre": {
+   "alertas": [],
+   "vinculos": [
+    "ometepe",
+    "refugio-rio-san-juan"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2480867,
+    "aceptado": 2480867,
+    "familia": "Ardeidae",
+    "nombre": "Tigrisoma mexicanum"
+   },
+   "registrosNI": {
+    "gbif": 2635,
+    "inat": 335
+   },
+   "inat": {
+    "id": 5049,
+    "nombre": "Tigrisoma mexicanum",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "guardabarranco": {
+   "alertas": [],
+   "vinculos": [
+    "chacocente",
+    "cosiguina"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2475276,
+    "aceptado": 2475276,
+    "familia": "Momotidae",
+    "nombre": "Eumomota superciliosa"
+   },
+   "registrosNI": {
+    "gbif": 14606,
+    "inat": 586
+   },
+   "inat": {
+    "id": 2168,
+    "nombre": "Eumomota superciliosa",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "jabiru": {
+   "alertas": [],
+   "vinculos": [
+    "lago-cocibolca",
+    "playitas-moyua-tecomapa",
+    "estero-real"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2481953,
+    "aceptado": 2481953,
+    "familia": "Ciconiidae",
+    "nombre": "Jabiru mycteria"
+   },
+   "registrosNI": {
+    "gbif": 203,
+    "inat": 36
+   },
+   "inat": {
+    "id": 4773,
+    "nombre": "Jabiru mycteria",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "lapa-roja": {
+   "alertas": [],
+   "vinculos": [
+    "indio-maiz",
+    "refugio-rio-san-juan"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 5959227,
+    "aceptado": 5959227,
+    "familia": "Psittacidae",
+    "nombre": "Ara macao"
+   },
+   "registrosNI": {
+    "gbif": 35,
+    "inat": 31
+   },
+   "inat": {
+    "id": 19022,
+    "nombre": "Ara macao",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "lapa-verde": {
+   "alertas": [],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 5959233,
+    "aceptado": 5959233,
+    "familia": "Psittacidae",
+    "nombre": "Ara ambiguus"
+   },
+   "registrosNI": {
+    "gbif": 26,
+    "inat": 22
+   },
+   "inat": {
+    "id": 47675,
+    "nombre": "Ara ambiguus",
+    "rank": "species",
+    "iucn": "CR"
+   }
+  },
+  "lechuza": {
+   "alertas": [],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 9568884,
+    "aceptado": 9568884,
+    "familia": "Tytonidae",
+    "nombre": "Tyto furcata"
+   },
+   "registrosNI": {
+    "gbif": 808,
+    "inat": 22
+   },
+   "inat": {
+    "id": 1578502,
+    "nombre": "Tyto furcata",
+    "rank": "species",
+    "iucn": null
+   }
+  },
+  "loro-nuca-amarilla": {
+   "alertas": [],
+   "vinculos": [
+    "solentiname",
+    "la-flor",
+    "cosiguina"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2479631,
+    "aceptado": 2479631,
+    "familia": "Psittacidae",
+    "nombre": "Amazona auropalliata"
+   },
+   "registrosNI": {
+    "gbif": 88,
+    "inat": 87
+   },
+   "inat": {
+    "id": 18984,
+    "nombre": "Amazona auropalliata",
+    "rank": "species",
+    "iucn": "CR"
+   }
+  },
+  "oropendola-de-montezuma": {
+   "alertas": [],
+   "vinculos": [
+    "mombacho",
+    "cerro-arenal",
+    "los-guatuzos",
+    "indio-maiz"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2484246,
+    "aceptado": 2484246,
+    "familia": "Icteridae",
+    "nombre": "Psarocolius montezuma"
+   },
+   "registrosNI": {
+    "gbif": 12203,
+    "inat": 261
+   },
+   "inat": {
+    "id": 68047,
+    "nombre": "Psarocolius montezuma",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "pato-aguja": {
+   "alertas": [],
+   "vinculos": [
+    "los-guatuzos",
+    "refugio-rio-san-juan",
+    "isletas-granada",
+    "ometepe",
+    "estero-real",
+    "juan-venado"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2482082,
+    "aceptado": 2482082,
+    "familia": "Anhingidae",
+    "nombre": "Anhinga anhinga"
+   },
+   "registrosNI": {
+    "gbif": 1844,
+    "inat": 112
+   },
+   "inat": {
+    "id": 5063,
+    "nombre": "Anhinga anhinga",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "pavon": {
+   "alertas": [],
+   "vinculos": [
+    "bosawas",
+    "indio-maiz",
+    "refugio-rio-san-juan"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2482168,
+    "aceptado": 2482168,
+    "familia": "Cracidae",
+    "nombre": "Crax rubra"
+   },
+   "registrosNI": {
+    "gbif": 120,
+    "inat": 4
+   },
+   "inat": {
+    "id": 2052,
+    "nombre": "Crax rubra",
+    "rank": "species",
+    "iucn": "VU"
+   }
+  },
+  "pelicano-pardo": {
+   "alertas": [],
+   "vinculos": [
+    "cosiguina",
+    "corn-islands"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 5229158,
+    "aceptado": 5229158,
+    "familia": "Pelecanidae",
+    "nombre": "Pelecanus occidentalis"
+   },
+   "registrosNI": {
+    "gbif": 2757,
+    "inat": 235
+   },
+   "inat": {
+    "id": 4328,
+    "nombre": "Pelecanus occidentalis",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "pajaro-campana": {
+   "alertas": [],
+   "vinculos": [
+    "bosawas"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2486403,
+    "aceptado": 2486403,
+    "familia": "Cotingidae",
+    "nombre": "Procnias tricarunculatus"
+   },
+   "registrosNI": {
+    "gbif": 1739,
+    "inat": 20
+   },
+   "inat": {
+    "id": 8847,
+    "nombre": "Procnias tricarunculatus",
+    "rank": "species",
+    "iucn": "VU"
+   }
+  },
+  "quetzal": {
+   "alertas": [],
+   "vinculos": [
+    "datanli-el-diablo",
+    "bosawas"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2496723,
+    "aceptado": 2496723,
+    "familia": "Trogonidae",
+    "nombre": "Pharomachrus mocinno"
+   },
+   "registrosNI": {
+    "gbif": 329,
+    "inat": 23
+   },
+   "inat": {
+    "id": 20856,
+    "nombre": "Pharomachrus mocinno",
+    "rank": "species",
+    "iucn": "NT"
+   }
+  },
+  "reinita-alidorada": {
+   "alertas": [],
+   "vinculos": [
+    "miraflor",
+    "bosawas"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 5230811,
+    "aceptado": 5230811,
+    "familia": "Parulidae",
+    "nombre": "Vermivora chrysoptera"
+   },
+   "registrosNI": {
+    "gbif": 1786,
+    "inat": 25
+   },
+   "inat": {
+    "id": 9807,
+    "nombre": "Vermivora chrysoptera",
+    "rank": "species",
+    "iucn": "NT"
+   }
+  },
+  "fragata": {
+   "alertas": [],
+   "vinculos": [
+    "juan-venado",
+    "cosiguina",
+    "estero-real",
+    "chacocente",
+    "corn-islands",
+    "lago-cocibolca"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2480189,
+    "aceptado": 2480189,
+    "familia": "Fregatidae",
+    "nombre": "Fregata magnificens"
+   },
+   "registrosNI": {
+    "gbif": 4820,
+    "inat": 246
+   },
+   "inat": {
+    "id": 4631,
+    "nombre": "Fregata magnificens",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "tucan-pico-iris": {
+   "alertas": [],
+   "vinculos": [
+    "bosawas",
+    "indio-maiz",
+    "los-guatuzos",
+    "cerro-arenal",
+    "miraflor",
+    "mombacho",
+    "laguna-de-apoyo"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2478771,
+    "aceptado": 2478771,
+    "familia": "Ramphastidae",
+    "nombre": "Ramphastos sulfuratus"
+   },
+   "registrosNI": {
+    "gbif": 3814,
+    "inat": 86
+   },
+   "inat": {
+    "id": 18796,
+    "nombre": "Ramphastos sulfuratus",
+    "rank": "species",
+    "iucn": "NT"
+   }
+  },
+  "urraca-copetona": {
+   "alertas": [
+    "GBIF lo trata como sinónimo de Calocitta formosa"
+   ],
+   "vinculos": [
+    "mombacho",
+    "juan-venado"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "SYNONYM",
+    "rank": "SPECIES",
+    "key": 10936638,
+    "aceptado": 2482458,
+    "familia": "Corvidae",
+    "nombre": "Cyanocorax formosus",
+    "nombreAceptado": "Calocitta formosa"
+   },
+   "registrosNI": {
+    "gbif": 14172,
+    "inat": 525
+   },
+   "inat": {
+    "id": 1584283,
+    "nombre": "Cyanocorax formosus",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "zanate": {
+   "alertas": [],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 9476062,
+    "aceptado": 9476062,
+    "familia": "Icteridae",
+    "nombre": "Quiscalus mexicanus"
+   },
+   "registrosNI": {
+    "gbif": 33084,
+    "inat": 539
+   },
+   "inat": {
+    "id": 9607,
+    "nombre": "Quiscalus mexicanus",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "zopilote-rey": {
+   "alertas": [],
+   "vinculos": [
+    "indio-maiz",
+    "refugio-rio-san-juan",
+    "bosawas"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2481923,
+    "aceptado": 2481923,
+    "familia": "Cathartidae",
+    "nombre": "Sarcoramphus papa"
+   },
+   "registrosNI": {
+    "gbif": 284,
+    "inat": 15
+   },
+   "inat": {
+    "id": 4763,
+    "nombre": "Sarcoramphus papa",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "aguila-harpia": {
+   "alertas": [],
+   "vinculos": [
+    "indio-maiz"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2480516,
+    "aceptado": 2480516,
+    "familia": "Accipitridae",
+    "nombre": "Harpia harpyja"
+   },
+   "registrosNI": {
+    "gbif": 6,
+    "inat": 0
+   },
+   "inat": {
+    "id": 5321,
+    "nombre": "Harpia harpyja",
+    "rank": "species",
+    "iucn": "VU"
+   }
+  },
+  "ballena-jorobada": {
+   "alertas": [],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 5220086,
+    "aceptado": 5220086,
+    "familia": "Balaenopteridae",
+    "nombre": "Megaptera novaeangliae"
+   },
+   "registrosNI": {
+    "gbif": 159,
+    "inat": 1
+   },
+   "inat": {
+    "id": 41566,
+    "nombre": "Megaptera novaeangliae",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "chancho-de-monte": {
+   "alertas": [],
+   "vinculos": [
+    "indio-maiz"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2440993,
+    "aceptado": 2440993,
+    "familia": "Tayassuidae",
+    "nombre": "Tayassu pecari"
+   },
+   "registrosNI": {
+    "gbif": 6,
+    "inat": 1
+   },
+   "inat": {
+    "id": 42115,
+    "nombre": "Tayassu pecari",
+    "rank": "species",
+    "iucn": "VU"
+   }
+  },
+  "cusuco": {
+   "alertas": [
+    "GBIF no reconoce el nombre (coincidencia: HIGHERRANK); se usa la clave fijada a mano 2440779"
+   ],
+   "gbif": {
+    "matchType": "HIGHERRANK",
+    "status": "ACCEPTED",
+    "rank": "GENUS",
+    "key": 2440775,
+    "aceptado": 2440775,
+    "familia": "Dasypodidae",
+    "nombre": "Dasypus",
+    "manual": 2440779
+   },
+   "registrosNI": {
+    "gbif": 54,
+    "inat": 18
+   },
+   "inat": {
+    "id": 1647419,
+    "nombre": "Dasypus mexicanus",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "danta": {
+   "alertas": [
+    "GBIF lo trata como sinónimo de Tapirella bairdii"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "SYNONYM",
+    "rank": "SPECIES",
+    "key": 2440897,
+    "aceptado": 8395500,
+    "familia": "Tapiridae",
+    "nombre": "Tapirus bairdii",
+    "nombreAceptado": "Tapirella bairdii"
+   },
+   "registrosNI": {
+    "gbif": 35,
+    "inat": 17
+   },
+   "inat": {
+    "id": 43355,
+    "nombre": "Tapirus bairdii",
+    "rank": "species",
+    "iucn": "EN"
+   }
+  },
+  "guatusa": {
+   "alertas": [],
+   "vinculos": [
+    "indio-maiz"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2437576,
+    "aceptado": 2437576,
+    "familia": "Dasyproctidae",
+    "nombre": "Dasyprocta punctata"
+   },
+   "registrosNI": {
+    "gbif": 138,
+    "inat": 101
+   },
+   "inat": {
+    "id": 43712,
+    "nombre": "Dasyprocta punctata",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "jaguar": {
+   "alertas": [],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 5219426,
+    "aceptado": 5219426,
+    "familia": "Felidae",
+    "nombre": "Panthera onca"
+   },
+   "registrosNI": {
+    "gbif": 24,
+    "inat": 4
+   },
+   "inat": {
+    "id": 41970,
+    "nombre": "Panthera onca",
+    "rank": "species",
+    "iucn": "NT"
+   }
+  },
+  "manati": {
+   "alertas": [],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2435296,
+    "aceptado": 2435296,
+    "familia": "Trichechidae",
+    "nombre": "Trichechus manatus"
+   },
+   "registrosNI": {
+    "gbif": 3,
+    "inat": 0
+   },
+   "inat": {
+    "id": 46316,
+    "nombre": "Trichechus manatus",
+    "rank": "species",
+    "iucn": "VU"
+   }
+  },
+  "mono-arana": {
+   "alertas": [],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2436643,
+    "aceptado": 2436643,
+    "familia": "Atelidae",
+    "nombre": "Ateles geoffroyi"
+   },
+   "registrosNI": {
+    "gbif": 244,
+    "inat": 179
+   },
+   "inat": {
+    "id": 43411,
+    "nombre": "Ateles geoffroyi",
+    "rank": "species",
+    "iucn": "EN"
+   }
+  },
+  "mono-cara-blanca": {
+   "alertas": [],
+   "vinculos": [
+    "mombacho",
+    "indio-maiz"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 8028197,
+    "aceptado": 8028197,
+    "familia": "Cebidae",
+    "nombre": "Cebus imitator"
+   },
+   "registrosNI": {
+    "gbif": 226,
+    "inat": 174
+   },
+   "inat": {
+    "id": 1369296,
+    "nombre": "Cebus imitator",
+    "rank": "species",
+    "iucn": "VU"
+   }
+  },
+  "mono-congo": {
+   "alertas": [],
+   "vinculos": [
+    "bosawas",
+    "indio-maiz"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2436649,
+    "aceptado": 2436649,
+    "familia": "Atelidae",
+    "nombre": "Alouatta palliata"
+   },
+   "registrosNI": {
+    "gbif": 630,
+    "inat": 555
+   },
+   "inat": {
+    "id": 43436,
+    "nombre": "Alouatta palliata",
+    "rank": "species",
+    "iucn": "VU"
+   }
+  },
+  "murcielago-blanco": {
+   "alertas": [],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2433222,
+    "aceptado": 2433222,
+    "familia": "Phyllostomidae",
+    "nombre": "Ectophylla alba"
+   },
+   "registrosNI": {
+    "gbif": 4,
+    "inat": 4
+   },
+   "inat": {
+    "id": 41057,
+    "nombre": "Ectophylla alba",
+    "rank": "species",
+    "iucn": "NT"
+   }
+  },
+  "nutria": {
+   "alertas": [
+    "GBIF no reconoce el nombre (coincidencia: HIGHERRANK); se usa la clave fijada a mano 2433738"
+   ],
+   "vinculos": [
+    "refugio-rio-san-juan",
+    "los-guatuzos"
+   ],
+   "gbif": {
+    "matchType": "HIGHERRANK",
+    "status": "ACCEPTED",
+    "rank": "GENUS",
+    "key": 2433726,
+    "aceptado": 2433726,
+    "familia": "Mustelidae",
+    "nombre": "Lontra",
+    "manual": 2433738
+   },
+   "registrosNI": {
+    "gbif": 16,
+    "inat": 4
+   },
+   "inat": {
+    "id": 1596108,
+    "nombre": "Lontra annectens",
+    "rank": "species",
+    "iucn": null
+   }
+  },
+  "ocelote": {
+   "alertas": [],
+   "vinculos": [
+    "bosawas",
+    "indio-maiz"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2434982,
+    "aceptado": 2434982,
+    "familia": "Felidae",
+    "nombre": "Leopardus pardalis"
+   },
+   "registrosNI": {
+    "gbif": 17,
+    "inat": 7
+   },
+   "inat": {
+    "id": 41997,
+    "nombre": "Leopardus pardalis",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "oso-hormiguero": {
+   "alertas": [],
+   "vinculos": [
+    "bosawas",
+    "indio-maiz"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2436335,
+    "aceptado": 2436335,
+    "familia": "Myrmecophagidae",
+    "nombre": "Tamandua mexicana"
+   },
+   "registrosNI": {
+    "gbif": 62,
+    "inat": 48
+   },
+   "inat": {
+    "id": 47105,
+    "nombre": "Tamandua mexicana",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "perezoso-tres-dedos": {
+   "alertas": [],
+   "vinculos": [
+    "indio-maiz",
+    "los-guatuzos"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2436353,
+    "aceptado": 2436353,
+    "familia": "Bradypodidae",
+    "nombre": "Bradypus variegatus"
+   },
+   "registrosNI": {
+    "gbif": 101,
+    "inat": 78
+   },
+   "inat": {
+    "id": 47067,
+    "nombre": "Bradypus variegatus",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "venado-cola-blanca": {
+   "alertas": [],
+   "vinculos": [
+    "chacocente"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2440965,
+    "aceptado": 2440965,
+    "familia": "Cervidae",
+    "nombre": "Odocoileus virginianus"
+   },
+   "registrosNI": {
+    "gbif": 54,
+    "inat": 30
+   },
+   "inat": {
+    "id": 42223,
+    "nombre": "Odocoileus virginianus",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "basilisco": {
+   "alertas": [],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 5221821,
+    "aceptado": 5221821,
+    "familia": "Corytophanidae",
+    "nombre": "Basiliscus vittatus"
+   },
+   "registrosNI": {
+    "gbif": 351,
+    "inat": 131
+   },
+   "inat": {
+    "id": 33118,
+    "nombre": "Basiliscus vittatus",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "boa": {
+   "alertas": [],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2464915,
+    "aceptado": 2464915,
+    "familia": "Boidae",
+    "nombre": "Boa imperator"
+   },
+   "registrosNI": {
+    "gbif": 115,
+    "inat": 181
+   },
+   "inat": {
+    "id": 539399,
+    "nombre": "Boa imperator",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "tortuga-carey": {
+   "alertas": [],
+   "vinculos": [
+    "corn-islands"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 8841716,
+    "aceptado": 8841716,
+    "familia": "Cheloniidae",
+    "nombre": "Eretmochelys imbricata"
+   },
+   "registrosNI": {
+    "gbif": 123,
+    "inat": 12
+   },
+   "inat": {
+    "id": 39672,
+    "nombre": "Eretmochelys imbricata",
+    "rank": "species",
+    "iucn": "CR"
+   }
+  },
+  "cocodrilo": {
+   "alertas": [],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2441329,
+    "aceptado": 2441329,
+    "familia": "Crocodylidae",
+    "nombre": "Crocodylus acutus"
+   },
+   "registrosNI": {
+    "gbif": 81,
+    "inat": 78
+   },
+   "inat": {
+    "id": 26085,
+    "nombre": "Crocodylus acutus",
+    "rank": "species",
+    "iucn": "VU"
+   }
+  },
+  "cuajipal": {
+   "alertas": [],
+   "vinculos": [
+    "refugio-rio-san-juan",
+    "lago-cocibolca"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 8953936,
+    "aceptado": 8953936,
+    "familia": "Alligatoridae",
+    "nombre": "Caiman crocodilus"
+   },
+   "registrosNI": {
+    "gbif": 128,
+    "inat": 124
+   },
+   "inat": {
+    "id": 116517,
+    "nombre": "Caiman crocodilus",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "garrobo": {
+   "alertas": [],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2459603,
+    "aceptado": 2459603,
+    "familia": "Iguanidae",
+    "nombre": "Ctenosaura similis"
+   },
+   "registrosNI": {
+    "gbif": 577,
+    "inat": 547
+   },
+   "inat": {
+    "id": 35303,
+    "nombre": "Ctenosaura similis",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "iguana-verde": {
+   "alertas": [],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2459658,
+    "aceptado": 2459658,
+    "familia": "Iguanidae",
+    "nombre": "Iguana iguana"
+   },
+   "registrosNI": {
+    "gbif": 272,
+    "inat": 235
+   },
+   "inat": {
+    "id": 35342,
+    "nombre": "Iguana iguana",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "tortuga-paslama": {
+   "alertas": [],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2442153,
+    "aceptado": 2442153,
+    "familia": "Cheloniidae",
+    "nombre": "Lepidochelys olivacea"
+   },
+   "registrosNI": {
+    "gbif": 239,
+    "inat": 79
+   },
+   "inat": {
+    "id": 39670,
+    "nombre": "Lepidochelys olivacea",
+    "rank": "species",
+    "iucn": "VU"
+   }
+  },
+  "terciopelo": {
+   "alertas": [],
+   "vinculos": [
+    "indio-maiz",
+    "bosawas"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 5220796,
+    "aceptado": 5220796,
+    "familia": "Viperidae",
+    "nombre": "Bothrops asper"
+   },
+   "registrosNI": {
+    "gbif": 113,
+    "inat": 78
+   },
+   "inat": {
+    "id": 30798,
+    "nombre": "Bothrops asper",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "tortuga-baula": {
+   "alertas": [],
+   "vinculos": [
+    "juan-venado"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 9789983,
+    "aceptado": 9789983,
+    "familia": "Dermochelyidae",
+    "nombre": "Dermochelys coriacea"
+   },
+   "registrosNI": {
+    "gbif": 9,
+    "inat": 4
+   },
+   "inat": {
+    "id": 39677,
+    "nombre": "Dermochelys coriacea",
+    "rank": "species",
+    "iucn": "VU"
+   }
+  },
+  "tortuga-verde": {
+   "alertas": [],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2442225,
+    "aceptado": 2442225,
+    "familia": "Cheloniidae",
+    "nombre": "Chelonia mydas"
+   },
+   "registrosNI": {
+    "gbif": 423,
+    "inat": 11
+   },
+   "inat": {
+    "id": 39659,
+    "nombre": "Chelonia mydas",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "rana-ojos-rojos": {
+   "alertas": [],
+   "vinculos": [
+    "chocoyero",
+    "cerro-arenal",
+    "indio-maiz"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2428197,
+    "aceptado": 2428197,
+    "familia": "Phyllomedusidae",
+    "nombre": "Agalychnis callidryas"
+   },
+   "registrosNI": {
+    "gbif": 444,
+    "inat": 390
+   },
+   "inat": {
+    "id": 23702,
+    "nombre": "Agalychnis callidryas",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "rana-de-vidrio": {
+   "alertas": [],
+   "vinculos": [
+    "dipilto-jalapa",
+    "bosawas",
+    "cerro-arenal",
+    "indio-maiz"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2429316,
+    "aceptado": 2429316,
+    "familia": "Centrolenidae",
+    "nombre": "Hyalinobatrachium fleischmanni"
+   },
+   "registrosNI": {
+    "gbif": 97,
+    "inat": 50
+   },
+   "inat": {
+    "id": 21324,
+    "nombre": "Hyalinobatrachium fleischmanni",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "rana-venenosa-fresa": {
+   "alertas": [],
+   "vinculos": [
+    "refugio-rio-san-juan"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2429135,
+    "aceptado": 2429135,
+    "familia": "Dendrobatidae",
+    "nombre": "Oophaga pumilio"
+   },
+   "registrosNI": {
+    "gbif": 343,
+    "inat": 136
+   },
+   "inat": {
+    "id": 66278,
+    "nombre": "Oophaga pumilio",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "rana-venenosa-verdinegra": {
+   "alertas": [],
+   "vinculos": [
+    "indio-maiz",
+    "refugio-rio-san-juan"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 5218022,
+    "aceptado": 5218022,
+    "familia": "Dendrobatidae",
+    "nombre": "Dendrobates auratus"
+   },
+   "registrosNI": {
+    "gbif": 142,
+    "inat": 51
+   },
+   "inat": {
+    "id": 21121,
+    "nombre": "Dendrobates auratus",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "salamandra-mombacho": {
+   "alertas": [],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2431334,
+    "aceptado": 2431334,
+    "familia": "Plethodontidae",
+    "nombre": "Bolitoglossa mombachoensis"
+   },
+   "registrosNI": {
+    "gbif": 118,
+    "inat": 36
+   },
+   "inat": {
+    "id": 26955,
+    "nombre": "Bolitoglossa mombachoensis",
+    "rank": "species",
+    "iucn": "VU"
+   }
+  },
+  "sapo-comun": {
+   "alertas": [],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 10892611,
+    "aceptado": 10892611,
+    "familia": "Bufonidae",
+    "nombre": "Rhinella horribilis"
+   },
+   "registrosNI": {
+    "gbif": 345,
+    "inat": 546
+   },
+   "inat": {
+    "id": 517119,
+    "nombre": "Rhinella horribilis",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "gaspar": {
+   "alertas": [],
+   "stri": true,
+   "vinculos": [
+    "refugio-rio-san-juan"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2346751,
+    "aceptado": 2346751,
+    "familia": "Lepisosteidae",
+    "nombre": "Atractosteus tropicus"
+   },
+   "registrosNI": {
+    "gbif": 20,
+    "inat": 9
+   },
+   "inat": {
+    "id": 220056,
+    "nombre": "Atractosteus tropicus",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "guapote-tigre": {
+   "alertas": [],
+   "stri": false,
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 5208202,
+    "aceptado": 5208202,
+    "familia": "Cichlidae",
+    "nombre": "Parachromis managuensis"
+   },
+   "registrosNI": {
+    "gbif": 201,
+    "inat": 41
+   },
+   "inat": {
+    "id": 208891,
+    "nombre": "Parachromis managuensis",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "mojarra-midas": {
+   "alertas": [],
+   "stri": false,
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2370102,
+    "aceptado": 2370102,
+    "familia": "Cichlidae",
+    "nombre": "Amphilophus citrinellus"
+   },
+   "registrosNI": {
+    "gbif": 635,
+    "inat": 25
+   },
+   "inat": {
+    "id": 208884,
+    "nombre": "Amphilophus citrinellus",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "mojarra-flecha": {
+   "alertas": [],
+   "stri": false,
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2370130,
+    "aceptado": 2370130,
+    "familia": "Cichlidae",
+    "nombre": "Amphilophus zaliosus"
+   },
+   "registrosNI": {
+    "gbif": 42,
+    "inat": 6
+   },
+   "inat": {
+    "id": 93951,
+    "nombre": "Amphilophus zaliosus",
+    "rank": "species",
+    "iucn": "CR"
+   }
+  },
+  "pargo-lunarejo": {
+   "alertas": [],
+   "stri": true,
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2385124,
+    "aceptado": 2385124,
+    "familia": "Lutjanidae",
+    "nombre": "Lutjanus guttatus"
+   },
+   "registrosNI": {
+    "gbif": 16,
+    "inat": 11
+   },
+   "inat": {
+    "id": 104857,
+    "nombre": "Lutjanus guttatus",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "pez-gallo": {
+   "alertas": [],
+   "stri": true,
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2369683,
+    "aceptado": 2369683,
+    "familia": "Nematistiidae",
+    "nombre": "Nematistius pectoralis"
+   },
+   "registrosNI": {
+    "gbif": 3,
+    "inat": 1
+   },
+   "inat": {
+    "id": 194888,
+    "nombre": "Nematistius pectoralis",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "pez-loro-arcoiris": {
+   "alertas": [
+    "Familia en GBIF: Scaridae (ficha: Labridae)"
+   ],
+   "stri": true,
+   "vinculos": [
+    "corn-islands"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2393779,
+    "aceptado": 2393779,
+    "familia": "Scaridae",
+    "nombre": "Scarus guacamaia"
+   },
+   "registrosNI": {
+    "gbif": 1,
+    "inat": 0
+   },
+   "inat": {
+    "id": 112148,
+    "nombre": "Scarus guacamaia",
+    "rank": "species",
+    "iucn": "NT"
+   }
+  },
+  "pez-sierra": {
+   "alertas": [],
+   "stri": true,
+   "vinculos": [
+    "refugio-rio-san-juan"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 5216276,
+    "aceptado": 5216276,
+    "familia": "Pristidae",
+    "nombre": "Pristis pristis"
+   },
+   "registrosNI": {
+    "gbif": 3,
+    "inat": 0
+   },
+   "inat": {
+    "id": 110381,
+    "nombre": "Pristis pristis",
+    "rank": "species",
+    "iucn": "CR"
+   }
+  },
+  "pez-vela": {
+   "alertas": [],
+   "stri": true,
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 5211984,
+    "aceptado": 5211984,
+    "familia": "Istiophoridae",
+    "nombre": "Istiophorus platypterus"
+   },
+   "registrosNI": {
+    "gbif": 4,
+    "inat": 1
+   },
+   "inat": {
+    "id": 119719,
+    "nombre": "Istiophorus platypterus",
+    "rank": "species",
+    "iucn": "VU"
+   }
+  },
+  "pez-angel-reina": {
+   "alertas": [],
+   "stri": true,
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 5211452,
+    "aceptado": 5211452,
+    "familia": "Pomacanthidae",
+    "nombre": "Holacanthus ciliaris"
+   },
+   "registrosNI": {
+    "gbif": 4,
+    "inat": 3
+   },
+   "inat": {
+    "id": 47235,
+    "nombre": "Holacanthus ciliaris",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "robalo": {
+   "alertas": [],
+   "stri": true,
+   "vinculos": [
+    "refugio-rio-san-juan"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2369643,
+    "aceptado": 2369643,
+    "familia": "Centropomidae",
+    "nombre": "Centropomus undecimalis"
+   },
+   "registrosNI": {
+    "gbif": 10,
+    "inat": 8
+   },
+   "inat": {
+    "id": 49437,
+    "nombre": "Centropomus undecimalis",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "sabalo-real": {
+   "alertas": [],
+   "stri": true,
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 5203123,
+    "aceptado": 5203123,
+    "familia": "Megalopidae",
+    "nombre": "Megalops atlanticus"
+   },
+   "registrosNI": {
+    "gbif": 1,
+    "inat": 1
+   },
+   "inat": {
+    "id": 51402,
+    "nombre": "Megalops atlanticus",
+    "rank": "species",
+    "iucn": "VU"
+   }
+  },
+  "tiburon-toro": {
+   "alertas": [],
+   "stri": true,
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2418036,
+    "aceptado": 2418036,
+    "familia": "Carcharhinidae",
+    "nombre": "Carcharhinus leucas"
+   },
+   "registrosNI": {
+    "gbif": 9,
+    "inat": 1
+   },
+   "inat": {
+    "id": 84996,
+    "nombre": "Carcharhinus leucas",
+    "rank": "species",
+    "iucn": "VU"
+   }
+  },
+  "cambute": {
+   "alertas": [],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 10903982,
+    "aceptado": 10903982,
+    "familia": "Strombidae",
+    "nombre": "Aliger gigas"
+   },
+   "registrosNI": {
+    "gbif": 2,
+    "inat": 1
+   },
+   "inat": {
+    "id": 1099504,
+    "nombre": "Aliger gigas",
+    "rank": "species",
+    "iucn": "NT"
+   }
+  },
+  "concha-negra": {
+   "alertas": [],
+   "vinculos": [
+    "juan-venado"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 5188932,
+    "aceptado": 5188932,
+    "familia": "Arcidae",
+    "nombre": "Anadara tuberculosa"
+   },
+   "registrosNI": {
+    "gbif": 13,
+    "inat": 5
+   },
+   "inat": {
+    "id": 253285,
+    "nombre": "Anadara tuberculosa",
+    "rank": "species",
+    "iucn": null
+   }
+  },
+  "coral-cuerno-de-alce": {
+   "alertas": [],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 5184657,
+    "aceptado": 5184657,
+    "familia": "Acroporidae",
+    "nombre": "Acropora palmata"
+   },
+   "registrosNI": {
+    "gbif": 54,
+    "inat": 12
+   },
+   "inat": {
+    "id": 93312,
+    "nombre": "Acropora palmata",
+    "rank": "species",
+    "iucn": "CR"
+   }
+  },
+  "langosta-del-caribe": {
+   "alertas": [],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2221646,
+    "aceptado": 2221646,
+    "familia": "Palinuridae",
+    "nombre": "Panulirus argus"
+   },
+   "registrosNI": {
+    "gbif": 3,
+    "inat": 4
+   },
+   "inat": {
+    "id": 47299,
+    "nombre": "Panulirus argus",
+    "rank": "species",
+    "iucn": "DD"
+   }
+  },
+  "mariposa-morfo": {
+   "alertas": [],
+   "vinculos": [
+    "chocoyero",
+    "ometepe"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 5133265,
+    "aceptado": 5133265,
+    "familia": "Nymphalidae",
+    "nombre": "Morpho helenor"
+   },
+   "registrosNI": {
+    "gbif": 114,
+    "inat": 142
+   },
+   "inat": {
+    "id": 81741,
+    "nombre": "Morpho helenor",
+    "rank": "species",
+    "iucn": null
+   }
+  },
+  "zompopo": {
+   "alertas": [],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 5035748,
+    "aceptado": 5035748,
+    "familia": "Formicidae",
+    "nombre": "Atta cephalotes"
+   },
+   "registrosNI": {
+    "gbif": 146,
+    "inat": 174
+   },
+   "inat": {
+    "id": 153974,
+    "nombre": "Atta cephalotes",
+    "rank": "species",
+    "iucn": null
+   }
+  },
+  "almendro": {
+   "alertas": [],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2947126,
+    "aceptado": 2947126,
+    "familia": "Fabaceae",
+    "nombre": "Dipteryx oleifera"
+   },
+   "registrosNI": {
+    "gbif": 74,
+    "inat": 5
+   },
+   "inat": {
+    "id": 490687,
+    "nombre": "Dipteryx oleifera",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "cacao": {
+   "alertas": [],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 3152205,
+    "aceptado": 3152205,
+    "familia": "Malvaceae",
+    "nombre": "Theobroma cacao"
+   },
+   "registrosNI": {
+    "gbif": 83,
+    "inat": 38
+   },
+   "inat": {
+    "id": 64340,
+    "nombre": "Theobroma cacao",
+    "rank": "species",
+    "iucn": "DD"
+   }
+  },
+  "caoba": {
+   "alertas": [],
+   "vinculos": [
+    "bosawas",
+    "indio-maiz"
+   ],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 3190484,
+    "aceptado": 3190484,
+    "familia": "Meliaceae",
+    "nombre": "Swietenia macrophylla"
+   },
+   "registrosNI": {
+    "gbif": 29,
+    "inat": 1
+   },
+   "inat": {
+    "id": 169442,
+    "nombre": "Swietenia macrophylla",
+    "rank": "species",
+    "iucn": "EN"
+   }
+  },
+  "cedro-real": {
+   "alertas": [],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 3190511,
+    "aceptado": 3190511,
+    "familia": "Meliaceae",
+    "nombre": "Cedrela odorata"
+   },
+   "registrosNI": {
+    "gbif": 183,
+    "inat": 18
+   },
+   "inat": {
+    "id": 62833,
+    "nombre": "Cedrela odorata",
+    "rank": "species",
+    "iucn": "VU"
+   }
+  },
+  "ceiba": {
+   "alertas": [],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 5406697,
+    "aceptado": 5406697,
+    "familia": "Malvaceae",
+    "nombre": "Ceiba pentandra"
+   },
+   "registrosNI": {
+    "gbif": 95,
+    "inat": 51
+   },
+   "inat": {
+    "id": 62809,
+    "nombre": "Ceiba pentandra",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "dama-de-noche": {
+   "alertas": [],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 5314167,
+    "aceptado": 5314167,
+    "familia": "Orchidaceae",
+    "nombre": "Brassavola nodosa"
+   },
+   "registrosNI": {
+    "gbif": 152,
+    "inat": 48
+   },
+   "inat": {
+    "id": 283368,
+    "nombre": "Brassavola nodosa",
+    "rank": "species",
+    "iucn": null
+   }
+  },
+  "guanacaste": {
+   "alertas": [],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2961150,
+    "aceptado": 2961150,
+    "familia": "Fabaceae",
+    "nombre": "Enterolobium cyclocarpum"
+   },
+   "registrosNI": {
+    "gbif": 111,
+    "inat": 47
+   },
+   "inat": {
+    "id": 52440,
+    "nombre": "Enterolobium cyclocarpum",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "guayacan": {
+   "alertas": [],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 3189908,
+    "aceptado": 3189908,
+    "familia": "Zygophyllaceae",
+    "nombre": "Guaiacum sanctum"
+   },
+   "registrosNI": {
+    "gbif": 145,
+    "inat": 31
+   },
+   "inat": {
+    "id": 193076,
+    "nombre": "Guaiacum sanctum",
+    "rank": "species",
+    "iucn": "NT"
+   }
+  },
+  "jicaro": {
+   "alertas": [],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 5415080,
+    "aceptado": 5415080,
+    "familia": "Bignoniaceae",
+    "nombre": "Crescentia alata"
+   },
+   "registrosNI": {
+    "gbif": 119,
+    "inat": 56
+   },
+   "inat": {
+    "id": 147260,
+    "nombre": "Crescentia alata",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "madrono": {
+   "alertas": [],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 2904009,
+    "aceptado": 2904009,
+    "familia": "Rubiaceae",
+    "nombre": "Calycophyllum candidissimum"
+   },
+   "registrosNI": {
+    "gbif": 217,
+    "inat": 62
+   },
+   "inat": {
+    "id": 209886,
+    "nombre": "Calycophyllum candidissimum",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "mangle-rojo": {
+   "alertas": [],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 3086528,
+    "aceptado": 3086528,
+    "familia": "Rhizophoraceae",
+    "nombre": "Rhizophora mangle"
+   },
+   "registrosNI": {
+    "gbif": 110,
+    "inat": 36
+   },
+   "inat": {
+    "id": 60335,
+    "nombre": "Rhizophora mangle",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "pino-caribe": {
+   "alertas": [],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 5285740,
+    "aceptado": 5285740,
+    "familia": "Pinaceae",
+    "nombre": "Pinus caribaea"
+   },
+   "registrosNI": {
+    "gbif": 89,
+    "inat": 1
+   },
+   "inat": {
+    "id": 135809,
+    "nombre": "Pinus caribaea",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "pino-ocote": {
+   "alertas": [],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 5285220,
+    "aceptado": 5285220,
+    "familia": "Pinaceae",
+    "nombre": "Pinus oocarpa"
+   },
+   "registrosNI": {
+    "gbif": 44,
+    "inat": 19
+   },
+   "inat": {
+    "id": 135728,
+    "nombre": "Pinus oocarpa",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "pochote": {
+   "alertas": [],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 9158473,
+    "aceptado": 9158473,
+    "familia": "Malvaceae",
+    "nombre": "Pochota fendleri"
+   },
+   "registrosNI": {
+    "gbif": 96,
+    "inat": 22
+   },
+   "inat": {
+    "id": 1255527,
+    "nombre": "Pochota fendleri",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "roble-macuelizo": {
+   "alertas": [],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 3172537,
+    "aceptado": 3172537,
+    "familia": "Bignoniaceae",
+    "nombre": "Tabebuia rosea"
+   },
+   "registrosNI": {
+    "gbif": 125,
+    "inat": 46
+   },
+   "inat": {
+    "id": 209270,
+    "nombre": "Tabebuia rosea",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "sacuanjoche": {
+   "alertas": [],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 3169674,
+    "aceptado": 3169674,
+    "familia": "Apocynaceae",
+    "nombre": "Plumeria rubra"
+   },
+   "registrosNI": {
+    "gbif": 155,
+    "inat": 120
+   },
+   "inat": {
+    "id": 123438,
+    "nombre": "Plumeria rubra",
+    "rank": "species",
+    "iucn": "LC"
+   }
+  },
+  "teosinte-nicaraguense": {
+   "alertas": [],
+   "gbif": {
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "rank": "SPECIES",
+    "key": 5678409,
+    "aceptado": 5678409,
+    "familia": "Poaceae",
+    "nombre": "Zea nicaraguensis"
+   },
+   "registrosNI": {
+    "gbif": 33,
+    "inat": 1
+   },
+   "inat": {
+    "id": 1099220,
+    "nombre": "Zea nicaraguensis",
+    "rank": "species",
+    "iucn": null
+   }
+  }
+ },
+ "areas": {
+  "bosawas": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "San José de Bocay",
+    "departamento": "Jinotega"
+   }
+  },
+  "indio-maiz": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "San Juan de Nicaragua",
+    "departamento": "Río San Juan"
+   }
+  },
+  "refugio-rio-san-juan": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "El Castillo",
+    "departamento": "Río San Juan"
+   }
+  },
+  "los-guatuzos": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "San Carlos",
+    "departamento": "Río San Juan"
+   }
+  },
+  "solentiname": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "San Carlos",
+    "departamento": "Río San Juan"
+   }
+  },
+  "ometepe": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "Altagracia",
+    "departamento": "Rivas"
+   }
+  },
+  "volcan-masaya": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "Nindirí",
+    "departamento": "Masaya"
+   }
+  },
+  "mombacho": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "Granada",
+    "departamento": "Granada"
+   }
+  },
+  "laguna-de-apoyo": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "Diriá",
+    "departamento": "Granada"
+   }
+  },
+  "chocoyero": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "La Concepción",
+    "departamento": "Masaya"
+   }
+  },
+  "la-flor": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "San Juan del Sur",
+    "departamento": "Rivas"
+   }
+  },
+  "chacocente": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "Santa Teresa",
+    "departamento": "Carazo"
+   }
+  },
+  "juan-venado": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "León",
+    "departamento": "León"
+   }
+  },
+  "estero-real": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "Puerto Morazán",
+    "departamento": "Chinandega"
+   }
+  },
+  "cosiguina": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "El Viejo",
+    "departamento": "Chinandega"
+   }
+  },
+  "miraflor": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "Estelí",
+    "departamento": "Estelí"
+   }
+  },
+  "canon-somoto": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "Somoto",
+    "departamento": "Madriz"
+   }
+  },
+  "datanli-el-diablo": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "Jinotega",
+    "departamento": "Jinotega"
+   }
+  },
+  "cerro-arenal": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "Matagalpa",
+    "departamento": "Matagalpa"
+   }
+  },
+  "kilambe": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "Wiwilí de Jinotega",
+    "departamento": "Jinotega"
+   }
+  },
+  "musun": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "Río Blanco",
+    "departamento": "Matagalpa"
+   }
+  },
+  "tisey": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "Estelí",
+    "departamento": "Estelí"
+   }
+  },
+  "dipilto-jalapa": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "Monzonte",
+    "departamento": "Nueva Segovia"
+   }
+  },
+  "cayos-miskitos": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "Puerto Cabezas",
+    "departamento": "Costa Caribe Norte"
+   }
+  },
+  "wawashang": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "Laguna de Perlas",
+    "departamento": "Costa Caribe Sur"
+   }
+  },
+  "cerro-silva": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "Bluefields",
+    "departamento": "Costa Caribe Sur"
+   }
+  },
+  "punta-gorda": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "Bluefields",
+    "departamento": "Costa Caribe Sur"
+   }
+  },
+  "bahia-bluefields": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "Bluefields",
+    "departamento": "Costa Caribe Sur"
+   }
+  },
+  "tisma": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "Tisma",
+    "departamento": "Masaya"
+   }
+  },
+  "apanas": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "Jinotega",
+    "departamento": "Jinotega"
+   }
+  },
+  "san-miguelito": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "San Miguelito",
+    "departamento": "Río San Juan"
+   }
+  },
+  "playitas-moyua-tecomapa": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "Ciudad Darío",
+    "departamento": "Matagalpa"
+   }
+  },
+  "pilas-el-hoyo": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "La Paz Centro",
+    "departamento": "León"
+   }
+  },
+  "asososca": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "Managua",
+    "departamento": "Managua"
+   }
+  },
+  "chiltepe": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "Mateare",
+    "departamento": "Managua"
+   }
+  },
+  "cayos-perlas": {
+   "alertas": [],
+   "ubicacion": null
+  },
+  "lago-cocibolca": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "Acoyapa",
+    "departamento": "Chontales"
+   }
+  },
+  "lago-xolotlan": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "Nagarote",
+    "departamento": "León"
+   }
+  },
+  "golfo-fonseca": {
+   "alertas": [],
+   "ubicacion": null
+  },
+  "rio-coco": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "Wiwilí de Jinotega",
+    "departamento": "Jinotega"
+   }
+  },
+  "laguna-de-perlas": {
+   "alertas": [],
+   "ubicacion": null
+  },
+  "corn-islands": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "Corn Island",
+    "departamento": "Costa Caribe Sur"
+   }
+  },
+  "isletas-granada": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "Granada",
+    "departamento": "Granada"
+   }
+  },
+  "sabanas-pino-caribe": {
+   "alertas": [],
+   "ubicacion": {
+    "municipio": "Puerto Cabezas",
+    "departamento": "Costa Caribe Norte"
+   }
+  }
+ },
+ "ninos": {
+  "guardabarranco": {
+   "alertas": []
+  },
+  "sacuanjoche": {
+   "alertas": []
+  },
+  "madrono": {
+   "alertas": []
+  },
+  "jaguar": {
+   "alertas": []
+  },
+  "danta": {
+   "alertas": []
+  },
+  "mono-congo": {
+   "alertas": []
+  },
+  "perezoso-tres-dedos": {
+   "alertas": []
+  },
+  "manati": {
+   "alertas": []
+  },
+  "tortuga-paslama": {
+   "alertas": []
+  },
+  "tiburon-toro": {
+   "alertas": []
+  },
+  "lapa-roja": {
+   "alertas": []
+  },
+  "quetzal": {
+   "alertas": []
+  },
+  "rana-ojos-rojos": {
+   "alertas": []
+  },
+  "garrobo": {
+   "alertas": []
+  },
+  "ceiba": {
+   "alertas": []
+  },
+  "mangle-rojo": {
+   "alertas": []
+  },
+  "salamandra-mombacho": {
+   "alertas": []
+  },
+  "rana-venenosa-fresa": {
+   "alertas": []
+  },
+  "mariposa-morfo": {
+   "alertas": []
+  },
+  "coral-cuerno-de-alce": {
+   "alertas": []
+  },
+  "gaspar": {
+   "alertas": []
+  },
+  "tucan-pico-iris": {
+   "alertas": []
+  },
+  "ballena-jorobada": {
+   "alertas": []
+  },
+  "terciopelo": {
+   "alertas": []
+  },
+  "que-es-la-biodiversidad": {
+   "alertas": []
+  },
+  "tierra-de-lagos-y-volcanes": {
+   "alertas": []
+  },
+  "ecosistemas-de-nicaragua": {
+   "alertas": []
+  },
+  "simbolos-naturales": {
+   "alertas": []
+  },
+  "animales-en-peligro": {
+   "alertas": []
+  },
+  "tortugas-marinas": {
+   "alertas": []
+  },
+  "bosques-agua-aire-alimento": {
+   "alertas": []
+  },
+  "areas-protegidas": {
+   "alertas": []
+  },
+  "aves-viajeras": {
+   "alertas": []
+  },
+  "lago-cocibolca": {
+   "alertas": []
+  },
+  "como-puedo-ayudar": {
+   "alertas": []
+  },
+  "ciencia-ciudadana": {
+   "alertas": []
+  }
+ },
+ "generales": []
+}

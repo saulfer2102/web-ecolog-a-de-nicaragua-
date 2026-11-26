@@ -1,0 +1,527 @@
+{
+  "regiones": [
+    {
+      "id": "pacifico",
+      "nombre": "Región del Pacífico",
+      "descripcion": "El Pacífico es la franja occidental de Nicaragua, entre la costa del océano y los grandes lagos. Aquí se alza la cadena volcánica que incluye el Cosigüina, los Maribios, el Masaya y el Mombacho, y aquí vive la mayor parte de la población del país, en ciudades como Managua, León, Granada y Chinandega. Sus suelos volcánicos son muy fértiles, por lo que la región fue transformada desde hace siglos en cultivos, potreros y ciudades. El ecosistema original dominante era el bosque seco tropical, que pierde sus hojas en verano y reverdece con las lluvias; hoy sobrevive en fragmentos protegidos en volcanes, lagunas cratéricas y laderas. En las cimas más altas, como el Mombacho, la humedad de las nubes permite bosques nubosos con especies únicas, como la salamandra del Mombacho.",
+      "clima": "Tropical seco (de sabana), con una estación seca bien marcada de noviembre a abril y una lluviosa de mayo a octubre; temperaturas cálidas todo el año, más frescas en las cimas volcánicas.",
+      "ecosistemas": [
+        "bosque seco tropical",
+        "bosque subcaducifolio",
+        "bosque nuboso en cimas volcánicas",
+        "campos de lava y vegetación pionera",
+        "lagunas cratéricas"
+      ],
+      "especies_emblematicas": [
+        "guardabarranco",
+        "urraca-copetona",
+        "chocoyo-del-pacifico",
+        "loro-nuca-amarilla",
+        "mono-congo",
+        "mono-cara-blanca",
+        "garrobo",
+        "venado-cola-blanca",
+        "salamandra-mombacho",
+        "sacuanjoche",
+        "madrono",
+        "guanacaste",
+        "jicaro"
+      ],
+      "areas_destacadas": [
+        "volcan-masaya",
+        "mombacho",
+        "chocoyero",
+        "cosiguina",
+        "pilas-el-hoyo",
+        "chiltepe"
+      ],
+      "color": "#D98E04"
+    },
+    {
+      "id": "centro-norte",
+      "nombre": "Región Central y Norte",
+      "descripcion": "El centro y el norte de Nicaragua forman la zona montañosa del país, desde las serranías de Nueva Segovia, en la frontera con Honduras, hasta las lomas de Boaco y Chontales. Aquí se encuentra el Mogotón, el punto más alto del país, y cordilleras como las de Dipilto, Isabelia y Dariense. El paisaje cambia mucho con la altitud: valles secos y calurosos en el corredor seco, bosques de pino y roble en las mesetas, y bosques nubosos siempre húmedos en las cumbres de Jinotega y Matagalpa, donde se cultiva gran parte del café nicaragüense. Muchas de sus áreas protegidas son cerros declarados en 1991 para proteger nacientes de agua. En sus bosques de neblina viven el quetzal y el pájaro campana, y en invierno llegan aves migratorias del norte.",
+      "clima": "Templado a fresco en las montañas (lluvioso y nublado en las cumbres de Jinotega y Matagalpa) y seco en los valles del corredor seco de Estelí, Madriz y Nueva Segovia; estación lluviosa de mayo a octubre.",
+      "ecosistemas": [
+        "bosque nuboso",
+        "bosque de pino y roble",
+        "bosque latifoliado montano",
+        "bosque seco de valles",
+        "cafetales con sombra",
+        "ríos de montaña y cañones"
+      ],
+      "especies_emblematicas": [
+        "quetzal",
+        "pajaro-campana",
+        "reinita-alidorada",
+        "guardabarranco",
+        "oropendola-de-montezuma",
+        "tucan-pico-iris",
+        "zopilote-rey",
+        "mono-congo",
+        "guatusa",
+        "rana-de-vidrio",
+        "pino-ocote"
+      ],
+      "areas_destacadas": [
+        "miraflor",
+        "canon-somoto",
+        "datanli-el-diablo",
+        "cerro-arenal",
+        "kilambe",
+        "musun",
+        "tisey",
+        "dipilto-jalapa"
+      ],
+      "color": "#2E7D32"
+    },
+    {
+      "id": "caribe",
+      "nombre": "Región del Caribe",
+      "descripcion": "La región del Caribe ocupa más de la mitad del territorio nicaragüense: las dos regiones autónomas de la costa y el departamento de Río San Juan. Es una tierra de lluvias abundantes, grandes ríos y selvas tropicales, donde viven pueblos indígenas miskitu, mayangna y rama, y comunidades afrodescendientes creoles y garífunas, además de población mestiza. Aquí se encuentran Bosawás e Indio Maíz, dos de las áreas protegidas terrestres más extensas del país, que conservan jaguares, dantas, águilas harpías y lapas verdes. En el noreste dominan las sabanas de pino caribe, un ecosistema mantenido por el fuego, y hacia la costa se extienden pantanos, yolillales y bosques inundables. El avance de la frontera agrícola y ganadera desde el oeste es la principal amenaza para estos bosques.",
+      "clima": "Tropical húmedo a muy húmedo, con lluvias durante casi todo el año; en el sureste (Río San Juan y el sur de la Costa Caribe Sur) se registran algunas de las precipitaciones más altas de Centroamérica.",
+      "ecosistemas": [
+        "bosque tropical húmedo y muy húmedo",
+        "bosque inundable y yolillales",
+        "sabana de pino caribe",
+        "bosque de galería",
+        "ríos y humedales de llanura"
+      ],
+      "especies_emblematicas": [
+        "jaguar",
+        "danta",
+        "aguila-harpia",
+        "lapa-verde",
+        "lapa-roja",
+        "mono-arana",
+        "perezoso-tres-dedos",
+        "chancho-de-monte",
+        "rana-venenosa-fresa",
+        "rana-ojos-rojos",
+        "tucan-pico-iris",
+        "almendro",
+        "caoba",
+        "pino-caribe"
+      ],
+      "areas_destacadas": [
+        "bosawas",
+        "indio-maiz",
+        "refugio-rio-san-juan",
+        "cerro-silva",
+        "punta-gorda",
+        "wawashang",
+        "sabanas-pino-caribe"
+      ],
+      "color": "#00897B"
+    },
+    {
+      "id": "lagos",
+      "nombre": "Grandes lagos, lagunas y ríos",
+      "descripcion": "Nicaragua es el país de los lagos. El Cocibolca, el mayor de Centroamérica, y el Xolotlán ocupan una gran depresión que cruza el país, y a su alrededor se reparten lagunas de cráter como Apoyo, Xiloá, Apoyeque y Asososca, humedales como Los Guatuzos, San Miguelito y Tisma, y ríos como el San Juan y el Coco. Estas aguas dulces albergan una fauna sorprendente: tiburones toro y peces sierra que suben desde el mar, el gaspar, un pez de linaje muy antiguo, y mojarras que han dado origen a especies nuevas dentro de lagunas cratéricas, un fenómeno estudiado por biólogos de todo el mundo. Los humedales reciben miles de aves acuáticas. Sedimentación, contaminación, especies introducidas y sequías son los grandes retos para estos ecosistemas.",
+      "clima": "Varía según la ubicación: tropical seco en las cuencas del Pacífico y húmedo hacia el río San Juan y el Caribe; los niveles de lagos y humedales suben en la estación lluviosa (mayo-octubre) y bajan en la seca.",
+      "ecosistemas": [
+        "lagos tectónicos de agua dulce",
+        "lagunas cratéricas",
+        "humedales lacustres y pantanos",
+        "ríos y bosques de galería",
+        "islas y archipiélagos lacustres",
+        "embalses"
+      ],
+      "especies_emblematicas": [
+        "tiburon-toro",
+        "pez-sierra",
+        "gaspar",
+        "guapote-tigre",
+        "mojarra-midas",
+        "mojarra-flecha",
+        "sabalo-real",
+        "cuajipal",
+        "pato-aguja",
+        "jabiru",
+        "espatula-rosada",
+        "garza-tigre",
+        "nutria"
+      ],
+      "areas_destacadas": [
+        "lago-cocibolca",
+        "lago-xolotlan",
+        "laguna-de-apoyo",
+        "ometepe",
+        "isletas-granada",
+        "solentiname",
+        "los-guatuzos",
+        "san-miguelito",
+        "tisma",
+        "asososca",
+        "apanas",
+        "playitas-moyua-tecomapa",
+        "rio-coco"
+      ],
+      "color": "#1E88E5"
+    },
+    {
+      "id": "marino-pacifico",
+      "nombre": "Océano Pacífico y costa pacífica",
+      "descripcion": "La costa pacífica de Nicaragua recorre unos 300 kilómetros desde el Golfo de Fonseca hasta la frontera con Costa Rica. Alterna playas largas, acantilados, esteros y extensos manglares, sobre todo en el noroeste, en el Estero Real, Padre Ramos y Juan Venado. Sus playas son sitios de anidación de tortugas marinas, y en La Flor y Chacocente la tortuga paslama protagoniza arribadas en las que miles de hembras salen del mar casi a la vez. Los manglares son criaderos de peces, camarones, cangrejos y de la concha negra, base de la pesca artesanal. Frente a la costa, el afloramiento de aguas frías favorece una pesca rica, y entre diciembre y abril se observan ballenas jorobadas que migran desde el norte.",
+      "clima": "Tropical seco con estación seca de noviembre a abril; los vientos alisios que cruzan el istmo enfrían el agua costera en la época seca y favorecen afloramientos ricos en nutrientes.",
+      "ecosistemas": [
+        "manglar",
+        "esteros y estuarios",
+        "playas de anidación",
+        "acantilados y costas rocosas",
+        "aguas marinas costeras y de surgencia"
+      ],
+      "especies_emblematicas": [
+        "tortuga-paslama",
+        "tortuga-baula",
+        "tortuga-carey",
+        "tortuga-verde",
+        "ballena-jorobada",
+        "pelicano-pardo",
+        "fragata",
+        "cocodrilo",
+        "garza-tigre",
+        "mangle-rojo",
+        "concha-negra",
+        "pargo-lunarejo",
+        "pez-gallo",
+        "pez-vela"
+      ],
+      "areas_destacadas": [
+        "la-flor",
+        "chacocente",
+        "juan-venado",
+        "estero-real",
+        "golfo-fonseca"
+      ],
+      "color": "#3949AB"
+    },
+    {
+      "id": "marino-caribe",
+      "nombre": "Mar Caribe, cayos y costa caribeña",
+      "descripcion": "El Caribe nicaragüense tiene la plataforma continental más amplia de Centroamérica: aguas cálidas y poco profundas donde crecen extensas praderas de pastos marinos, arrecifes de coral y cientos de cayos, como los Cayos Miskitos y los Cayos Perlas, además de las Islas del Maíz. A lo largo de la costa se suceden grandes lagunas costeras, como Laguna de Perlas y la bahía de Bluefields, bordeadas de manglares. Estos ecosistemas sostienen la pesca de langosta, cambute, camarón y peces de la que dependen las comunidades miskitu, creoles, garífunas y mestizas. Aquí se alimentan miles de tortugas verdes y anida la tortuga carey, y en las lagunas vive el manatí. Una ley nacional declaró además una amplia Reserva de Biosfera del Caribe Nicaragüense en el mar territorial y la zona económica exclusiva.",
+      "clima": "Tropical húmedo, con lluvias abundantes casi todo el año y un periodo algo más seco entre febrero y abril; temporada de huracanes de junio a noviembre.",
+      "ecosistemas": [
+        "arrecifes de coral",
+        "praderas de pastos marinos",
+        "cayos e islas",
+        "lagunas costeras",
+        "manglar",
+        "playas de anidación"
+      ],
+      "especies_emblematicas": [
+        "manati",
+        "tortuga-verde",
+        "tortuga-carey",
+        "langosta-del-caribe",
+        "cambute",
+        "coral-cuerno-de-alce",
+        "pez-loro-arcoiris",
+        "pez-angel-reina",
+        "sabalo-real",
+        "robalo",
+        "tiburon-toro",
+        "mangle-rojo",
+        "fragata"
+      ],
+      "areas_destacadas": [
+        "cayos-miskitos",
+        "cayos-perlas",
+        "corn-islands",
+        "laguna-de-perlas",
+        "bahia-bluefields"
+      ],
+      "color": "#00ACC1"
+    }
+  ],
+  "lugares": [
+    {
+      "nombre": "Managua",
+      "departamento": "Managua",
+      "coordenadas": [
+        12.1364,
+        -86.2514
+      ]
+    },
+    {
+      "nombre": "Granada",
+      "departamento": "Granada",
+      "coordenadas": [
+        11.9299,
+        -85.956
+      ]
+    },
+    {
+      "nombre": "Masaya",
+      "departamento": "Masaya",
+      "coordenadas": [
+        11.9744,
+        -86.0942
+      ]
+    },
+    {
+      "nombre": "León",
+      "departamento": "León",
+      "coordenadas": [
+        12.4349,
+        -86.878
+      ]
+    },
+    {
+      "nombre": "Chinandega",
+      "departamento": "Chinandega",
+      "coordenadas": [
+        12.6294,
+        -87.1311
+      ]
+    },
+    {
+      "nombre": "Corinto",
+      "departamento": "Chinandega",
+      "coordenadas": [
+        12.4817,
+        -87.1713
+      ]
+    },
+    {
+      "nombre": "Puerto Morazán",
+      "departamento": "Chinandega",
+      "coordenadas": [
+        12.85,
+        -87.1833
+      ]
+    },
+    {
+      "nombre": "Jinotepe",
+      "departamento": "Carazo",
+      "coordenadas": [
+        11.8478,
+        -86.1992
+      ]
+    },
+    {
+      "nombre": "Rivas",
+      "departamento": "Rivas",
+      "coordenadas": [
+        11.4371,
+        -85.8263
+      ]
+    },
+    {
+      "nombre": "San Juan del Sur",
+      "departamento": "Rivas",
+      "coordenadas": [
+        11.2542,
+        -85.8723
+      ]
+    },
+    {
+      "nombre": "Tola",
+      "departamento": "Rivas",
+      "coordenadas": [
+        11.4391,
+        -85.9386
+      ]
+    },
+    {
+      "nombre": "Moyogalpa (Ometepe)",
+      "departamento": "Rivas",
+      "coordenadas": [
+        11.5401,
+        -85.6979
+      ]
+    },
+    {
+      "nombre": "Altagracia (Ometepe)",
+      "departamento": "Rivas",
+      "coordenadas": [
+        11.567,
+        -85.5787
+      ]
+    },
+    {
+      "nombre": "Estelí",
+      "departamento": "Estelí",
+      "coordenadas": [
+        13.0919,
+        -86.3538
+      ]
+    },
+    {
+      "nombre": "Ocotal",
+      "departamento": "Nueva Segovia",
+      "coordenadas": [
+        13.632,
+        -86.4744
+      ]
+    },
+    {
+      "nombre": "Somoto",
+      "departamento": "Madriz",
+      "coordenadas": [
+        13.481,
+        -86.5831
+      ]
+    },
+    {
+      "nombre": "Jinotega",
+      "departamento": "Jinotega",
+      "coordenadas": [
+        13.091,
+        -86.0016
+      ]
+    },
+    {
+      "nombre": "San Rafael del Norte",
+      "departamento": "Jinotega",
+      "coordenadas": [
+        13.2136,
+        -86.1105
+      ]
+    },
+    {
+      "nombre": "Wiwilí de Jinotega",
+      "departamento": "Jinotega",
+      "coordenadas": [
+        13.62,
+        -85.8182
+      ]
+    },
+    {
+      "nombre": "Matagalpa",
+      "departamento": "Matagalpa",
+      "coordenadas": [
+        12.9256,
+        -85.9175
+      ]
+    },
+    {
+      "nombre": "Ciudad Darío",
+      "departamento": "Matagalpa",
+      "coordenadas": [
+        12.7278,
+        -86.1234
+      ]
+    },
+    {
+      "nombre": "Boaco",
+      "departamento": "Boaco",
+      "coordenadas": [
+        12.4727,
+        -85.6599
+      ]
+    },
+    {
+      "nombre": "Juigalpa",
+      "departamento": "Chontales",
+      "coordenadas": [
+        12.1061,
+        -85.3652
+      ]
+    },
+    {
+      "nombre": "San Carlos",
+      "departamento": "Río San Juan",
+      "coordenadas": [
+        11.1231,
+        -84.7783
+      ]
+    },
+    {
+      "nombre": "El Castillo",
+      "departamento": "Río San Juan",
+      "coordenadas": [
+        11.0189,
+        -84.397
+      ]
+    },
+    {
+      "nombre": "San Juan de Nicaragua",
+      "departamento": "Río San Juan",
+      "coordenadas": [
+        10.9488,
+        -83.7354
+      ]
+    },
+    {
+      "nombre": "Bilwi (Puerto Cabezas)",
+      "departamento": "Costa Caribe Norte",
+      "coordenadas": [
+        14.0284,
+        -83.3823
+      ]
+    },
+    {
+      "nombre": "Waspam",
+      "departamento": "Costa Caribe Norte",
+      "coordenadas": [
+        14.7407,
+        -83.9726
+      ]
+    },
+    {
+      "nombre": "Siuna",
+      "departamento": "Costa Caribe Norte",
+      "coordenadas": [
+        13.7341,
+        -84.7789
+      ]
+    },
+    {
+      "nombre": "Bonanza",
+      "departamento": "Costa Caribe Norte",
+      "coordenadas": [
+        14.0307,
+        -84.6001
+      ]
+    },
+    {
+      "nombre": "Bluefields",
+      "departamento": "Costa Caribe Sur",
+      "coordenadas": [
+        12.0137,
+        -83.7635
+      ]
+    },
+    {
+      "nombre": "Laguna de Perlas",
+      "departamento": "Costa Caribe Sur",
+      "coordenadas": [
+        12.338,
+        -83.6729
+      ]
+    },
+    {
+      "nombre": "El Rama",
+      "departamento": "Costa Caribe Sur",
+      "coordenadas": [
+        12.159,
+        -84.2197
+      ]
+    },
+    {
+      "nombre": "Nueva Guinea",
+      "departamento": "Costa Caribe Sur",
+      "coordenadas": [
+        11.6871,
+        -84.4564
+      ]
+    },
+    {
+      "nombre": "Corn Island",
+      "departamento": "Costa Caribe Sur",
+      "coordenadas": [
+        12.17,
+        -83.045
+      ]
+    },
+    {
+      "nombre": "Little Corn Island",
+      "departamento": "Costa Caribe Sur",
+      "coordenadas": [
+        12.2885,
+        -82.9829
+      ]
+    }
+  ]
+}
