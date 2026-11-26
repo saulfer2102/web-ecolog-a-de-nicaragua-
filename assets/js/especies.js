@@ -1,5 +1,5 @@
 // Catálogo de especies curadas + buscador universal (iNaturalist).
-import { $, $$, esc, layout, url, param, norm, debounce, GRUPOS, speciesCard, fillCardPhoto, photoUrl, loadingHTML, errorHTML, badgeUICN } from './common.js';
+import { $, $$, esc, fmt, layout, url, param, norm, debounce, GRUPOS, speciesCard, fillCardPhoto, photoUrl, photoCredit, loadingHTML, errorHTML, badgeUICN } from './common.js';
 import { inat, inatIUCN } from './api.js';
 import { db, taxaParaEspecies } from './datos.js';
 
@@ -16,6 +16,7 @@ const grid = $('#grid');
 grid.innerHTML = loadingHTML('Cargando catálogo…');
 
 db().then((D) => {
+  $('#n-curadas').textContent = `(${D.especies.length})`;
   const counts = {};
   for (const s of D.especies) counts[s.grupo] = (counts[s.grupo] || 0) + 1;
   $('#f-grupo').innerHTML = `<button type="button" data-v="">Todas (${D.especies.length})</button>` +
@@ -51,6 +52,7 @@ db().then((D) => {
     const p = new URLSearchParams();
     if (f.q) p.set('q', f.q); if (f.grupo) p.set('grupo', f.grupo); if (f.region) p.set('region', f.region);
     if (f.amenazadas) p.set('amenazadas', '1'); if (f.endemicas) p.set('endemicas', '1'); if (f.simbolos) p.set('simbolos', '1');
+    if (!$('#vista-curadas').classList.contains('hidden')) p.set('vista', 'curadas');
     history.replaceState(null, '', p.toString() ? `?${p}` : location.pathname);
   };
   render();

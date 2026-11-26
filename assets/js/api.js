@@ -35,6 +35,13 @@ export const inat = {
       quality_grade: quality,
     });
   },
+  /** Especies observadas en Nicaragua (o en otro lugar), ordenadas por número de observaciones. */
+  placeSpecies({ iconic, q, page = 1, perPage = 48, threatened, introduced, placeId = CONFIG.inatPlaceId }) {
+    return inatGet('/observations/species_counts', {
+      place_id: placeId, verifiable: true, iconic_taxa: iconic, q, search_on: q ? 'names' : undefined,
+      threatened: threatened ? true : undefined, introduced: introduced ? true : undefined, page, per_page: perPage,
+    });
+  },
   /** Conteo de especies en un lugar (place_id). */
   placeSpeciesCount(placeId = CONFIG.inatPlaceId) {
     return inatGet('/observations/species_counts', { place_id: placeId, per_page: 1, verifiable: true }).then((d) => d.total_results);

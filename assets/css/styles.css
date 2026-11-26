@@ -470,3 +470,4 @@ table.data tr:last-child td { border-bottom: none; }
 .sp-name::first-letter, .mini-txt b::first-letter, .sp-title h1::first-letter { text-transform: uppercase; }
 .sp-row .sp-name { display: inline-block; }
 .chips .chip { max-width: 100%; overflow: hidden; text-overflow: ellipsis; }
+.chip.chip-ficha { background: var(--sacuanjoche); color: #2c2000; border-color: transparent; }

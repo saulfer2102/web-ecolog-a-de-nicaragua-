@@ -15,16 +15,39 @@
   <main>
     <section class="page-head">
       <div class="container">
-        <span class="eyebrow">Catálogo curado</span>
+        <span class="eyebrow">Catálogo</span>
         <h1>Especies de Nicaragua</h1>
-        <p class="lead">Una selección de especies emblemáticas, endémicas, amenazadas o importantes para la gente, con fichas escritas a partir de fuentes científicas. Más abajo puedes buscar <strong>cualquier</strong> especie en los datos abiertos de iNaturalist y GBIF.</p>
+        <p class="lead">Explora todas las especies registradas en el país por la comunidad científica y ciudadana, o las <strong>fichas completas</strong> escritas a partir de fuentes científicas para especies emblemáticas, endémicas y amenazadas.</p>
+        <div class="tabs" role="tablist" id="vista-tabs" style="margin:20px 0 0">
+          <button role="tab" data-v="todas" aria-selected="true">Todas las especies <span class="muted" id="n-todas"></span></button>
+          <button role="tab" data-v="curadas" aria-selected="false">Fichas completas <span class="muted" id="n-curadas"></span></button>
+        </div>
       </div>
     </section>
 
-    <section class="container">
+    <section class="container" id="vista-todas">
+      <div class="filters">
+        <div class="search-bar">
+          <label for="t-buscar" class="visually-hidden">Buscar entre las especies de Nicaragua</label>
+          <input id="t-buscar" class="input" type="search" placeholder="Buscar por nombre común o científico: colibrí, ceiba, Morpho…" autocomplete="off">
+        </div>
+        <div class="seg" id="t-grupo" role="group" aria-label="Grupo"></div>
+        <div class="filters-row">
+          <label class="check"><input type="checkbox" id="t-amenazadas"> Amenazadas</label>
+          <label class="check"><input type="checkbox" id="t-introducidas"> Introducidas</label>
+          <span class="spacer"></span>
+          <span class="result-count" id="t-conteo"></span>
+        </div>
+      </div>
+      <div class="grid grid-4" id="t-grid"></div>
+      <div style="text-align:center;margin-top:24px"><button class="btn btn-secondary hidden" id="t-mas" type="button">Ver más especies</button></div>
+      <p class="small muted" style="margin-top:20px">Especies con observaciones verificables (con foto o sonido, fecha y lugar) en Nicaragua según <a href="https://www.inaturalist.org/places/nicaragua" target="_blank" rel="noopener">iNaturalist</a>, ordenadas por número de observaciones. "Amenazadas" e "Introducidas" usan las listas de estado de conservación y de especies introducidas de iNaturalist. Las especies sin ficha completa muestran un resumen automático de Wikipedia y datos en vivo.</p>
+    </section>
+
+    <section class="container hidden" id="vista-curadas">
       <div class="filters" id="filtros">
         <div class="search-bar">
-          <label for="buscar" class="visually-hidden">Buscar en el catálogo</label>
+          <label for="buscar" class="visually-hidden">Buscar en las fichas completas</label>
           <input id="buscar" class="input" type="search" placeholder="Buscar por nombre común o científico…" autocomplete="off">
         </div>
         <div class="seg" id="f-grupo" role="group" aria-label="Grupo"></div>
@@ -51,8 +74,8 @@
       <div class="container">
         <div class="card card-body" style="padding:28px">
           <span class="eyebrow">Buscador universal</span>
-          <h2>¿No encuentras una especie?</h2>
-          <p class="muted">Busca entre los cientos de miles de taxones de iNaturalist. Verás su descripción (resumen de Wikipedia), fotos, mapa de registros en Nicaragua según GBIF y en qué meses se observa.</p>
+          <h2>¿Buscas una especie de otro país?</h2>
+          <p class="muted">Busca entre todos los taxones de iNaturalist, aunque no tengan registros en Nicaragua. Verás su descripción (resumen de Wikipedia), fotos, mapa de registros en Nicaragua según GBIF y en qué meses se observa.</p>
           <div class="search-bar" style="max-width:640px">
             <label for="buscar-global" class="visually-hidden">Buscar cualquier especie</label>
             <input id="buscar-global" class="input" type="search" placeholder="Ej. colibrí, orquídea, Morpho, Ficus…" autocomplete="off">
@@ -62,6 +85,7 @@
       </div>
     </section>
   </main>
+  <script type="module" src="assets/js/especies-todas.js"></script>
   <script type="module" src="assets/js/especies.js"></script>
 </body>
 </html>
