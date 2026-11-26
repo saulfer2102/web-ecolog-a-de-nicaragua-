@@ -44,6 +44,10 @@ contrasta la categoría UICN, revisa los vínculos y las coordenadas, y genera `
 Para revisar y aprobar contenido, lee **[docs/GUIA-VERIFICACION.md](docs/GUIA-VERIFICACION.md)**.
 El formato de cada archivo está en **[docs/ESQUEMA-DATOS.md](docs/ESQUEMA-DATOS.md)**.
 
+## Sitio publicado
+
+**https://saulfer2102.github.io/atlas-vivo-nicaragua/** (GitHub Pages)
+
 ## Ver el sitio en tu computadora
 
 Es un sitio estático: no hay que compilar nada ni hace falta un servidor propio. Pero el navegador no
@@ -51,7 +55,7 @@ deja leer los archivos `data/*.json` si abres `index.html` con doble clic, así 
 servidor local:
 
 ```bash
-cd web-ecolog-a-de-nicaragua-
+cd atlas-vivo-nicaragua
 python3 -m http.server 8000
 # abre http://localhost:8000
 ```
@@ -60,7 +64,7 @@ python3 -m http.server 8000
 
 1. En GitHub, ve a **Settings → Pages**.
 2. En *Source* elige **Deploy from a branch**, luego la rama (por ejemplo `main`) y la carpeta `/ (root)`.
-3. Guarda. En uno o dos minutos el sitio estará en `https://<usuario>.github.io/web-ecolog-a-de-nicaragua-/`.
+3. Guarda. En uno o dos minutos el sitio estará en `https://<usuario>.github.io/atlas-vivo-nicaragua/`.
 
 ## Estructura
 

@@ -2,7 +2,7 @@
 export const CONFIG = {
   nombreSitio: 'Atlas Vivo de Nicaragua',
   // Repositorio del proyecto (se usa para el enlace "Reportar un error").
-  repoUrl: 'https://github.com/saulfer2102/web-ecolog-a-de-nicaragua-',
+  repoUrl: 'https://github.com/saulfer2102/atlas-vivo-nicaragua',
 
   // iNaturalist: identificador del lugar "Nicaragua".
   inatPlaceId: 6925,
